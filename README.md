@@ -1,7 +1,7 @@
 ### Reviewing Protocol for Systematic Literature Review on Telemonitoring and Wearable Devices
 
 #### 1. **Objective**
-The primary objective of this systematic review is to explore recent developments in telemonitoring and wearable devices in healthcare from 2020 onwards. The review focuses on the following **seven topics**:
+The primary objective of this systematic review is to explore recent developments in telemonitoring and wearable devices in healthcare between January 2020 and December 2024. The review focuses on the following **seven topics**:
 1. Accessibility
 2. Artificial Intelligence and Machine Learning Integration
 3. Communication Protocols
@@ -10,7 +10,7 @@ The primary objective of this systematic review is to explore recent development
 6. Laws and Regulations
 7. Usability
 
-This study evaluates how these technologies impact healthcare delivery and assesses the research landscape across the last few years (January 2020-December 2024).
+This study evaluates how these technologies impact healthcare delivery and assesses the research landscape across the last few years.
 
 #### 2. **Databases and Search Strategy**
 
@@ -241,9 +241,9 @@ All data was downloaded by topic on **January 6th, 2025**, and stored in the `/d
 
 #### 3. **Screening Process**
 The screening process was conducted according to PRISMA principles and included the following steps:
-1. **SCImago Quartiale 1 (Q1) Screening**: Non-Q1 papers are removed from the analysis.
+1. **SCImago Quartile 1 (Q1) Screening**: Non-Q1 papers are removed from the analysis.
 2. **Title and Abstract Screening**: Reports have been screened based on title and abstract against the eligibility criteria.
-3. **Full-Text Review**: **TODO**
+3. **Full-Text Review**: Reports have been included in the final analysis after reading the full-text.
 
 #### 4. **Deduplication Process**
 
