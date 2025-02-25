@@ -1,0 +1,685 @@
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 12
+SP  - e58441
+SN  - 2291-5222
+JF  - JMIR mHealth and uHealth
+JO  - JMIR Mhealth Uhealth
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L645452143&from=export
+U2  - L645452143
+C5  - 39365164
+DB  - Medline
+U3  - 2024-10-10
+U4  - 2024-12-06
+L2  - http://dx.doi.org/10.2196/58441
+DO  - 10.2196/58441
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=22915222&id=doi:10.2196%2F58441&atitle=A+Remote+Patient+Monitoring+System+With+Feedback+Mechanisms+Using+a+Smartwatch%3A+Concept%2C+Implementation%2C+and+Evaluation+Based+on+the+activeDCM+Randomized+Controlled+Trial&stitle=JMIR+Mhealth+Uhealth&title=JMIR+mHealth+and+uHealth&volume=12&issue=&spage=e58441&epage=&aulast=Wettstein&aufirst=Reto&auinit=R.&aufull=Wettstein+R.&coden=&isbn=&pages=e58441-&date=2024&auinit1=R&auinitm=
+A1  - Wettstein, R.
+A1  - Sedaghat-Hamedani, F.
+A1  - Heinze, O.
+A1  - Amr, A.
+A1  - Reich, C.
+A1  - Betz, T.
+A1  - Kayvanpour, E.
+A1  - Merzweiler, A.
+A1  - Büsch, C.
+A1  - Mohr, I.
+A1  - Friedmann-Bette, B.
+A1  - Frey, N.
+A1  - Dugas, M.
+A1  - Meder, B.
+M1  - (Wettstein R.; Merzweiler A.; Dugas M.) Institute of Medical Informatics, Heidelberg University Hospital, Heidelberg, Germany
+M1  - (Sedaghat-Hamedani F.; Amr A.; Reich C.; Betz T.; Kayvanpour E.; Mohr I.; Frey N.; Meder B.) Institute for Cardiomyopathies Heidelberg, Heidelberg University Hospital, Heidelberg, Germany
+M1  - (Sedaghat-Hamedani F.; Amr A.; Reich C.; Kayvanpour E.; Frey N.; Meder B.) German Centre for Cardiovascular Research, Germany
+M1  - (Sedaghat-Hamedani F.; Amr A.; Reich C.; Betz T.; Kayvanpour E.; Mohr I.; Frey N.; Meder B.) Department of Internal Medicine III, Heidelberg University Hospital, Heidelberg, Germany
+M1  - (Heinze O.) RheinMain University of Applied Sciences, Wiesbaden, Germany
+M1  - (Betz T.; Friedmann-Bette B.) Department of Sports Medicine, Medical Clinic, Heidelberg University Hospital, Heidelberg, Germany
+M1  - (Büsch C.) Institute of Medical Biometry, Heidelberg University, Heidelberg, Germany
+T1  - A Remote Patient Monitoring System With Feedback Mechanisms Using a Smartwatch: Concept, Implementation, and Evaluation Based on the activeDCM Randomized Controlled Trial
+LA  - English
+KW  - adult
+KW  - aged
+KW  - controlled study
+KW  - devices
+KW  - feedback system
+KW  - female
+KW  - human
+KW  - information processing
+KW  - male
+KW  - middle aged
+KW  - mobile application
+KW  - physiologic monitoring
+KW  - procedures
+KW  - prospective study
+KW  - psychology
+KW  - randomized controlled trial
+KW  - wearable computer
+N2  - BACKGROUND: Technological advances allow for recording and sharing health-related data in a patient-centric way using smartphones and wearables. Secure sharing of such patient-generated data with physicians would enable close management of individual health trajectories, monitoring of risk factors, and asynchronous feedback. However, most remote patient monitoring (RPM) systems currently available are not fully integrated into hospital IT systems or lack a patient-centric design. OBJECTIVE: The objective of this study was to conceptualize and implement a user-friendly, reusable, interoperable, and secure RPM system incorporating asynchronous feedback mechanisms using a broadly available consumer wearable (Apple Watch). In addition, this study sought to evaluate factors influencing patient acceptance of such systems. METHODS: The RPM system requirements were established through focus group sessions. Subsequently, a system concept was designed and implemented using an iterative approach ensuring technical feasibility from the beginning. To assess clinical feasibility, the system was used as part of the activeDCM prospective randomized interventional study focusing on dilated cardiomyopathy. Each patient used the system for at least 12 months. The System Usability Scale was used to measure usability from a subjective patient perspective. In addition, an evaluation was conducted on the objective wearable interaction frequency as well as the completeness of transmitted data classified into sensor-based health data (SHD) and patient-reported outcome measures (PROMs). Descriptive statistics using box plots and bootstrapped multiple linear regression with 95% CIs were used for evaluation analyzing the influence of age, sex, device experience, and intervention group membership. RESULTS: The RPM system comprised 4 interoperable components: patient devices, a data server, a data viewer, and a notification service. The system was evaluated with 95 consecutive patients with dilated cardiomyopathy (28/95, 29% female; mean age 50, SD 12 y) who completed the activeDCM study protocol. The system's app achieved a mean System Usability Scale score of 78 (SD 17), which was most influenced by device experience. In total, 87% (83/95) of the patients could integrate the use of the app well or very well into their daily routine, and 71% (67/95) saw a benefit of the RPM system for management of their health condition. On average, patients interacted with the wearable on 61% (SD 26%) of days enrolled in the study. SHD were available on average for 78% (SD 23%) of days, and PROM data were available on 64% (SD 27%) of weeks enrolled in the study. Wearable interaction frequency, SHD, and PROM completeness were most influenced by intervention group membership. CONCLUSIONS: Our results mark a first step toward integrating RPM systems based on a consumer wearable device for primary patient input into standardized clinical workflows. They can serve as a blueprint for creating a user-friendly, reusable, interoperable, and secure RPM system that can be integrated into patients' daily routines.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 14
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L644846668&from=export
+U2  - L644846668
+C5  - 39066012
+DB  - Medline
+U3  - 2024-08-01
+U4  - 2024-08-02
+L2  - http://dx.doi.org/10.3390/s24144614
+DO  - 10.3390/s24144614
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs24144614&atitle=RADAR-IoT%3A+An+Open-Source%2C+Interoperable%2C+and+Extensible+IoT+Gateway+Framework+for+Health+Research&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=24&issue=14&spage=&epage=&aulast=Ranjan&aufirst=Yatharth&auinit=Y.&aufull=Ranjan+Y.&coden=&isbn=&pages=-&date=2024&auinit1=Y&auinitm=
+A1  - Ranjan, Y.
+A1  - Chang, J.
+A1  - Sankesara, H.
+A1  - Conde, P.
+A1  - Rashid, Z.
+A1  - Dobson, R.J.B.
+A1  - Folarin, A.
+M1  - (Ranjan Y.; Sankesara H.; Conde P.; Rashid Z.; Dobson R.J.B.; Folarin A.) Biostatistics and Health Informatics, Institute of Psychiatry, Psychology & Neuroscience, King's College London, London, United Kingdom
+M1  - (Chang J.) Saw Swee Hock School of Public Health, National University of Singapore, Singapore
+T1  - RADAR-IoT: An Open-Source, Interoperable, and Extensible IoT Gateway Framework for Health Research
+LA  - English
+KW  - cloud computing
+KW  - devices
+KW  - human
+KW  - internet of things
+KW  - telecommunication
+KW  - telemedicine
+KW  - wearable computer
+N2  - IoT sensors offer a wide range of sensing capabilities, many of which have potential health applications. Existing solutions for IoT in healthcare have notable limitations, such as closed-source, limited I/O protocols, limited cloud platform support, and missing specific functionality for health use cases. Developing an open-source internet of things (IoT) gateway solution that addresses these limitations and provides reliability, broad applicability, and utility is highly desirable. Combining a wide range of sensor data streams from IoT devices with ambulatory mHealth data would open up the potential to provide a detailed 360-degree view of the relationship between patient physiology, behavior, and environment. We have developed RADAR-IoT as an open-source IoT gateway framework, to harness this potential. It aims to connect multiple IoT devices at the edge, perform limited on-device data processing and analysis, and integrate with cloud-based mobile health platforms, such as RADAR-base, enabling real-time data processing. We also present a proof-of-concept data collection from this framework, using prototype hardware in two locations. The RADAR-IoT framework, combined with the RADAR-base mHealth platform, provides a comprehensive view of a user's health and environment by integrating static IoT sensors and wearable devices. Despite its current limitations, it offers a promising open-source solution for health research, with potential applications in managing infection control, monitoring chronic pulmonary disorders, and assisting patients with impaired motor control or cognitive ability.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 9
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L644235544&from=export
+U2  - L644235544
+C5  - 38732910
+DB  - Medline
+U4  - 2024-05-17
+L2  - http://dx.doi.org/10.3390/s24092804
+DO  - 10.3390/s24092804
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs24092804&atitle=Developing+a+Novel+Ontology+for+Cybersecurity+in+Internet+of+Medical+Things-Enabled+Remote+Patient+Monitoring&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=24&issue=9&spage=&epage=&aulast=Bughio&aufirst=Kulsoom+S.&auinit=K.S.&aufull=Bughio+K.S.&coden=&isbn=&pages=-&date=2024&auinit1=K&auinitm=S
+A1  - Bughio, K.S.
+A1  - Cook, D.M.
+A1  - Shah, S.A.A.
+M1  - (Bughio K.S.; Cook D.M.; Shah S.A.A.) School of Science, Edith Cowan University, 270 Joondalup Dr, Joondalup, WA 6027, Australia
+T1  - Developing a Novel Ontology for Cybersecurity in Internet of Medical Things-Enabled Remote Patient Monitoring
+LA  - English
+KW  - computer security
+KW  - devices
+KW  - human
+KW  - internet of things
+KW  - physiologic monitoring
+KW  - procedures
+KW  - telemedicine
+N2  - IoT has seen remarkable growth, particularly in healthcare, leading to the rise of IoMT. IoMT integrates medical devices for real-time data analysis and transmission but faces challenges in data security and interoperability. This research identifies a significant gap in the existing literature regarding a comprehensive ontology for vulnerabilities in medical IoT devices. This paper proposes a fundamental domain ontology named MIoT (Medical Internet of Things) ontology, focusing on cybersecurity in IoMT (Internet of Medical Things), particularly in remote patient monitoring settings. This research will refer to similar-looking acronyms, IoMT and MIoT ontology. It is important to distinguish between the two. IoMT is a collection of various medical devices and their applications within the research domain. On the other hand, MIoT ontology refers to the proposed ontology that defines various concepts, roles, and individuals. MIoT ontology utilizes the knowledge engineering methodology outlined in Ontology Development 101, along with the structured life cycle, and establishes semantic interoperability among medical devices to secure IoMT assets from vulnerabilities and cyberattacks. By defining key concepts and relationships, it becomes easier to understand and analyze the complex network of information within the IoMT. The MIoT ontology captures essential key terms and security-related entities for future extensions. A conceptual model is derived from the MIoT ontology and validated through a case study. Furthermore, this paper outlines a roadmap for future research, highlighting potential impacts on security automation in healthcare applications.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 310
+SP  - 1066
+EP  - 1070
+SN  - 1879-8365
+JF  - Studies in health technology and informatics
+JO  - Stud Health Technol Inform
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643336101&from=export
+U2  - L643336101
+C5  - 38269978
+DB  - Medline
+U4  - 2024-02-02
+L2  - http://dx.doi.org/10.3233/SHTI231128
+DO  - 10.3233/SHTI231128
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18798365&id=doi:10.3233%2FSHTI231128&atitle=Fighting+the+Same+Battles+on+a+New+Battleground%3A+Embedding+Technologies+in+a+Virtual+Care+Environment&stitle=Stud+Health+Technol+Inform&title=Studies+in+health+technology+and+informatics&volume=310&issue=&spage=1066&epage=1070&aulast=Bamgboje-Ayodele&aufirst=Adeola&auinit=A.&aufull=Bamgboje-Ayodele+A.&coden=&isbn=&pages=1066-1070&date=2024&auinit1=A&auinitm=
+A1  - Bamgboje-Ayodele, A.
+A1  - Boscolo, A.
+A1  - Hutchings, O.
+A1  - Shaw, M.
+A1  - Burger, M.
+A1  - Taggart, R.
+A1  - Simpson, M.
+A1  - Shaw, T.
+A1  - McPhail, S.
+A1  - Baysari, M.T.
+M1  - (Bamgboje-Ayodele A.; Shaw T.; Baysari M.T.) Biomedical Informatics and Digital Health, School of Medical Sciences, Faculty of Medicine and Health, University of Sydney, Australia
+M1  - (Boscolo A.; Hutchings O.; Shaw M.; Burger M.; Taggart R.) Sydney Local Health District, Australia
+M1  - (Simpson M.) eHealth New South Wales, Australia
+M1  - (McPhail S.) Australian Centre for Health Services Innovation, Queensland University of Technology, Brisbane, Australia
+T1  - Fighting the Same Battles on a New Battleground: Embedding Technologies in a Virtual Care Environment
+LA  - English
+KW  - Australia
+KW  - coronavirus disease 2019
+KW  - health care facility
+KW  - hospital
+KW  - human
+KW  - leadership
+N2  - The pandemic necessitated the rapid design, development and implementation of technologies to allow remote monitoring of COVID-19 patients at home. This study aimed to explore the environmental barriers and facilitators to the successful development and implementation of virtual care technologies in this fast-paced context. We interviewed eight staff at a virtual hospital in Australia. We found key facilitators to be a learning organizational culture and strong leadership support. Barriers included interoperability issues, legislative constraints and unrealistic clinician expectations. Also, we found that a combination of hot-desking and the lack of single sign on in the virtual care environment, was reported to create additional work for staff. Overall, despite this unique context, our findings are consistent with prior work examining design and implementation of healthcare technologies. The fast pace and high-pressure environment appeared to magnify previously reported barriers, but also cultivate and foster a learning culture.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 6
+SN  - 2673-253X
+JF  - Frontiers in Digital Health
+JO  - Front. Digit. Health
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2028853757&from=export
+U2  - L2028853757
+DB  - Embase
+U3  - 2024-03-07
+U4  - 2024-03-12
+L2  - http://dx.doi.org/10.3389/fdgth.2024.1259409
+DO  - 10.3389/fdgth.2024.1259409
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=2673253X&id=doi:10.3389%2Ffdgth.2024.1259409&atitle=Experiences%2C+barriers+and+expectations+regarding+current+patient+monitoring+systems+among+ICU+nurses+in+a+University+Hospital+in+Lebanon%3A+a+qualitative+study&stitle=Front.+Digit.+Health&title=Frontiers+in+Digital+Health&volume=6&issue=&spage=&epage=&aulast=Rayan&aufirst=Ahmad&auinit=A.&aufull=Rayan+A.&coden=&isbn=&pages=-&date=2024&auinit1=A&auinitm=
+A1  - Rayan, A.
+A1  - Al-Ghabeesh, S.H.
+A1  - Fawaz, M.
+A1  - Behar, A.
+A1  - Toumi, A.
+M1  - (Rayan A.) Faculty of Nursing, Zarqa University, Zarqa, Jordan
+M1  - (Rayan A.) University of Business and Technology (UBT), Jeddah, Saudi Arabia
+M1  - (Al-Ghabeesh S.H., suhair_alghabeesh@yahoo.com) Faculty of Nursing, Al-Zaytoonah University of Jordan, Amman, Jordan
+M1  - (Fawaz M.; Behar A.) Department Faculty of Health Sciences, Beirut Arab University, Beirut, Lebanon
+M1  - (Toumi A.) Health Information Management Department, Liwa College of Technology, Abu Dhabi, United Arab Emirates
+AD  - S.H. Al-Ghabeesh, Faculty of Nursing, Al-Zaytoonah University of Jordan, Amman, Jordan
+T1  - Experiences, barriers and expectations regarding current patient monitoring systems among ICU nurses in a University Hospital in Lebanon: a qualitative study
+LA  - English
+KW  - patient monitor
+KW  - adult
+KW  - article
+KW  - awareness
+KW  - clinical article
+KW  - data analysis
+KW  - education
+KW  - female
+KW  - health care personnel
+KW  - health care quality
+KW  - human
+KW  - human experiment
+KW  - intensive care unit
+KW  - job experience
+KW  - male
+KW  - marriage
+KW  - normal human
+KW  - nurse
+KW  - qualitative research
+KW  - semi structured interview
+KW  - university hospital
+N2  - Purpose: The aim of the study is to assess the experiences, barriers, and expectations regarding current patient monitoring systems among intensive care unit nurses at one university hospital. Methods: A qualitative exploratory study approach was adopted to test the research questions. Results: Intensive care unit personnel placed a high value on practical criteria such as user friendliness and visualization while assessing the present monitoring system. Poor alarm handling was recognized as possible patient safety hazards. The necessity of high accessibility was highlighted once again for a prospective system; wireless, noninvasive, and interoperability of monitoring devices were requested; and smart phones for distant patient monitoring and alert management improvement were required. Conclusion: Core comments from ICU personnel are included in this qualitative research on patient monitoring. All national healthcare involved parties must focus more on user-derived insights to ensure a speedy and effective introduction of digital health technologies in the ICU. The findings from the alarm control or mobile device studies might be utilized to train ICU personnel to use new technology, minimize alarm fatigue, increase medical device accessibility, and develop interoperability standards in critical care practice.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 309
+SP  - 106
+EP  - 110
+SN  - 1879-8365
+JF  - Studies in health technology and informatics
+JO  - Stud Health Technol Inform
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L642592687&from=export
+U2  - L642592687
+C5  - 37869817
+DB  - Medline
+U3  - 2023-11-02
+U4  - 2023-11-09
+L2  - http://dx.doi.org/10.3233/SHTI230751
+DO  - 10.3233/SHTI230751
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18798365&id=doi:10.3233%2FSHTI230751&atitle=Design+and+Adoption+of+a+FHIR+IG+to+Support+a+Telemonitoring+Environment+in+Gatekeeper+Project&stitle=Stud+Health+Technol+Inform&title=Studies+in+health+technology+and+informatics&volume=309&issue=&spage=106&epage=110&aulast=Gazzarata&aufirst=Roberta&auinit=R.&aufull=Gazzarata+R.&coden=&isbn=&pages=106-110&date=2023&auinit1=R&auinitm=
+A1  - Gazzarata, R.
+A1  - Chronaki, C.
+A1  - Ricciardi, F.
+A1  - Giuliani, F.
+A1  - Zampognaro, P.
+A1  - Mercalli, F.
+A1  - Allocca, C.
+A1  - Gaeta, E.
+A1  - Fico, G.
+A1  - Cangioli, G.
+M1  - (Gazzarata R.; Chronaki C.; Cangioli G.) HL7 Europe, Brussels, Belgium
+M1  - (Ricciardi F.; Giuliani F.) Casa Sollievo della Sofferenza Research Hospital, San Giovanni Rotondo, Italy
+M1  - (Zampognaro P.) Engineering Ingegneria Informatica S.p.A, Roma, Italy
+M1  - (Mercalli F.) MultiMed Engineers srl, Parma, Italy
+M1  - (Allocca C.) Samsung Electronics (UK) Limited, London, United Kingdom
+M1  - (Gaeta E.; Fico G.) Universidad Politécnica de Madrid, Madrid, Spain
+T1  - Design and Adoption of a FHIR IG to Support a Telemonitoring Environment in Gatekeeper Project
+LA  - English
+KW  - aged
+KW  - artificial intelligence
+KW  - electronic health record
+KW  - health care delivery
+KW  - health level 7
+KW  - human
+KW  - non insulin dependent diabetes mellitus
+KW  - telemedicine
+N2  - Telemedicine can provide benefits in patient affected by chronic diseases or elderly citizens as part of standard routine care supported by digital health. The GATEKEEPER (GK) Project was financed to create a vendor independent platform to be adopted in medical practice and to demonstrate its effect, benefit value, and scalability in 8 connected medical use cases with some independent pilots. This paper, after a description of the GK platform architecture, is focused on the creation of a FHIR (Fast Healthcare Interoperability Resource) IG (Implementation Guide) and its adoption in specific use cases. The final aim is to combine conventional data, collected in the hospital, with unconventional data, coming from wearable devices, to exploit artificial intelligence (AI) models designed to evaluate the effectiveness of a new parsimonious risk prediction model for Type 2 diabetes (T2D).
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 27
+IS  - 5
+SP  - 2306
+EP  - 2313
+SN  - 2168-2208
+SN  - 2168-2194
+JF  - IEEE Journal of Biomedical and Health Informatics
+JO  - IEEE J. Biomedical Health Informat.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2017887982&from=export
+U2  - L2017887982
+C5  - 35439151
+DB  - Embase
+DB  - Medline
+U3  - 2022-05-02
+U4  - 2023-05-31
+L2  - http://dx.doi.org/10.1109/JBHI.2022.3168071
+DO  - 10.1109/JBHI.2022.3168071
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=21682208&id=doi:10.1109%2FJBHI.2022.3168071&atitle=SemBox%3A+Semantic+Interoperability+in+a+Box+for+Wearable+e-Health+Devices&stitle=IEEE+J.+Biomedical+Health+Informat.&title=IEEE+Journal+of+Biomedical+and+Health+Informatics&volume=27&issue=5&spage=2306&epage=2313&aulast=Pathak&aufirst=Nidhi&auinit=N.&aufull=Pathak+N.&coden=ITIBF&isbn=&pages=2306-2313&date=2023&auinit1=N&auinitm=
+A1  - Pathak, N.
+A1  - Mukherjee, A.
+A1  - Misra, S.
+M1  - (Pathak N., nidhipathak002@gmail.com) Indian Institute of Technology Kharagpur, Advanced Technology Development Center, Kharagpur, India
+M1  - (Mukherjee A., anandarupmukherjee@ieee.org; Misra S., sudip_misra@yahoo.com) Indian Institute of Technology Kharagpur, Department of Computer Science and Engineering, Kharagpur, India
+AD  - S. Misra, Indian Institute of Technology Kharagpur, Department of Computer Science and Engineering, Kharagpur, India
+T1  - SemBox: Semantic Interoperability in a Box for Wearable e-Health Devices
+LA  - English
+KW  - monitor
+KW  - sensor
+KW  - wearable computer
+KW  - article
+KW  - artificial intelligence
+KW  - data interoperability
+KW  - decision support system
+KW  - fuzzy logic
+KW  - fuzzy system
+KW  - health care
+KW  - human
+KW  - learning algorithm
+KW  - machine learning
+KW  - medical research
+KW  - medical service
+KW  - methodology
+KW  - motivation
+KW  - ontology
+KW  - patient monitoring
+KW  - semantics
+KW  - synthesis
+KW  - telehealth
+KW  - telemonitoring
+KW  - time
+N2  - In this work, we propose SemBox - Semantic interoperability in a Box, to enable wireless on-the-go communication between heterogeneous wearable health monitoring devices. It can connect wirelessly to the health monitoring devices and receive their data packets. It uses a Mamdani-based fuzzy inference system with data pre-processing to classify the received data packet into one of the classes of the vital parameters. It enables semantic interoperability by labelling and annotating the data packets based on the extracted packet information. We implement SemBox using three different health monitoring wearables, with different keywords used for each vital parameter representation in the data packet. SemBox shows a maximum classification accuracy of 85.71%, with a maximum PDR of 1 at the SemBox with varying device parameters. Overall, SemBox is a potential plug-and-play solution to achieve semantic interoperability and collaboration between heterogeneous health monitoring wearable devices, irrespective of their commercial and proprietary specifications. It is customizable for applications that use multiple heterogeneous devices for collaborative monitoring and decision support. SemBox enables interoperability among health monitoring devices, introduces flexibility and ease the inter-device dynamics in the domain of biomedical research.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 30
+IS  - 1
+SP  - 93
+EP  - 97
+SN  - 1613-2238
+SN  - 2198-1833
+JF  - Journal of Public Health (Germany)
+JO  - J. Public Health
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2013953862&from=export
+U2  - L2013953862
+DB  - Embase
+U3  - 2021-10-20
+U4  - 2022-01-12
+L2  - http://dx.doi.org/10.1007/s10389-021-01655-2
+DO  - 10.1007/s10389-021-01655-2
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=16132238&id=doi:10.1007%2Fs10389-021-01655-2&atitle=Integration+of+mobile+sensors+in+a+telemedicine+hospital+system%3A+remote-monitoring+in+COVID-19+patients&stitle=J.+Public+Health&title=Journal+of+Public+Health+%28Germany%29&volume=30&issue=1&spage=93&epage=97&aulast=M%C3%BCller&aufirst=Alexander&auinit=A.&aufull=M%C3%BCller+A.&coden=JPHHA&isbn=&pages=93-97&date=2022&auinit1=A&auinitm=
+A1  - Müller, A.
+A1  - Haneke, H.
+A1  - Kirchberger, V.
+A1  - Mastella, G.
+A1  - Dommasch, M.
+A1  - Merle, U.
+A1  - Heinze, O.
+A1  - Siegmann, A.
+A1  - Spinner, C.
+A1  - Buiatti, A.
+A1  - Laugwitz, K.-L.
+A1  - Schmidt, G.
+A1  - Martens, E.
+M1  - (Müller A.; Mastella G.; Dommasch M.; Siegmann A.; Buiatti A.; Laugwitz K.-L.; Schmidt G.; Martens E., Eimo.martens@mri.tum.de) Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, Ismaninger Str. 22, Munich, Germany
+M1  - (Haneke H.; Kirchberger V.) Board of Healthcare Management, Department Value-Based Healthcare, Charité - University Medicine, Berlin, Germany
+M1  - (Spinner C.) Department of Information Technology, Klinikum rechts der Isar, Technical University Munich, Munich, Germany
+M1  - (Merle U.) Department of Gastroenterology and Infectious Diseases, University Hospital Heidelberg, Heidelberg, Germany
+M1  - (Heinze O.) Department Medical Information Systems, University Hospital Heidelberg, Heidelberg, Germany
+M1  - (Spinner C.) Clinic for Gastroenterology, Klinikum rechts der Isar, Technical University Munich, Munich, Germany
+M1  - (Laugwitz K.-L.; Schmidt G.) German Center of Cardio-Vascular-Research (DZHK), Berlin, Germany
+AD  - E. Martens, Clinic for Cardiology, Klinikum rechts der Isar, Technical University Munich, Ismaninger Str. 22, Munich, Germany
+T1  - Integration of mobile sensors in a telemedicine hospital system: remote-monitoring in COVID-19 patients
+LA  - English
+KW  - computer interface
+KW  - Cosinuss One
+KW  - mobile phone
+KW  - mobile sensor
+KW  - network server
+KW  - patient monitor
+KW  - sensor
+KW  - article
+KW  - coronavirus disease 2019
+KW  - data integration
+KW  - data interoperability
+KW  - home quarantine
+KW  - hospital planning
+KW  - human
+KW  - information storage
+KW  - proof of concept
+KW  - telemonitoring
+KW  - Cosinuss One
+C3  - Cosinuss One
+N2  - Aim: The goal is to design and, in a next step, establish a scalable, multi-center telemonitoring platform based on existing systems for monitoring COVID-19 patients in home quarantine. In particular, the focus will be on raw data acquisition, integration of sensor data into the hospital system, structured data storage, and interoperability. Subject and methods: Data necessary for monitoring, otherwise provided in various portals, will be continuously queried and integrated into the hospital system via a new interface in this proof-of-concept work. Results: Based on extensive preliminary work at Klinikum rechts der Isar with a structured clinical database, we extend our system’s integration of raw data and visualization in dashboards, as well as scientific provision of data from mobile sensors for monitoring patients in home quarantine. Conclusion: Based on existing integrated telemonitoring systems supporting semantic and syntactic interoperability, short-term provision of scientific databases is possible. The integration of different mobile sensors into a clinical system for remote monitoring of patients around the clock is still new and to our knowledge unique.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 27
+IS  - 4
+SP  - 225
+EP  - 237
+SN  - 1478-565X
+SN  - 1462-8732
+JF  - Journal of Commercial Biotechnology
+JO  - J. Commer. Biotechnol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2024717614&from=export
+U2  - L2024717614
+DB  - Embase
+U4  - 2023-05-30
+L2  - http://dx.doi.org/10.5912/jcb1330
+DO  - 10.5912/jcb1330
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=1478565X&id=doi:10.5912%2Fjcb1330&atitle=Impact+of+IoT+Adoption+and+Application+For+Smart+Healthcare&stitle=J.+Commer.+Biotechnol.&title=Journal+of+Commercial+Biotechnology&volume=27&issue=4&spage=225&epage=237&aulast=Hua&aufirst=Wang&auinit=W.&aufull=Hua+W.&coden=JCBOA&isbn=&pages=225-237&date=2022&auinit1=W&auinitm=
+A1  - Hua, W.
+M1  - (Hua W.) School of computer science, Guangdong University of Science and Technology, Guangdong, Dongguan, China
+AD  - W. Hua, School of computer science, Guangdong University of Science and Technology, Guangdong, Dongguan, China
+T1  - Impact of IoT Adoption and Application For Smart Healthcare
+LA  - English
+KW  - adoption
+KW  - adult
+KW  - article
+KW  - Canis lupus
+KW  - convolutional neural network
+KW  - data privacy
+KW  - health care delivery
+KW  - health care industry
+KW  - human
+KW  - internet of things
+KW  - medication therapy management
+KW  - nonhuman
+KW  - outcome assessment
+KW  - patient coding
+KW  - remote sensing
+KW  - security
+KW  - telemonitoring
+N2  - The Internet of Things (IoT) is a rapidly growing technology that is transforming the healthcare industry. IoT devices and applications are enabling the collection and analysis of patient data, facilitating remote monitoring and diagnosis, and improving the efficiency and effectiveness of healthcare delivery. This abstract explores the impact of IoT adoption and application for smart healthcare. The study highlights the various applications of IoT in healthcare, such as remote patient monitoring, real-time patient tracking, and medication management. The study reviews the benefits of IoT in healthcare, such as improved patient outcomes, reduced costs, and increased efficiency. The study also examines the challenges of implementing IoT in healthcare, such as data privacy and security concerns, interoperability issues, and regulatory compliance. The study concludes that IoT is transforming the healthcare industry, enabling a new era of smart healthcare delivery. The adoption of IoT in healthcare has the potential to improve patient outcomes, reduce costs, and increase the efficiency and effectiveness of healthcare delivery. However, the challenges of implementing IoT in healthcare cannot be ignored, and the industry must work to address these challenges while harnessing the benefits of this emerging technology. Overall, the potential impact of IoT adoption and application for smart healthcare is significant and holds great promise for the future of healthcare delivery.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 8
+IS  - 3
+SP  - 45
+EP  - 57
+SN  - 2053-3713
+JF  - Healthcare Technology Letters
+JO  - Healthc. Technol. Lett.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2011345167&from=export
+U2  - L2011345167
+DB  - Embase
+U3  - 2021-06-08
+U4  - 2021-11-22
+L2  - http://dx.doi.org/10.1049/htl2.12010
+DO  - 10.1049/htl2.12010
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20533713&id=doi:10.1049%2Fhtl2.12010&atitle=A+remote+healthcare+monitoring+framework+for+diabetes+prediction+using+machine+learning&stitle=Healthc.+Technol.+Lett.&title=Healthcare+Technology+Letters&volume=8&issue=3&spage=45&epage=57&aulast=Ramesh&aufirst=Jayroop&auinit=J.&aufull=Ramesh+J.&coden=&isbn=&pages=45-57&date=2021&auinit1=J&auinitm=
+A1  - Ramesh, J.
+A1  - Aburukba, R.
+A1  - Sagahyroon, A.
+M1  - (Ramesh J.; Aburukba R., raburukba@aus.edu; Sagahyroon A.) Computer Science and Engineering, American University of Sharjah, Sharjah, United Arab Emirates
+AD  - R. Aburukba, Computer Science and Engineering, American University of Sharjah, Sharjah, United Arab Emirates
+T1  - A remote healthcare monitoring framework for diabetes prediction using machine learning
+LA  - English
+KW  - smartphone
+KW  - adult
+KW  - aged
+KW  - article
+KW  - controlled study
+KW  - data accuracy
+KW  - decision making
+KW  - diabetes mellitus
+KW  - female
+KW  - health care cost
+KW  - health care planning
+KW  - health hazard
+KW  - human
+KW  - interpersonal communication
+KW  - machine learning
+KW  - major clinical study
+KW  - patient monitoring
+KW  - support vector machine
+KW  - telemonitoring
+N2  - Diabetes is a metabolic disease that affects millions of people each year. It is associated with an increased likelihood of vital organ failures and decreased quality of life. Early detection and regular monitoring are crucial for managing diabetes. Remote patient monitoring can facilitate effective intervention and treatment paradigms using current technology. This work proposes an end-to-end remote monitoring framework for automated diabetes risk prediction and management, using personal health devices, smart wearables and smartphones. A support vector machine was developed for diabetes risk prediction using the Pima Indian Diabetes Database, after feature scaling, imputation, selection and augmentation. This work achieved the performance metrics of accuracy, sensitivity and specificity scores at 83.20%, 87.20% and 79% respectively through the tenfold stratified cross validation method, which is competitive with existing methods. Patients can use multiple healthcare devices, smartphones and smartwatches to measure vital parameters, curb the progression of diabetes and close the communication loop with medical professionals. The proposed framework enables medical professionals to make informed decisions based on the latest diabetes risk predictions and lifestyle insights while attaining unobtrusiveness, reduced cost, and vendor interoperability.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 274
+SP  - 174
+EP  - 188
+SN  - 1879-8365
+JF  - Studies in health technology and informatics
+JO  - Stud Health Technol Inform
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L633051112&from=export
+U2  - L633051112
+C5  - 32990673
+DB  - Medline
+U3  - 2020-10-13
+U4  - 2020-10-21
+L2  - http://dx.doi.org/10.3233/SHTI200676
+DO  - 10.3233/SHTI200676
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18798365&id=doi:10.3233%2FSHTI200676&atitle=eHealth+and+Clinical+Documentation+Systems&stitle=Stud+Health+Technol+Inform&title=Studies+in+health+technology+and+informatics&volume=274&issue=&spage=174&epage=188&aulast=Knaup&aufirst=Petra&auinit=P.&aufull=Knaup+P.&coden=&isbn=&pages=174-188&date=2020&auinit1=P&auinitm=
+A1  - Knaup, P.
+A1  - Benning, N.-H.
+A1  - Seitz, M.W.
+A1  - Eisenmann, U.
+M1  - (Knaup P.; Benning N.-H.; Seitz M.W.; Eisenmann U.) University of Heidelberg, Institute of Medical Biometry and Informatics, Heidelberg, Germany
+T1  - eHealth and Clinical Documentation Systems
+LA  - English
+KW  - artificial intelligence
+KW  - documentation
+KW  - electronic health record
+KW  - health care delivery
+KW  - human
+KW  - telemedicine
+N2  - eHealth is the use of modern information and communication technology (ICT) for trans-institutional healthcare purposes. Important subtopics of eHealth are health data sharing and telemedicine. Most of the clinical documentation to be shared is collected in patient records to support patient care. More sophisticated approaches to electronic patient records are trans-institutional or (inter-)national. Other aims for clinical documentation are quality management, reimbursement, legal issues, and medical research. Basic prerequisite for eHealth is interoperability, which can be divided into technical, semantic and process interoperability. There is a variety of international standards to support interoperability. Telemedicine is a subtopic of eHealth, which bridges spatial distance by using ICT for medical (inter-)actions. We distinguish telemedicine among healthcare professionals and telemedicine between health care professionals and patients. Both have a great potential to face the challenges of aging societies, the increasing number of chronically ill patients, multimorbidity and low number of physicians in remote areas. With ongoing digitalization more and more data are available digitally. Clinical documentation is an important source for big data analysis and artificial intelligence. The patient has an important role: Telemonitoring, wearable technologies, and smart home devices provide digital health data from daily life. These are high-quality data which can be used for medical decisions.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 20
+IS  - 12
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L632245051&from=export
+U2  - L632245051
+C5  - 32604851
+DB  - Medline
+U3  - 2020-07-15
+U4  - 2021-04-07
+L2  - http://dx.doi.org/10.3390/s20123604
+DO  - 10.3390/s20123604
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs20123604&atitle=Towards+a+Secure+Thermal-Energy+Aware+Routing+Protocol+in+Wireless+Body+Area+Network+Based+on+Blockchain+Technology&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=20&issue=12&spage=&epage=&aulast=Shahbazi&aufirst=Zeinab&auinit=Z.&aufull=Shahbazi+Z.&coden=&isbn=&pages=-&date=2020&auinit1=Z&auinitm=
+A1  - Shahbazi, Z.
+A1  - Byun, Y.-C.
+M1  - (Shahbazi Z.; Byun Y.-C.) Department of Computer Engineering, Jeju National University, Jeju Special Self-Governing, South Korea
+T1  - Towards a Secure Thermal-Energy Aware Routing Protocol in Wireless Body Area Network Based on Blockchain Technology
+LA  - English
+KW  - algorithm
+KW  - computer network
+KW  - devices
+KW  - human
+KW  - physiologic monitoring
+KW  - wireless communication
+N2  - The emergence of biomedical sensor devices, wireless communication, and innovation in other technologies for healthcare applications result in the evolution of a new area of research that is termed as Wireless Body Area Networks (WBANs). WBAN originates from Wireless Sensor Networks (WSNs), which are used for implementing many healthcare systems integrated with networks and wireless devices to ensure remote healthcare monitoring. WBAN is a network of wearable devices implanted in or on the human body. The main aim of WBAN is to collect the human vital signs/physiological data (like ECG, body temperature, EMG, glucose level, etc.) round-the-clock from patients that demand secure, optimal and efficient routing techniques. The efficient, secure, and reliable designing of routing protocol is a difficult task in WBAN due to its diverse characteristic and restraints, such as energy consumption and temperature-rise of implanted sensors. The two significant constraints, overheating of nodes and energy efficiency must be taken into account while designing a reliable blockchain-enabled WBAN routing protocol. The purpose of this study is to achieve stability and efficiency in the routing of WBAN through managing temperature and energy limitations. Moreover, the blockchain provides security, transparency, and lightweight solution for the interoperability of physiological data with other medical personnel in the healthcare ecosystem. In this research work, the blockchain-based Adaptive Thermal-/Energy-Aware Routing (ATEAR) protocol for WBAN is proposed. Temperature rise, energy consumption, and throughput are the evaluation metrics considered to analyze the performance of ATEAR for data transmission. In contrast, transaction throughput, latency, and resource utilization are used to investigate the outcome of the blockchain system. Hyperledger Caliper, a benchmarking tool, is used to evaluate the performance of the blockchain system in terms of CPU utilization, memory, and memory utilization. The results show that by preserving residual energy and avoiding overheated nodes as forwarders, high throughput is achieved with the ultimate increase of the network lifetime. Castalia, a simulation tool, is used to evaluate the performance of the proposed protocol, and its comparison is made with Multipath Ring Routing Protocol (MRRP), thermal-aware routing algorithm (TARA), and Shortest-Hop (SHR). Evaluation results illustrate that the proposed protocol performs significantly better in balancing of temperature (to avoid damaging heat effect on the body tissues) and energy consumption (to prevent the replacement of battery and to increase the embedded sensor node life) with efficient data transmission achieving a high throughput value.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 13
+IS  - 1
+SP  - 92
+EP  - 105
+SN  - 1875-0362
+JF  - Open Bioinformatics Journal
+JO  - Open Bioinformatics J.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2005740816&from=export
+U2  - L2005740816
+DB  - Embase
+U3  - 2021-01-13
+U4  - 2021-02-05
+L2  - http://dx.doi.org/10.2174/1875036202013010092
+DO  - 10.2174/1875036202013010092
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18750362&id=doi:10.2174%2F1875036202013010092&atitle=The+development+of+the+vital+signs+tele-monitoring+system+for+the+elderly+by+using+%E2%80%98uml%E2%80%99+language+and+the+interoperability+standard+%E2%80%98continua%E2%80%99&stitle=Open+Bioinformatics+J.&title=Open+Bioinformatics+Journal&volume=13&issue=1&spage=92&epage=105&aulast=Mansouri&aufirst=Sofiene&auinit=S.&aufull=Mansouri+S.&coden=&isbn=&pages=92-105&date=2020&auinit1=S&auinitm=
+A1  - Mansouri, S.
+M1  - (Mansouri S., s.mansouri@psau.edu.sa) Department of Biomedical Technology, College of Applied Medical Sciences, Prince Sattam Bin Abdulaziz University, Al-Kharj, Saudi Arabia
+M1  - (Mansouri S., s.mansouri@psau.edu.sa) Laboratory of Biophysics and Medical Technologies, Higher Institute of Medical Technologies of Tunis, University of Tunis El Manar, Tunis, Tunisia
+AD  - S. Mansouri, Department of Biomedical Technology, College of Applied Medical Sciences, Prince Sattam Bin Abdulaziz University, Al-Kharj, Saudi Arabia
+AD  - S. Mansouri, Laboratory of Biophysics and Medical Technologies, Higher Institute of Medical Technologies of Tunis, University of Tunis El Manar, Tunis, Tunisia
+T1  - The development of the vital signs tele-monitoring system for the elderly by using ‘uml’ language and the interoperability standard ‘continua’
+LA  - English
+KW  - biomedical software
+KW  - medical device
+KW  - medical telemonitoring application
+KW  - patient vital sign monitor
+KW  - aged
+KW  - anemia
+KW  - article
+KW  - asthma
+KW  - body mass
+KW  - chronic obstructive lung disease
+KW  - computer language
+KW  - data interoperability
+KW  - diastolic blood pressure
+KW  - follow up
+KW  - heart failure
+KW  - heart infarction
+KW  - heart rate
+KW  - hospitalization
+KW  - human
+KW  - hypertension
+KW  - hypotension
+KW  - hypoxia
+KW  - internet of things
+KW  - lung cancer
+KW  - oximetry
+KW  - pneumonia
+KW  - postoperative care
+KW  - practice guideline
+KW  - questionnaire
+KW  - reliability
+KW  - telemedicine
+KW  - telemetry
+KW  - telemonitoring
+KW  - very elderly
+KW  - vital sign
+KW  - World Health Organization
+N2  - Aims: We aim to develope a system allowing the telemonitoring of the elderly health status. Medical telemonitoring can make life easy and safe for elderly. The goal of this project is the development of a medical telemonitoring application. Background: Medical telemonitoring can make life easy and safe for elderly. Objective: The goal of this project is the development of a medical telemonitoring application. Methods: In this paper we exposed the different steps of the developing of a medical telemonitoring system designed for the elderly. We studied the medical needs and the system specifications. We used the UML language. Then we detailed the designed system with a total respect to the standard for the interoperability of connected medical equipment, Continua. We presented printed screens of the realized interfaces. Results: We realized an application based on web development, more specifically development of a management application for medical telemonitoring. Conclusion: In terms of perspectives, we aim to integrate security protocols in the developed system, integrate the data sent from the sensors into an E, H & R (HER) and send the patient file to a H, I & S (HIS).
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 24
+IS  - 1
+SP  - 268
+EP  - 279
+SN  - 2168-2208
+SN  - 2168-2194
+JF  - IEEE Journal of Biomedical and Health Informatics
+JO  - IEEE J. Biomedical Health Informat.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L630526197&from=export
+U2  - L630526197
+C5  - 30794191
+DB  - Embase
+DB  - Medline
+U3  - 2020-01-20
+U4  - 2022-04-15
+L2  - http://dx.doi.org/10.1109/JBHI.2019.2894552
+DO  - 10.1109/JBHI.2019.2894552
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=21682208&id=doi:10.1109%2FJBHI.2019.2894552&atitle=Design+and+Usability+Assessment+of+a+Multi-Device+SOA-Based+Telecare+Framework+for+the+Elderly&stitle=IEEE+J.+Biomedical+Health+Informat.&title=IEEE+Journal+of+Biomedical+and+Health+Informatics&volume=24&issue=1&spage=268&epage=279&aulast=MacIs&aufirst=Silvia&auinit=S.&aufull=MacIs+S.&coden=ITIBF&isbn=&pages=268-279&date=2020&auinit1=S&auinitm=
+A1  - MacIs, S.
+A1  - Loi, D.
+A1  - Ulgheri, A.
+A1  - Pani, D.
+A1  - Solinas, G.
+A1  - La Manna, S.
+A1  - Cestone, V.
+A1  - Guerri, D.
+A1  - Raffo, L.
+M1  - (MacIs S., silvi.macis@gmail.com; Loi D., daniela.loi@diee.unica.it; Ulgheri A., andreaulgheri@tiscali.it; Pani D., pani@diee.unica.it; Raffo L., luigi@diee.unica.it) Department of Electrical and Electronic Engineering, University of Cagliari, Cagliari, Italy
+M1  - (MacIs S., silvi.macis@gmail.com; Ulgheri A., andreaulgheri@tiscali.it) Lifely Srl, Cagliari, Italy
+M1  - (Solinas G., gsolinas@uniss.it) Laboratory of Biostatistics, Department of Biomedical Sciences, University of Sassari, Sassari, Italy
+M1  - (La Manna S., serena.lamanna@dedalus.eu; Cestone V., vincenzo.cestone@dedalus.eu; Guerri D., davide.guerri@dedalus.eu) Dedalus SpA, Firenze, Italy
+AD  - D. Pani, Department of Electrical and Electronic Engineering, University of Cagliari, Cagliari, Italy
+T1  - Design and Usability Assessment of a Multi-Device SOA-Based Telecare Framework for the Elderly
+LA  - English
+KW  - blood glucose meter
+KW  - bluetooth sphygmomanometer
+KW  - medical device
+KW  - mobile phone
+KW  - multimedia
+KW  - sphygmomanometer
+KW  - television
+KW  - adult
+KW  - aged
+KW  - architecture
+KW  - article
+KW  - blood pressure
+KW  - caregiver
+KW  - communication software
+KW  - diffusion
+KW  - extensible access control markup language
+KW  - female
+KW  - general practitioner
+KW  - human
+KW  - information technology
+KW  - Internet
+KW  - ischemic heart disease
+KW  - longitudinal study
+KW  - male
+KW  - markup language
+KW  - medical ethics
+KW  - mobile application
+KW  - non insulin dependent diabetes mellitus
+KW  - nonverbal communication
+KW  - pilot study
+KW  - quality of life
+KW  - questionnaire
+KW  - telehealth
+KW  - telemonitoring
+KW  - wireless communication
+N2  - Telemonitoring is a branch of telehealth that aims at remotely monitoring vital signs, which is important for chronically ill patients and the elderly living alone. The available standalone devices and applications for the self-monitoring of health parameters largely suffer from interoperability problems; meanwhile, telemonitoring medical devices are expensive, self-contained, and are not integrated into user-friendly technological platforms for the end user. This paper presents the technical aspects and usability assessment of the telemonitoring features of the HEREiAM platform, which supports heterogeneous information technology systems. By exploiting a service-oriented architecture, the measured parameters collected by off-the-shelf Bluetooth medical devices are sent as XML documents to a private cloud that implements an interoperable health service infrastructure, which is compliant with the most recent healthcare standards and security protocols. This Android-based system is designed to be accessible both via TV and portable devices, and includes other utilities designed to support the elderly living alone. Four usability assessment sessions with quality-validated questionnaires were performed to accurately understand the ease of use, usefulness, acceptance, and quality of the proposed system. The results reveal that our system achieved very high usability scores even at its first use, and the scores did not significantly change over time during a field trial that lasted for four months, reinforcing the idea of an intuitive design. At the end of such a trial, the user-experience questionnaire achieved excellent scores in all aspects with respect to the benchmark. Good results were also reported by general practitioners who assessed the quality of their remote interfaces for telemonitoring.
+ER  - 
+

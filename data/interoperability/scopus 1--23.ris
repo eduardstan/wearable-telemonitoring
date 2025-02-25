@@ -1,0 +1,1089 @@
+﻿TY  - JOUR
+AU  - Malathi, K.
+AU  - Nair, S.S.
+AU  - Madhumitha, N.
+AU  - Sreelakshmi, S.
+AU  - Sathya, U.
+AU  - Priya, M.S.
+TI  - Medical Data Integration and Interoperability through Remote Monitoring of Healthcare Devices
+PY  - 2024
+T2  - Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications
+VL  - 15
+IS  - 2
+SP  - 60
+EP  - 72
+DO  - 10.58346/JOWUA.2024.I2.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198973292&doi=10.58346%2fJOWUA.2024.I2.005&partnerID=40&md5=358fd7bb886ece71d0e53e3fb484cd3e
+AB  - In the age of intelligent gadgets and interconnected communities, the widespread surveillance and provision of healthcare to patients are made feasible through the Internet of Medical Things (IoMT). The number of implanted electronic devices that can be monitored remotely is increasing, leading to a rise in the amount and intricacy of biological data. The collected data can offer valuable diagnostic information that can be used to intervene and maintain implanted devices promptly, therefore enhancing the quality of treatment provided. Current remote monitoring processes are not fully using device diagnostics because of the lack of compatibility and data integration between exclusive applications and Digital Health Record (DHR) platforms. Establishing a technology framework that establishes information and enhances interoperability has the potential to strengthen remote monitoring. This article introduces the Medical Data Integration and Interoperability via Remote Monitoring of Healthcare Devices (MDII-RMHD) framework, which facilitates the collaboration of healthcare devices. MDII-RMHD enhances a cloud-based IoMT system using conversion resources at the network's boundary. This is achieved through the use of inquiring and conversion agents. The investigating devices keep track of a list of MDII-RMHD devices on the regional network and allow one device to seek information conversion from another gadget when the requesting device cannot do the task independently. The converting agent transforms the data into the necessary format and returns it to the original entity. These agents enable IoMT devices to utilize their surplus computational capabilities for data translations, reducing the need for cloud access. Conventional devices are compatible with fog resource managers that have MDII-RMHD support. We assess the MDII-RMHD framework by rigorous experimentation under different scenarios. The obtained results demonstrate that the proposed framework decreases the amount of uplink traffic and enhances the response time. This improvement in response time is significant for real-time healthcare applications. © 2024, Innovative Information Science and Technology Research Group. All rights reserved.
+KW  - Cloud Devices
+KW  - Healthcare Devices
+KW  - Integration
+KW  - Interoperability
+KW  - IoMT
+KW  - Medical Data
+KW  - Remote Monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 73
+ER  -
+
+TY  - JOUR
+AU  - Rohini, K.R.
+AU  - Rajakumar, D.R.P.S.
+AU  - Geetha, D.R.S.
+TI  - IMPROVING DATA SECURITY AND SCALABILITY IN HEALTHCARE SYSTEM USING BLOCKCHAIN TECHNOLOGY
+PY  - 2024
+T2  - Scalable Computing
+VL  - 25
+IS  - 5
+SP  - 3440
+EP  - 3452
+DO  - 10.12694/scpe.v25i5.3164
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200736118&doi=10.12694%2fscpe.v25i5.3164&partnerID=40&md5=a1988d5236ac70390686e11fd6e63a1b
+AB  - The wearable tech revolution and the proliferation of Internet of Things (IoT) gadgets have created exciting new opportunities for remote patient monitoring. Healthcare providers are increasingly utilizing wearable technologies to expedite the process of diagnosis and treatment. The healthcare and research fields have been substantially impacted by emerging technologies. On the other hand, there are legitimate worries regarding the security of data transfers and transaction recording upon using these technologies. Healthcare departments need easy data interchange for interoperability. Protecting data security and integrity is crucial when exchanging information with authorized parties. In many existing solutions, patients’ sensitive data is collected and stored in smart healthcare systems. Scalability, breach or unauthorized access to this data can compromise privacy. The adoption of blockchain technology is one way to safeguard patient privacy in healthcare. Also, by facilitating the safe and secure exchange of data, blockchain technology is revolutionizing the healthcare industry by making traditional methods of diagnosis and treatment more reliable. However, blockchain has serious problems with its highly limited scalability. This article suggests a new method “SHORTBLOCKS” depending on blockchain technology for the safe administration and analysis of data. To circumvent the security-scalability issue and achieve high throughput, this study employs the newly introduced protocol “SHORTBLOCKS”, which extends blockchain concept to a direct acyclic graph of blocks. The proposed system uses both a private and a public blockchain that are created on the new protocol. In order to analyze patient health data, a system using smart contracts and a private blockchain is built. The system logs the occurrence to the public blockchain in the case that the smart contract raises an alarm due to an unusual reading. This will fix the scalability issue with initial blockchain as well as the security and privacy issues involved in remote patient monitoring. Simulation results shows the performance of the proposed system by comparing with existing solutions, SPECTRE protocol and GHOSTDAG protocol. © 2024 SCPE.
+KW  - Healthcare
+KW  - interoperability
+KW  - Private blockchain
+KW  - Public blockchain
+KW  - Remote patient monitoring
+KW  - Security and privacy
+KW  - Shortblocks
+KW  - Smart contracts
+KW  - Blockchain
+KW  - Data transfer
+KW  - Diagnosis
+KW  - Health care
+KW  - Internet of things
+KW  - Interoperability
+KW  - Remote patient monitoring
+KW  - Scalability
+KW  - Sensitive data
+KW  - Block-chain
+KW  - Health care providers
+KW  - Healthcare
+KW  - Healthcare systems
+KW  - Private blockchain
+KW  - Public blockchain
+KW  - Scalability issue
+KW  - Security and privacy
+KW  - Shortblock
+KW  - Smart contract
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ranjan, Y.
+AU  - Chang, J.
+AU  - Sankesara, H.
+AU  - Conde, P.
+AU  - Rashid, Z.
+AU  - Dobson, R.J.B.
+AU  - Folarin, A.
+TI  - RADAR-IoT: An Open-Source, Interoperable, and Extensible IoT Gateway Framework for Health Research
+PY  - 2024
+T2  - Sensors
+VL  - 24
+IS  - 14
+C7  - 4614
+DO  - 10.3390/s24144614
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199779199&doi=10.3390%2fs24144614&partnerID=40&md5=edbbdc011c07c8744036948e2ff2c668
+AB  - IoT sensors offer a wide range of sensing capabilities, many of which have potential health applications. Existing solutions for IoT in healthcare have notable limitations, such as closed-source, limited I/O protocols, limited cloud platform support, and missing specific functionality for health use cases. Developing an open-source internet of things (IoT) gateway solution that addresses these limitations and provides reliability, broad applicability, and utility is highly desirable. Combining a wide range of sensor data streams from IoT devices with ambulatory mHealth data would open up the potential to provide a detailed 360-degree view of the relationship between patient physiology, behavior, and environment. We have developed RADAR-IoT as an open-source IoT gateway framework, to harness this potential. It aims to connect multiple IoT devices at the edge, perform limited on-device data processing and analysis, and integrate with cloud-based mobile health platforms, such as RADAR-base, enabling real-time data processing. We also present a proof-of-concept data collection from this framework, using prototype hardware in two locations. The RADAR-IoT framework, combined with the RADAR-base mHealth platform, provides a comprehensive view of a user’s health and environment by integrating static IoT sensors and wearable devices. Despite its current limitations, it offers a promising open-source solution for health research, with potential applications in managing infection control, monitoring chronic pulmonary disorders, and assisting patients with impaired motor control or cognitive ability. © 2024 by the authors.
+KW  - extensible
+KW  - gateway
+KW  - health
+KW  - IoT
+KW  - mHealth
+KW  - RADAR-base
+KW  - remote monitoring
+KW  - research
+KW  - Cloud Computing
+KW  - Humans
+KW  - Internet of Things
+KW  - Radar
+KW  - Telemedicine
+KW  - Wearable Electronic Devices
+KW  - Data handling
+KW  - Gateways (computer networks)
+KW  - mHealth
+KW  - Wearable sensors
+KW  - Closed source
+KW  - Cloud platforms
+KW  - Extensible
+KW  - Gateway
+KW  - Gateway solutions
+KW  - Health research
+KW  - Open-source
+KW  - Potential health
+KW  - RADAR-base
+KW  - Remote monitoring
+KW  - cloud computing
+KW  - devices
+KW  - human
+KW  - internet of things
+KW  - telecommunication
+KW  - telemedicine
+KW  - wearable computer
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Pathak, N.
+AU  - Misra, S.
+AU  - Mukherjee, A.
+AU  - Kumar, N.
+TI  - HeDI: Healthcare Device Interoperability for IoT-Based e-Health Platforms
+PY  - 2021
+T2  - IEEE Internet of Things Journal
+VL  - 8
+IS  - 23
+SP  - 16845
+EP  - 16852
+DO  - 10.1109/JIOT.2021.3052066
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099733178&doi=10.1109%2fJIOT.2021.3052066&partnerID=40&md5=d86f41c829d51dcf2173e9d223e763b5
+AB  - In this work, we propose and develop healthcare device interoperability (HeDI) - a system to enable device interoperability in IoT-enabled in-home healthcare monitoring platforms. The system consists of multiple sensors, each connected wirelessly to an edge device, acting as a wireless communication gateway to a remote server. The system initiates information handshaking between the sensor adapters and edge device at the beginning of the operation, which is later used to detect the sensor settings to process the data received from the sensor. The system is scalable and dynamically accommodates multiple sensors without any predefined ontologies at the edge device. The implementation of our system avoids dependencies on a system's physical ports. The low form factor and wireless connectivity of the adapter make the system portable and convenient for in-home health monitoring. Additionally, the system allows multiple homogeneous sensors to operate at the same time in the same system. We implement and evaluate our system with a 3-lead ECG, pulse, and temperature sensors against two different network configurations - star and mesh. We use the data set generated from our implemented system for performance analysis. The network-level analysis of our system shows an average packet delivery ratio of 0.92 for star network configuration and 0.98 for mesh network configuration, ensuring the reliability of performance and its suitability for healthcare monitoring systems.  © 2014 IEEE.
+KW  - e-Health
+KW  - Edge platforms
+KW  - in-home health monitoring
+KW  - interoperability
+KW  - interoperable adapter
+KW  - IoT
+KW  - Gateways (computer networks)
+KW  - Health care
+KW  - Interoperability
+KW  - Mesh generation
+KW  - Monitoring
+KW  - Reliability analysis
+KW  - Scalability
+KW  - Stars
+KW  - Device interoperability
+KW  - Healthcare monitoring
+KW  - Home health monitoring
+KW  - Network configuration
+KW  - Packet delivery ratio
+KW  - Performance analysis
+KW  - Wireless communications
+KW  - Wireless connectivities
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 33
+ER  -
+
+TY  - JOUR
+AU  - Pathak, N.
+AU  - Mukherjee, A.
+AU  - Misra, S.
+TI  - SemBox: Semantic Interoperability in a Box for Wearable e-Health Devices
+PY  - 2023
+T2  - IEEE Journal of Biomedical and Health Informatics
+VL  - 27
+IS  - 5
+SP  - 2306
+EP  - 2313
+DO  - 10.1109/JBHI.2022.3168071
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128651628&doi=10.1109%2fJBHI.2022.3168071&partnerID=40&md5=7e59f8a6744fe6aa57ac6bf05a4ad008
+AB  - In this work, we propose SemBox - Semantic interoperability in a Box, to enable wireless on-the-go communication between heterogeneous wearable health monitoring devices. It can connect wirelessly to the health monitoring devices and receive their data packets. It uses a Mamdani-based fuzzy inference system with data pre-processing to classify the received data packet into one of the classes of the vital parameters. It enables semantic interoperability by labelling and annotating the data packets based on the extracted packet information. We implement SemBox using three different health monitoring wearables, with different keywords used for each vital parameter representation in the data packet. SemBox shows a maximum classification accuracy of 85.71%, with a maximum PDR of 1 at the SemBox with varying device parameters. Overall, SemBox is a potential plug-and-play solution to achieve semantic interoperability and collaboration between heterogeneous health monitoring wearable devices, irrespective of their commercial and proprietary specifications. It is customizable for applications that use multiple heterogeneous devices for collaborative monitoring and decision support. SemBox enables interoperability among health monitoring devices, introduces flexibility and ease the inter-device dynamics in the domain of biomedical research.  © 2013 IEEE.
+KW  - e-Health
+KW  - fuzzy logic
+KW  - health monitoring device
+KW  - IoT
+KW  - plug-and-play device
+KW  - semantic interoperability
+KW  - wearables
+KW  - Biomedical Research
+KW  - Communication
+KW  - Humans
+KW  - Semantics
+KW  - Telemedicine
+KW  - Wearable Electronic Devices
+KW  - Classification (of information)
+KW  - Data handling
+KW  - Decision support systems
+KW  - eHealth
+KW  - Fuzzy inference
+KW  - Internet of things
+KW  - Monitoring
+KW  - Semantics
+KW  - Wearable technology
+KW  - Data packet
+KW  - E health
+KW  - Ehealth
+KW  - Fuzzy-Logic
+KW  - Health monitoring devices
+KW  - IoT
+KW  - Medical services
+KW  - Plug-and-play devices
+KW  - Semantic interoperability
+KW  - Wearables
+KW  - Article
+KW  - artificial intelligence
+KW  - data interoperability
+KW  - decision support system
+KW  - fuzzy logic
+KW  - fuzzy system
+KW  - health care
+KW  - human
+KW  - learning algorithm
+KW  - machine learning
+KW  - medical research
+KW  - medical service
+KW  - methodology
+KW  - motivation
+KW  - ontology
+KW  - patient monitoring
+KW  - semantics
+KW  - synthesis
+KW  - telehealth
+KW  - telemonitoring
+KW  - time
+KW  - interpersonal communication
+KW  - medical research
+KW  - telemedicine
+KW  - Interoperability
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Gazzarata, R.
+AU  - Chronaki, C.
+AU  - Ricciardi, F.
+AU  - Giuliani, F.
+AU  - Zampognaro, P.
+AU  - Mercalli, F.
+AU  - Allocca, C.
+AU  - Gaeta, E.
+AU  - Fico, G.
+AU  - Cangioli, G.
+TI  - Design and Adoption of a FHIR IG to Support a Telemonitoring Environment in Gatekeeper Project
+PY  - 2023
+T2  - Studies in health technology and informatics
+VL  - 309
+SP  - 106
+EP  - 110
+DO  - 10.3233/SHTI230751
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175586955&doi=10.3233%2fSHTI230751&partnerID=40&md5=353fd489495afc355879cf3606649d12
+AB  - Telemedicine can provide benefits in patient affected by chronic diseases or elderly citizens as part of standard routine care supported by digital health. The GATEKEEPER (GK) Project was financed to create a vendor independent platform to be adopted in medical practice and to demonstrate its effect, benefit value, and scalability in 8 connected medical use cases with some independent pilots. This paper, after a description of the GK platform architecture, is focused on the creation of a FHIR (Fast Healthcare Interoperability Resource) IG (Implementation Guide) and its adoption in specific use cases. The final aim is to combine conventional data, collected in the hospital, with unconventional data, coming from wearable devices, to exploit artificial intelligence (AI) models designed to evaluate the effectiveness of a new parsimonious risk prediction model for Type 2 diabetes (T2D).
+KW  - AI models
+KW  - chronic diseases
+KW  - health and wellness
+KW  - HL7 FHIR
+KW  - interoperability standards
+KW  - living environments
+KW  - telemedicine
+KW  - Type 2 Diabetes
+KW  - Aged
+KW  - Artificial Intelligence
+KW  - Delivery of Health Care
+KW  - Diabetes Mellitus, Type 2
+KW  - Electronic Health Records
+KW  - Health Level Seven
+KW  - Humans
+KW  - Telemedicine
+KW  - aged
+KW  - artificial intelligence
+KW  - electronic health record
+KW  - health care delivery
+KW  - health level 7
+KW  - human
+KW  - non insulin dependent diabetes mellitus
+KW  - telemedicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Müller, A.
+AU  - Haneke, H.
+AU  - Kirchberger, V.
+AU  - Mastella, G.
+AU  - Dommasch, M.
+AU  - Merle, U.
+AU  - Heinze, O.
+AU  - Siegmann, A.
+AU  - Spinner, C.
+AU  - Buiatti, A.
+AU  - Laugwitz, K.-L.
+AU  - Schmidt, G.
+AU  - Martens, E.
+TI  - Integration of mobile sensors in a telemedicine hospital system: remote-monitoring in COVID-19 patients
+PY  - 2022
+T2  - Journal of Public Health (Germany)
+VL  - 30
+IS  - 1
+SP  - 93
+EP  - 97
+DO  - 10.1007/s10389-021-01655-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117159527&doi=10.1007%2fs10389-021-01655-2&partnerID=40&md5=58e20fa9e7ad0800a6561592b4becad0
+AB  - Aim: The goal is to design and, in a next step, establish a scalable, multi-center telemonitoring platform based on existing systems for monitoring COVID-19 patients in home quarantine. In particular, the focus will be on raw data acquisition, integration of sensor data into the hospital system, structured data storage, and interoperability. Subject and methods: Data necessary for monitoring, otherwise provided in various portals, will be continuously queried and integrated into the hospital system via a new interface in this proof-of-concept work. Results: Based on extensive preliminary work at Klinikum rechts der Isar with a structured clinical database, we extend our system’s integration of raw data and visualization in dashboards, as well as scientific provision of data from mobile sensors for monitoring patients in home quarantine. Conclusion: Based on existing integrated telemonitoring systems supporting semantic and syntactic interoperability, short-term provision of scientific databases is possible. The integration of different mobile sensors into a clinical system for remote monitoring of patients around the clock is still new and to our knowledge unique. © 2021, The Author(s).
+KW  - COVID-19
+KW  - Digital health
+KW  - Interoperability
+KW  - Mobile sensors
+KW  - Pandemic management
+KW  - Remote-monitoring
+KW  - Telemedicine
+KW  - Wearables
+KW  - Article
+KW  - coronavirus disease 2019
+KW  - data integration
+KW  - data interoperability
+KW  - home quarantine
+KW  - hospital planning
+KW  - human
+KW  - information storage
+KW  - proof of concept
+KW  - telemonitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Ramesh, J.
+AU  - Aburukba, R.
+AU  - Sagahyroon, A.
+TI  - A remote healthcare monitoring framework for diabetes prediction using machine learning
+PY  - 2021
+T2  - Healthcare Technology Letters
+VL  - 8
+IS  - 3
+SP  - 45
+EP  - 57
+DO  - 10.1049/htl2.12010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85106101504&doi=10.1049%2fhtl2.12010&partnerID=40&md5=7c5dcbdc837a7d2dd0ed017fed8aba69
+AB  - Diabetes is a metabolic disease that affects millions of people each year. It is associated with an increased likelihood of vital organ failures and decreased quality of life. Early detection and regular monitoring are crucial for managing diabetes. Remote patient monitoring can facilitate effective intervention and treatment paradigms using current technology. This work proposes an end-to-end remote monitoring framework for automated diabetes risk prediction and management, using personal health devices, smart wearables and smartphones. A support vector machine was developed for diabetes risk prediction using the Pima Indian Diabetes Database, after feature scaling, imputation, selection and augmentation. This work achieved the performance metrics of accuracy, sensitivity and specificity scores at 83.20%, 87.20% and 79% respectively through the tenfold stratified cross validation method, which is competitive with existing methods. Patients can use multiple healthcare devices, smartphones and smartwatches to measure vital parameters, curb the progression of diabetes and close the communication loop with medical professionals. The proposed framework enables medical professionals to make informed decisions based on the latest diabetes risk predictions and lifestyle insights while attaining unobtrusiveness, reduced cost, and vendor interoperability. © 2021 The Authors. Healthcare Technology Letters published by John Wiley & Sons Ltd on behalf of The Institution of Engineering and Technology
+KW  - Forecasting
+KW  - Health risks
+KW  - mHealth
+KW  - Mobile telecommunication systems
+KW  - Patient treatment
+KW  - Predictive analytics
+KW  - Smartphones
+KW  - Support vector machines
+KW  - Wearable technology
+KW  - Cross-validation methods
+KW  - Healthcare monitoring
+KW  - Medical professionals
+KW  - Performance metrics
+KW  - Personal health devices
+KW  - Pima Indian Diabetes
+KW  - Sensitivity and specificity
+KW  - Vendor interoperability
+KW  - adult
+KW  - aged
+KW  - Article
+KW  - controlled study
+KW  - data accuracy
+KW  - decision making
+KW  - diabetes mellitus
+KW  - female
+KW  - health care cost
+KW  - health care planning
+KW  - health hazard
+KW  - human
+KW  - interpersonal communication
+KW  - machine learning
+KW  - major clinical study
+KW  - patient monitoring
+KW  - support vector machine
+KW  - telemonitoring
+KW  - Remote patient monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 95
+ER  -
+
+TY  - JOUR
+AU  - Phuyal, S.
+AU  - Elvas, L.B.
+AU  - Ferreira, J.C.
+AU  - Bista, R.
+TI  - Harnessing Wearable Devices for Enhanced Long-Term Care: Opportunities, Challenges, and Future Directions
+PY  - 2024
+T2  - International Journal of Computer Information Systems and Industrial Management Applications
+VL  - 16
+IS  - 3
+SP  - 502
+EP  - 514
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202478838&partnerID=40&md5=4d6196b639126bd69b3e60828fe66f64
+AB  - The incorporation of wearable devices within long-term care represents a ground breaking advancement in healthcare. These devices, leveraging sensor and intelligent technologies, possess the potential to revolutionize the supervision and handling of chronic illnesses, enriching the lives of individuals reliant on extended care. One of the primary considerations revolves around the question of whether recent technological advancements have made it feasible to deliver healthcare remotely to the elderly population. This paper conducts an exhaustive examination of wearable devices in the long-term care context, spotlighting their wide-ranging applications. It encompasses devices tailored for monitoring vital signs, mobility, medication adherence, cognitive health, and other critical facets of long-term care. Through an in-depth exploration of their capabilities and limitations, it illuminates their capacity to ease the strain on healthcare systems and enhance patient well-being. Moreover, this paper investigates the hurdles related to wearable device adoption in long-term care, addressing concerns like data security, user acceptance, and interoperability. By tackling these challenges, it endeavors to chart a path for the seamless integration of wearable technologies. Drawing insights from current research and industry trends, it identifies emerging prospects such as personalized care plans, remote monitoring, and data-driven healthcare interventions, fostering collaboration among healthcare stakeholders. By harnessing the full potential of wearable technologies, the quality of life of individuals in long-term care can be improved and also, it can contribute to achieve more efficient and sustainable healthcare systems. © 2024 by the authors.
+KW  - chronic illness management
+KW  - healthcare monitoring
+KW  - healthcare technology
+KW  - long-term care
+KW  - patient-centric care
+KW  - remote monitoring
+KW  - wearable devices
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Rayan, A.
+AU  - Al-Ghabeesh, S.H.
+AU  - Fawaz, M.
+AU  - Behar, A.
+AU  - Toumi, A.
+TI  - Experiences, barriers and expectations regarding current patient monitoring systems among ICU nurses in a University Hospital in Lebanon: a qualitative study
+PY  - 2024
+T2  - Frontiers in Digital Health
+VL  - 6
+C7  - 1259409
+DO  - 10.3389/fdgth.2024.1259409
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186433377&doi=10.3389%2ffdgth.2024.1259409&partnerID=40&md5=63bec8920150e5c3de972c9c150be1dd
+AB  - Purpose: The aim of the study is to assess the experiences, barriers, and expectations regarding current patient monitoring systems among intensive care unit nurses at one university hospital. Methods: A qualitative exploratory study approach was adopted to test the research questions. Results: Intensive care unit personnel placed a high value on practical criteria such as user friendliness and visualization while assessing the present monitoring system. Poor alarm handling was recognized as possible patient safety hazards. The necessity of high accessibility was highlighted once again for a prospective system; wireless, noninvasive, and interoperability of monitoring devices were requested; and smart phones for distant patient monitoring and alert management improvement were required. Conclusion: Core comments from ICU personnel are included in this qualitative research on patient monitoring. All national healthcare involved parties must focus more on user-derived insights to ensure a speedy and effective introduction of digital health technologies in the ICU. The findings from the alarm control or mobile device studies might be utilized to train ICU personnel to use new technology, minimize alarm fatigue, increase medical device accessibility, and develop interoperability standards in critical care practice. 2024 Rayan, Al-Ghabeesh, Fawaz, Behar and Toumi.
+KW  - barriers
+KW  - expectations
+KW  - experiences
+KW  - ICU nurses
+KW  - monitoring systems
+KW  - adult
+KW  - Article
+KW  - awareness
+KW  - clinical article
+KW  - data analysis
+KW  - education
+KW  - female
+KW  - health care personnel
+KW  - health care quality
+KW  - human
+KW  - human experiment
+KW  - intensive care unit
+KW  - job experience
+KW  - male
+KW  - marriage
+KW  - normal human
+KW  - nurse
+KW  - qualitative research
+KW  - semi structured interview
+KW  - university hospital
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Tarish, H.A.
+TI  - SS-FD: Internet of medical things-based patient health monitoring system
+PY  - 2021
+T2  - Periodicals of Engineering and Natural Sciences
+VL  - 9
+IS  - 3
+SP  - 641
+EP  - 651
+DO  - 10.21533/pen.v9i3.2220
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117194877&doi=10.21533%2fpen.v9i3.2220&partnerID=40&md5=539155a2c78d1379deba16bb5f76b6f6
+AB  - Internet of Medical Things (IoMT) consists of connected devices used to collect patient health information in a real-time environment. The IoMT device effectively handles medical issues by using health wearable and medical-grade wearables. Although IoMT can process the collected data, it has few pitfalls, such as interoperability of data, standardization issues, and computation complexity while detecting disease. By considering these issues, in this work, IoMT is utilized in the field of the remote patient monitoring system. Initially, the IoMT devices are placed on the human body and collect their health information continuously. The gathered details are processed using a salp swarm optimized fuzzy deep neural network (SS-FD). This system supports the patient health monitoring process with minimum low-cost consumption. The SS-FD classifier processes the obtained data; primary and emergency data is classified according to the fuzzy rule. This process improves the remote patient health data analysis and reduces the difficulties involved in the patient health analysis. Then the efficiency of the system is evaluated using experimental results. © 2021. The Author. All Rights Reserved.
+KW  - Internet of Medical Things (IoMT)
+KW  - interoperability data
+KW  - slap swarm optimized fuzzy deep neural network (SS-FD)
+KW  - wearable device
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Roth, J.
+AU  - Voigt, V.
+AU  - Yilmaz, O.
+AU  - Schauwinhold, M.
+AU  - Czaplik, M.
+AU  - Follmann, A.
+AU  - Pereira, C.B.
+TI  - Concept and development of a telemedical supervision system for anesthesiology in operating rooms using the interoperable communication standard ISO/IEEE 11073 SDC
+PY  - 2024
+T2  - Biomedizinische Technik
+DO  - 10.1515/bmt-2024-0378
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207868226&doi=10.1515%2fbmt-2024-0378&partnerID=40&md5=3c7668a2049659e7d8f77517caaf50d6
+AB  - Objectives: Discussion of a telemedical supervision system for anesthesiology in the operating room using the interoperable communication protocol SDC. Validation of a first conceptual demonstrator and highlight of strengths and weaknesses. Methods: The system includes relevant medical devices, a central anesthesia workstation (AN-WS), and a remote supervision workstation (SV-WS) and the concept uses the interoperability standard ISO/IEEE 11073 SDC. The validation method involves a human patient simulator, and the system is tested in an intervention study with 16 resident anesthetists supervised by a senior anesthetist. Results: This study presents a novel tele-supervision system that enables remote patient monitoring and communication between anesthesia providers and supervisors. It is composed of connected medical devices via SDC, a central AN-WS and a mobile remote SV-WS. The system is designed to handle multiple ORs and route the data to a single SV-WS. It enables audio/video connections and text chatting between the workstations and offers the supervisor to switch between cameras in the OR. Through a validation study the feasibility and usefulness of the system was assessed. Conclusions: Validation results highlighted, that such system might not replace physically present supervisors but is able to provide supervision for scenarios where supervision is currently not available or only under adverse circumstances. © 2024 the author(s).
+KW  - anesthesiology
+KW  - IEEE11073
+KW  - interoperability
+KW  - SDC
+KW  - tele supervision
+KW  - telemedicine
+KW  - Anesthetics
+KW  - Computer workstations
+KW  - Electrotherapeutics
+KW  - Frequency bands
+KW  - ISO Standards
+KW  - Communications protocols
+KW  - Communications standard
+KW  - Human patient simulators
+KW  - Ieee11073
+KW  - Interoperable communications
+KW  - Medical Devices
+KW  - Remote supervision
+KW  - SDC
+KW  - Supervision systems
+KW  - Tele supervision
+KW  - Remote patient monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ullah, S.S.
+AU  - Hussain, S.
+AU  - Alroobaea, R.
+AU  - Ali, I.
+TI  - Securing NDN-Based Internet of Health Things through Cost-Effective Signcryption Scheme
+PY  - 2021
+T2  - Wireless Communications and Mobile Computing
+VL  - 2021
+C7  - 5569365
+DO  - 10.1155/2021/5569365
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104408776&doi=10.1155%2f2021%2f5569365&partnerID=40&md5=7dd376d3f205795e1cdb44216b5a970b
+AB  - The Internet of Health Things (IoHT) is an extended version of the Internet of Things that is acting a starring role in data sharing remotely. These remote data sources consist of physiological processes, such as treatment progress, patient monitoring, and consultation. The main purpose of IoHT platform is to intervene independently from geographically remote areas by providing low-cost preventive or active healthcare services. Several low-power biomedical sensors with limited computing capabilities provide IoHT's communication, integration, computation, and interoperability. However, IoHT transfers IoT data via IP-centric Internet, which has implications for security and privacy. To address this issue, in this paper, we suggest using named data networking (NDN), a future Internet model that is well suited for mobile patients and caregivers. As the IoHT contains a lot of personal information about a user's physical condition, which can be detrimental to users' finances and health if leaked, therefore, data protection is important in the IoHT. Experts and scholars have researched this area, but the reconstruction of existing schemes could be further improved. Also, doing computing-intensive tasks leads to slower response times, which further worsens the performance of IoHT. We are trying to resolve such an error, so a new NDN-based certificateless signcryption scheme is proposed for IoHT using the security hardness of the hyperelliptic curve cryptosystem. Security analysis and comparisons with existing schemes show the viability of the designed scheme. The final results confirm that the designed scheme provides better security with minimal computational and communicational resources. Finally, we validate the security of the designed scheme against man-in-the-middle attacks and replay attacks using the AVISPA tool.  © 2021 Aroosa et al.
+KW  - Biosensors
+KW  - Cost effectiveness
+KW  - Cryptography
+KW  - Internet of things
+KW  - Network security
+KW  - Patient treatment
+KW  - Privacy by design
+KW  - Remote patient monitoring
+KW  - Certificateless signcryption
+KW  - Computing capability
+KW  - Hyperelliptic curve cryptosystems
+KW  - Man in the middle attacks
+KW  - Named data networkings
+KW  - Personal information
+KW  - Physiological process
+KW  - Security and privacy
+KW  - Data Sharing
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Shahbazi, Z.
+AU  - Byun, Y.-C.
+TI  - Towards a secure thermal-energy aware routing protocol in wireless body area network based on blockchain technology
+PY  - 2020
+T2  - Sensors (Switzerland)
+VL  - 20
+IS  - 12
+C7  - 3604
+SP  - 1
+EP  - 26
+DO  - 10.3390/s20123604
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086986024&doi=10.3390%2fs20123604&partnerID=40&md5=3d87171870db7ad6c4fb660d5a8584e3
+AB  - The emergence of biomedical sensor devices, wireless communication, and innovation in other technologies for healthcare applications result in the evolution of a new area of research that is termed as Wireless Body Area Networks (WBANs). WBAN originates from Wireless Sensor Networks (WSNs), which are used for implementing many healthcare systems integrated with networks and wireless devices to ensure remote healthcare monitoring. WBAN is a network of wearable devices implanted in or on the human body. The main aim of WBAN is to collect the human vital signs/physiological data (like ECG, body temperature, EMG, glucose level, etc.) round-the-clock from patients that demand secure, optimal and efficient routing techniques. The efficient, secure, and reliable designing of routing protocol is a difficult task in WBAN due to its diverse characteristic and restraints, such as energy consumption and temperature-rise of implanted sensors. The two significant constraints, overheating of nodes and energy efficiency must be taken into account while designing a reliable blockchain-enabled WBAN routing protocol. The purpose of this study is to achieve stability and efficiency in the routing of WBAN through managing temperature and energy limitations. Moreover, the blockchain provides security, transparency, and lightweight solution for the interoperability of physiological data with other medical personnel in the healthcare ecosystem. In this research work, the blockchain-based Adaptive Thermal-/Energy-Aware Routing (ATEAR) protocol for WBAN is proposed. Temperature rise, energy consumption, and throughput are the evaluation metrics considered to analyze the performance of ATEAR for data transmission. In contrast, transaction throughput, latency, and resource utilization are used to investigate the outcome of the blockchain system. Hyperledger Caliper, a benchmarking tool, is used to evaluate the performance of the blockchain system in terms of CPU utilization, memory, and memory utilization. The results show that by preserving residual energy and avoiding overheated nodes as forwarders, high throughput is achieved with the ultimate increase of the network lifetime. Castalia, a simulation tool, is used to evaluate the performance of the proposed protocol, and its comparison is made with Multipath Ring Routing Protocol (MRRP), thermal-aware routing algorithm (TARA), and Shortest-Hop (SHR). Evaluation results illustrate that the proposed protocol performs significantly better in balancing of temperature (to avoid damaging heat effect on the body tissues) and energy consumption (to prevent the replacement of battery and to increase the embedded sensor node life) with efficient data transmission achieving a high throughput value. © MDPI AG. All rights reserved.
+KW  - Blockchain
+KW  - Implanted sensors
+KW  - Internet of things
+KW  - Smart contract
+KW  - Thermal/energy-aware routing protocol
+KW  - Algorithms
+KW  - Blockchain
+KW  - Computer Communication Networks
+KW  - Humans
+KW  - Monitoring, Physiologic
+KW  - Wireless Technology
+KW  - Benchmarking
+KW  - Biosensors
+KW  - Blockchain
+KW  - Data transfer
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Health care
+KW  - Network security
+KW  - Physiology
+KW  - Routing protocols
+KW  - Sensor nodes
+KW  - Wireless local area networks (WLAN)
+KW  - Energy aware routing protocols
+KW  - Health care application
+KW  - Healthcare monitoring
+KW  - Resource utilizations
+KW  - Transaction throughput
+KW  - Wireless body area network
+KW  - Wireless communications
+KW  - Wireless sensor network (WSNs)
+KW  - algorithm
+KW  - computer network
+KW  - devices
+KW  - human
+KW  - physiologic monitoring
+KW  - wireless communication
+KW  - Power management (telecommunication)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 76
+ER  -
+
+TY  - JOUR
+AU  - Bughio, K.S.
+AU  - Cook, D.M.
+AU  - Shah, S.A.A.
+TI  - Developing a Novel Ontology for Cybersecurity in Internet of Medical Things-Enabled Remote Patient Monitoring
+PY  - 2024
+T2  - Sensors
+VL  - 24
+IS  - 9
+C7  - 2804
+DO  - 10.3390/s24092804
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192862844&doi=10.3390%2fs24092804&partnerID=40&md5=a3e26aabdecefbeba4b41ae23eb3c460
+AB  - IoT has seen remarkable growth, particularly in healthcare, leading to the rise of IoMT. IoMT integrates medical devices for real-time data analysis and transmission but faces challenges in data security and interoperability. This research identifies a significant gap in the existing literature regarding a comprehensive ontology for vulnerabilities in medical IoT devices. This paper proposes a fundamental domain ontology named MIoT (Medical Internet of Things) ontology, focusing on cybersecurity in IoMT (Internet of Medical Things), particularly in remote patient monitoring settings. This research will refer to similar-looking acronyms, IoMT and MIoT ontology. It is important to distinguish between the two. IoMT is a collection of various medical devices and their applications within the research domain. On the other hand, MIoT ontology refers to the proposed ontology that defines various concepts, roles, and individuals. MIoT ontology utilizes the knowledge engineering methodology outlined in Ontology Development 101, along with the structured life cycle, and establishes semantic interoperability among medical devices to secure IoMT assets from vulnerabilities and cyberattacks. By defining key concepts and relationships, it becomes easier to understand and analyze the complex network of information within the IoMT. The MIoT ontology captures essential key terms and security-related entities for future extensions. A conceptual model is derived from the MIoT ontology and validated through a case study. Furthermore, this paper outlines a roadmap for future research, highlighting potential impacts on security automation in healthcare applications. © 2024 by the authors.
+KW  - description logic (DL)
+KW  - first-order logic (FOL)
+KW  - Internet of Medical Things (IoMT)
+KW  - knowledge organization system (KOS)
+KW  - MIoT (Medical Internet of Things) Ontology
+KW  - ontology development
+KW  - resource description framework (RDF)
+KW  - Web Ontology Language (OWL)
+KW  - Computer Security
+KW  - Humans
+KW  - Internet of Things
+KW  - Monitoring, Physiologic
+KW  - Telemedicine
+KW  - Complex networks
+KW  - Computer circuits
+KW  - Data description
+KW  - Health care
+KW  - Internet of things
+KW  - Interoperability
+KW  - Life cycle
+KW  - Network security
+KW  - Semantic Web
+KW  - Semantics
+KW  - Description logic
+KW  - First order logic
+KW  - First-order logic
+KW  - Internet of medical thing
+KW  - Knowledge organization system
+KW  - Knowledge organization systems
+KW  - Medical internet of thing ontology
+KW  - Ontology development
+KW  - Ontology's
+KW  - Resource description framework
+KW  - Resources description frameworks
+KW  - Web ontology language (OWL)
+KW  - computer security
+KW  - devices
+KW  - human
+KW  - internet of things
+KW  - physiologic monitoring
+KW  - procedures
+KW  - telemedicine
+KW  - Ontology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Wettstein, R.
+AU  - Sedaghat-Hamedani, F.
+AU  - Heinze, O.
+AU  - Amr, A.
+AU  - Reich, C.
+AU  - Betz, T.
+AU  - Kayvanpour, E.
+AU  - Merzweiler, A.
+AU  - Büsch, C.
+AU  - Mohr, I.
+AU  - Friedmann-Bette, B.
+AU  - Frey, N.
+AU  - Dugas, M.
+AU  - Meder, B.
+TI  - A Remote Patient Monitoring System With Feedback Mechanisms Using a Smartwatch: Concept, Implementation, and Evaluation Based on the activeDCM Randomized Controlled Trial
+PY  - 2024
+T2  - JMIR mHealth and uHealth
+VL  - 12
+C7  - e58441
+DO  - 10.2196/58441
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85210775406&doi=10.2196%2f58441&partnerID=40&md5=893ae326f6141c84d131f1633c2faf3a
+AB  - Background: Technological advances allow for recording and sharing health-related data in a patient-centric way using smartphones and wearables. Secure sharing of such patient-generated data with physicians would enable close management of individual health trajectories, monitoring of risk factors, and asynchronous feedback. However, most remote patient monitoring (RPM) systems currently available are not fully integrated into hospital IT systems or lack a patient-centric design. Objective: The objective of this study was to conceptualize and implement a user-friendly, reusable, interoperable, and secure RPM system incorporating asynchronous feedback mechanisms using a broadly available consumer wearable (Apple Watch). In addition, this study sought to evaluate factors influencing patient acceptance of such systems. Methods: The RPM system requirements were established through focus group sessions. Subsequently, a system concept was designed and implemented using an iterative approach ensuring technical feasibility from the beginning. To assess clinical feasibility, the system was used as part of the activeDCM prospective randomized interventional study focusing on dilated cardiomyopathy. Each patient used the system for at least 12 months. The System Usability Scale was used to measure usability from a subjective patient perspective. In addition, an evaluation was conducted on the objective wearable interaction frequency as well as the completeness of transmitted data classified into sensor-based health data (SHD) and patient-reported outcome measures (PROMs). Descriptive statistics using box plots and bootstrapped multiple linear regression with 95% CIs were used for evaluation analyzing the influence of age, sex, device experience, and intervention group membership. Results: The RPM system comprised 4 interoperable components: patient devices, a data server, a data viewer, and a notification service. The system was evaluated with 95 consecutive patients with dilated cardiomyopathy (28/95, 29% female; mean age 50, SD 12 y) who completed the activeDCM study protocol. The system’s app achieved a mean System Usability Scale score of 78 (SD 17), which was most influenced by device experience. In total, 87% (83/95) of the patients could integrate the use of the app well or very well into their daily routine, and 71% (67/95) saw a benefit of the RPM system for management of their health condition. On average, patients interacted with the wearable on 61% (SD 26%) of days enrolled in the study. SHD were available on average for 78% (SD 23%) of days, and PROM data were available on 64% (SD 27%) of weeks enrolled in the study. Wearable interaction frequency, SHD, and PROM completeness were most influenced by intervention group membership. Conclusions: Our results mark a first step toward integrating RPM systems based on a consumer wearable device for primary patient input into standardized clinical workflows. They can serve as a blueprint for creating a user-friendly, reusable, interoperable, and secure RPM system that can be integrated into patients’ daily routines. © Reto Wettstein, Farbod Sedaghat-Hamedani, Oliver Heinze, Ali Amr, Christoph Reich, Theresa Betz, Elham Kayvanpour, Angela Merzweiler, Christopher Büsch, Isabell Mohr, Birgit Friedmann-Bette, Norbert Frey, Martin Dugas, Benjamin Meder.
+KW  - cardiology
+KW  - consumer device
+KW  - dilated cardiomyopathy
+KW  - Health Level 7 Fast Healthcare Interoperability Resources
+KW  - heart failure
+KW  - HL7 FHIR
+KW  - mobile health
+KW  - mobile phone
+KW  - remote patient monitoring
+KW  - telemedicine
+KW  - usability
+KW  - wearable
+KW  - Adult
+KW  - Aged
+KW  - Feedback
+KW  - Female
+KW  - Focus Groups
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Mobile Applications
+KW  - Monitoring, Physiologic
+KW  - Prospective Studies
+KW  - Wearable Electronic Devices
+KW  - adult
+KW  - aged
+KW  - controlled study
+KW  - devices
+KW  - feedback system
+KW  - female
+KW  - human
+KW  - information processing
+KW  - male
+KW  - middle aged
+KW  - mobile application
+KW  - physiologic monitoring
+KW  - procedures
+KW  - prospective study
+KW  - psychology
+KW  - randomized controlled trial
+KW  - wearable computer
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Knaup, P.
+AU  - Benning, N.-H.
+AU  - Seitz, M.W.
+AU  - Eisenmann, U.
+TI  - EHealth and clinical documentation systems
+PY  - 2020
+T2  - Studies in Health Technology and Informatics
+VL  - 274
+SP  - 174
+EP  - 188
+DO  - 10.3233/SHTI200676
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092433797&doi=10.3233%2fSHTI200676&partnerID=40&md5=c4163354a789887f4b7a82fff350d2b0
+AB  - eHealth is the use of modern information and communication technology (ICT) for trans-institutional healthcare purposes. Important subtopics of eHealth are health data sharing and telemedicine. Most of the clinical documentation to be shared is collected in patient records to support patient care. More sophisticated approaches to electronic patient records are trans-institutional or (inter-)national. Other aims for clinical documentation are quality management, reimbursement, legal issues, and medical research. Basic prerequisite for eHealth is interoperability, which can be divided into technical, semantic and process interoperability. There is a variety of international standards to support interoperability. Telemedicine is a subtopic of eHealth, which bridges spatial distance by using ICT for medical (inter-)actions. We distinguish telemedicine among healthcare professionals and telemedicine between health care professionals and patients. Both have a great potential to face the challenges of aging societies, the increasing number of chronically ill patients, multimorbidity and low number of physicians in remote areas. With ongoing digitalization more and more data are available digitally. Clinical documentation is an important source for big data analysis and artificial intelligence. The patient has an important role: Telemonitoring, wearable technologies, and smart home devices provide digital health data from daily life. These are high-quality data which can be used for medical decisions. © 2020 The authors and IOS Press. All rights reserved.
+KW  - eHealth
+KW  - interoperability
+KW  - medical documentation
+KW  - patient records
+KW  - telemedicine
+KW  - Artificial Intelligence
+KW  - Delivery of Health Care
+KW  - Documentation
+KW  - Electronic Health Records
+KW  - Humans
+KW  - Telemedicine
+KW  - Artificial intelligence
+KW  - Automation
+KW  - Clinical research
+KW  - Data Sharing
+KW  - Digital devices
+KW  - Information management
+KW  - Interoperability
+KW  - Public health
+KW  - Quality management
+KW  - Semantics
+KW  - Telemedicine
+KW  - Wearable technology
+KW  - Clinical documentation
+KW  - Electronic patient record
+KW  - Health care professionals
+KW  - High quality data
+KW  - Information and Communication Technologies
+KW  - International standards
+KW  - Medical decision making
+KW  - Process interoperability
+KW  - artificial intelligence
+KW  - documentation
+KW  - electronic health record
+KW  - health care delivery
+KW  - human
+KW  - telemedicine
+KW  - eHealth
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Gezimati, M.
+AU  - Singh, G.
+TI  - Internet of things enabled framework for terahertz and infrared cancer imaging
+PY  - 2023
+T2  - Optical and Quantum Electronics
+VL  - 55
+IS  - 1
+C7  - 26
+DO  - 10.1007/s11082-022-04087-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142223388&doi=10.1007%2fs11082-022-04087-8&partnerID=40&md5=ef60c1c4bc8bd7b3b24b374c5007f20b
+AB  - The fourth industrial revolution (4IR or Industry 4.0), its communication and information enabling technologies are revolutionizing the production and services applications. In the healthcare domain, electronic health (eHealth) is evolving towards healthcare 4.0 through the Internet of things, big data analytics, Cloud and Fog computing technologies. There is need for early cancer detection, which can be achieved by new imaging technologies for example Terahertz imaging and Infrared thermography. The integration of such new imaging modalities and wearable sensor networks with computer aided diagnosis systems (CAD) and IoT systems with interconnectivity and interoperability could enable continuous, remote observation of cancer diagnosed patients by experts to monitor the success of treatment procedures, side effects of drugs, statistical analysis and making predictions of cancer based on age and demographics etc. for timely intervention and personalized care. In the healthcare 4.0 paradigm, there is need not only for smart diagnosis but also care through remote patient monitoring. The vital signs associated with cancer and clinical information can be integrated to make the system culminate into a smart system with health records. This work proposes an IoT enabled deep learning framework for classification of breast images; we propose the development of both custom CNN model and fine-tuned, pretrained CNN models capable of multimodal image classification. IoT simulation and cloud processing is performed in the ThingSpeak cloud platform with email alert capability. The performance of the CNN models has been evaluated using the accuracy, sensitivity and specificity metrics which achieved 98.44%, 98.44% and 98.45% respectively for the custom CNN model together with the receiver operating characteristics curves and confusion matrices. © 2022, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+KW  - cancer
+KW  - Classification
+KW  - Convolutional neural networks
+KW  - Diagnosis
+KW  - Healthcare 4.0
+KW  - Industry 4.0
+KW  - Internet of medical things (IoMT)
+KW  - Internet of things (IoT)
+KW  - IR thermal imaging
+KW  - Multimodal framework
+KW  - THz imaging
+KW  - Cloud analytics
+KW  - Computer aided diagnosis
+KW  - Convolutional neural networks
+KW  - Data Analytics
+KW  - Deep learning
+KW  - Diseases
+KW  - Interoperability
+KW  - Medical imaging
+KW  - Patient monitoring
+KW  - Patient treatment
+KW  - Simulation platform
+KW  - Cancer
+KW  - CNN models
+KW  - Convolutional neural network
+KW  - Healthcare 4.0
+KW  - Internet of medical thing
+KW  - Internet of thing
+KW  - IR thermal imaging
+KW  - Multimodal frameworks
+KW  - Thermal-imaging
+KW  - THz imaging
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Khan, M.A.
+AU  - Rehman, S.U.
+AU  - Uddin, M.I.
+AU  - Nisar, S.
+AU  - Noor, F.
+AU  - Alzahrani, A.
+AU  - Ullah, I.
+TI  - An Online-Offline Certificateless Signature Scheme for Internet of Health Things
+PY  - 2020
+T2  - Journal of Healthcare Engineering
+VL  - 2020
+C7  - 6654063
+DO  - 10.1155/2020/6654063
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099291559&doi=10.1155%2f2020%2f6654063&partnerID=40&md5=13c7a7496bc8fab4305ce11216c79224
+AB  - The Internet of Health Things (IoHT) is an extended breed of the Internet of Things (IoT), which plays an important role in the remote sharing of data from various physical processes such as patient monitoring, treatment progress, observation, and consultation. The key benefit of the IoHT platform is the ease of time-independent interaction from geographically distant locations by offering preventive or proactive healthcare services at a lower cost. The communication, integration, computation, and interoperability in IoHT are provided by various low-power biomedical sensors equipped with limited computational capabilities. Therefore, conventional cryptographic solutions are not feasible for the majority of IoHT applications. In addition, executing computing-intensive tasks will lead to a slow response time that can deteriorate the performance of IoHT. We strive to resolve such a deficiency, and thus a new scheme has been proposed in this article, called an online-offline signature scheme in certificateless settings. The scheme divides the signing part into two phases, i.e., online and offline. In the absence of a message, the offline phase performs computationally intensive tasks, while lighter computations are executed in the online phase when there is a message. Security analyses and comparisons with the respective existing schemes are carried out to show the feasibility of the proposed scheme. The results obtained authenticate that the proposed scheme offers enhanced security with lower computational and communication costs.  © 2020 Muhammad Asghar Khan et al.
+KW  - Algorithms
+KW  - Computer Security
+KW  - Confidentiality
+KW  - Humans
+KW  - Internet
+KW  - Internet of Things
+KW  - Biosensors
+KW  - Data Sharing
+KW  - Internet of things
+KW  - Patient treatment
+KW  - Remote patient monitoring
+KW  - Biomedical sensors
+KW  - Certificateless signature schemes
+KW  - Communication cost
+KW  - Computational capability
+KW  - Healthcare services
+KW  - Internet of thing (IOT)
+KW  - Offline signatures
+KW  - Security analysis
+KW  - Article
+KW  - computer security
+KW  - computer simulation
+KW  - cost benefit analysis
+KW  - internet of health things
+KW  - internet of things
+KW  - online-offline certificateless signature scheme
+KW  - privacy
+KW  - probability
+KW  - software
+KW  - algorithm
+KW  - computer security
+KW  - confidentiality
+KW  - human
+KW  - Internet
+KW  - Authentication
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 23
+ER  -
+
+TY  - JOUR
+AU  - Mansouri, S.
+TI  - The development of the vital signs tele-monitoring system for the elderly by using ‘uml’ language and the interoperability standard ‘continua’
+PY  - 2020
+T2  - Open Bioinformatics Journal
+VL  - 13
+IS  - 1
+SP  - 92
+EP  - 105
+DO  - 10.2174/1875036202013010092
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099047563&doi=10.2174%2f1875036202013010092&partnerID=40&md5=97a15b11202a2c535fac9df089dfefcd
+AB  - Aims: We aim to develope a system allowing the telemonitoring of the elderly health status. Medical telemonitoring can make life easy and safe for elderly. The goal of this project is the development of a medical telemonitoring application. Background: Medical telemonitoring can make life easy and safe for elderly. Objective: The goal of this project is the development of a medical telemonitoring application. Methods: In this paper we exposed the different steps of the developing of a medical telemonitoring system designed for the elderly. We studied the medical needs and the system specifications. We used the UML language. Then we detailed the designed system with a total respect to the standard for the interoperability of connected medical equipment, Continua. We presented printed screens of the realized interfaces. Results: We realized an application based on web development, more specifically development of a management application for medical telemonitoring. Conclusion: In terms of perspectives, we aim to integrate security protocols in the developed system, integrate the data sent from the sensors into an E, H & R (HER) and send the patient file to a H, I & S (HIS). © 2020 Sofiene Mansouri.
+KW  - Continua
+KW  - Elderly
+KW  - Medical telemonitoring application
+KW  - Telemonitoring
+KW  - UML
+KW  - Vital signs
+KW  - aged
+KW  - anemia
+KW  - Article
+KW  - asthma
+KW  - body mass
+KW  - chronic obstructive lung disease
+KW  - computer language
+KW  - data interoperability
+KW  - diastolic blood pressure
+KW  - follow up
+KW  - heart failure
+KW  - heart infarction
+KW  - heart rate
+KW  - hospitalization
+KW  - human
+KW  - hypertension
+KW  - hypotension
+KW  - hypoxia
+KW  - internet of things
+KW  - lung cancer
+KW  - oximetry
+KW  - pneumonia
+KW  - postoperative care
+KW  - practice guideline
+KW  - questionnaire
+KW  - reliability
+KW  - telemedicine
+KW  - telemetry
+KW  - telemonitoring
+KW  - very elderly
+KW  - vital sign
+KW  - World Health Organization
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Cristobal-Huerta, A.
+AU  - Torrado-Carvajal, A.
+AU  - Rodriguez-Sanchez, C.
+AU  - Hernandez-Tamames, J.A.
+AU  - Luaces, M.
+AU  - Borromeo, S.
+TI  - Implementation of ISO/IEEE 11073 PHD SpO2 and ECG Device Specializations over Bluetooth HDP following Health Care Profile for Smart Living
+PY  - 2022
+T2  - Sensors
+VL  - 22
+IS  - 15
+C7  - 5648
+DO  - 10.3390/s22155648
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85137150819&doi=10.3390%2fs22155648&partnerID=40&md5=583ec780336354591ac7bf721ae982e7
+AB  - Current m-Health scenarios in the smart living era, as the interpretation of the smart city at each person’s level, present several challenges associated with interoperability between different clinical devices and applications. The Continua Health Alliance establishes design guidelines to standardize application communication to guarantee interoperability among medical devices. In this paper, we describe the implementation of two IEEE agents for oxygen saturation level (SpO2) measurements and electrocardiogram (ECG) data acquisition, respectively, and a smartphone IEEE manager for validation. We developed both IEEE agents over the Bluetooth Health Device Profile following the Continua guidelines and they are part of a telemonitoring system. This system was evaluated in a sample composed of 10 volunteers (mean age 29.8 ± 7.1 y/o; 5 females) under supervision of an expert cardiologist. The evaluation consisted of measuring the SpO2 and ECG signal sitting and at rest, before and after exercising for 15 min. Physiological measurements were assessed and compared against commercial devices, and our expert physician did not find any relevant differences in the ECG signal. Additionally, the system was assessed when acquiring and processing different heart rate data to prove that warnings were generated when the heart rate was under/above the thresholds for bradycardia and tachycardia, respectively. © 2022 by the authors.
+KW  - Bluetooth HDP
+KW  - Continua Health Alliance guidelines
+KW  - digital signal processors (DSPs)
+KW  - electrocardiography
+KW  - ISO/IEEE standards
+KW  - SpO2
+KW  - telemedicine
+KW  - Biomedical signal processing
+KW  - Bluetooth
+KW  - Electrocardiography
+KW  - Interoperability
+KW  - ISO Standards
+KW  - Physiological models
+KW  - Smartphones
+KW  - Alliance guidelines
+KW  - Bluetooth HDP
+KW  - Continuum health alliance guideline
+KW  - Digital signal processor
+KW  - Electrocardiogram signal
+KW  - Heart-rate
+KW  - IEEE standards
+KW  - ISO/IEEE standard
+KW  - Smart livings
+KW  - Spo2
+KW  - Data acquisition
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Paganelli, A.I.
+AU  - Velmovitsky, P.E.
+AU  - Miranda, P.
+AU  - Branco, A.
+AU  - Alencar, P.
+AU  - Cowan, D.
+AU  - Endler, M.
+AU  - Morita, P.P.
+TI  - A conceptual IoT-based early-warning architecture for remote monitoring of COVID-19 patients in wards and at home
+PY  - 2022
+T2  - Internet of Things (Netherlands)
+VL  - 18
+C7  - 100399
+DO  - 10.1016/j.iot.2021.100399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85119322873&doi=10.1016%2fj.iot.2021.100399&partnerID=40&md5=bb4ddb76eed47b1f3394525f801075fe
+AB  - Due to the COVID-19 pandemic, health services around the globe are struggling. An effective system for monitoring patients can improve healthcare delivery by avoiding in-person contacts, enabling early-detection of severe cases, and remotely assessing patients’ status. Internet of Things (IoT) technologies have been used for monitoring patients’ health with wireless wearable sensors in different scenarios and medical conditions, such as noncommunicable and infectious diseases. Combining IoT-related technologies with early-warning scores (EWS) commonly utilized in infirmaries has the potential to enhance health services delivery significantly. Specifically, the NEWS-2 has been showing remarkable results in detecting the health deterioration of COVID-19 patients. Although the literature presents several approaches for remote monitoring, none of these studies proposes a customized, complete, and integrated architecture that uses an effective early-detection mechanism for COVID-19 and that is flexible enough to be used in hospital wards and at home. Therefore, this article's objective is to present a comprehensive IoT-based conceptual architecture that addresses the key requirements of scalability, interoperability, network dynamics, context discovery, reliability, and privacy in the context of remote health monitoring of COVID-19 patients in hospitals and at home. Since remote monitoring of patients at home (essential during a pandemic) can engender trust issues regarding secure and ethical data collection, a consent management module was incorporated into our architecture to provide transparency and ensure data privacy. Further, the article details mechanisms for supporting a configurable and adaptable scoring system embedded in wearable devices to increase usefulness and flexibility for health care professions working with EWS. © 2021
+KW  - Architecture
+KW  - Consent
+KW  - COVID-19
+KW  - IoT
+KW  - NEWS-2
+KW  - Remote monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 67
+ER  -
+
+TY  - JOUR
+AU  - Gupta, D.
+AU  - Bhatia, M.P.S.
+AU  - Kumar, A.
+TI  - Resolving Data Overload and Latency Issues in Multivariate Time-Series IoMT Data for Mental Health Monitoring
+PY  - 2021
+T2  - IEEE Sensors Journal
+VL  - 21
+IS  - 22
+SP  - 25421
+EP  - 25428
+DO  - 10.1109/JSEN.2021.3095853
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85119604834&doi=10.1109%2fJSEN.2021.3095853&partnerID=40&md5=c9b2a0a04575140d25195aabeea11daf
+AB  - Pervasive healthcare services have evolved substantially in the recent years with IoMT rapidly changing the pace and scale of healthcare delivery. A promising application of IoMT is to fetch patterns of mental behaviour symptomatology based on bio-signals and transfer it to the corresponding hospital or psychologist for remote monitoring. But the data volume performance, device diversity interoperability, hacking unauthorized use and acceptance adoption barriers still restrain the practical and competent use of these devices. This research presents a plausible solution to surmount the data overload and processing latency in real-time sensory data collected through wearable devices for mental health monitoring. We propose a modified k-medoid data clustering technique based on time-frame restricted intra-cluster similarity calculations to obtain a summarized version of the original benchmark WESAD dataset for which the degree of information lost is minimum. A CNN is then trained on this summarized dataset for classification of mental state into the baseline, stress and amusement categories. The results show a significant reduction in the average execution time by 34% with a comparable accuracy to the original dataset, thus offering prompt real-time healthcare analytics. © 2001-2012 IEEE.
+KW  - Clustering
+KW  - CNN
+KW  - IoMT
+KW  - k-medoids
+KW  - mental state
+KW  - Classification (of information)
+KW  - Cluster analysis
+KW  - Diagnosis
+KW  - Health care
+KW  - Personal computing
+KW  - Clusterings
+KW  - CNN
+KW  - Data latencies
+KW  - Data overload
+KW  - Health monitoring
+KW  - IoMT
+KW  - K-medoids
+KW  - Mental health
+KW  - Mental state
+KW  - Multivariate time series
+KW  - Clustering algorithms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 24
+ER  -
+

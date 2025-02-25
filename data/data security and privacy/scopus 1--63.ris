@@ -1,0 +1,2882 @@
+﻿TY  - JOUR
+AU  - Ahmed, S.T.
+AU  - Mahesh, T.R.
+AU  - Srividhya, E.
+AU  - Vinoth Kumar, V.
+AU  - Khan, S.B.
+AU  - Albuali, A.
+AU  - Almusharraf, A.
+TI  - Towards blockchain based federated learning in categorizing healthcare monitoring devices on artificial intelligence of medical things investigative framework
+PY  - 2024
+T2  - BMC Medical Imaging
+VL  - 24
+IS  - 1
+C7  - 105
+DO  - 10.1186/s12880-024-01279-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192754090&doi=10.1186%2fs12880-024-01279-4&partnerID=40&md5=ea99e390a3490b2ee6c51dc17f9e6e46
+AB  - Categorizing Artificial Intelligence of Medical Things (AIoMT) devices within the realm of standard Internet of Things (IoT) and Internet of Medical Things (IoMT) devices, particularly at the server and computational layers, poses a formidable challenge. In this paper, we present a novel methodology for categorizing AIoMT devices through the application of decentralized processing, referred to as "Federated Learning" (FL). Our approach involves deploying a system on standard IoT devices and labeled IoMT devices for training purposes and attribute extraction. Through this process, we extract and map the interconnected attributes from a global federated cum aggression server. The aim of this terminology is to extract interdependent devices via federated learning, ensuring data privacy and adherence to operational policies. Consequently, a global training dataset repository is coordinated to establish a centralized indexing and synchronization knowledge repository. The categorization process employs generic labels for devices transmitting medical data through regular communication channels. We evaluate our proposed methodology across a variety of IoT, IoMT, and AIoMT devices, demonstrating effective classification and labeling. Our technique yields a reliable categorization index for facilitating efficient access and optimization of medical devices within global servers. © The Author(s) 2024.
+KW  - Artificial intelligence of medical things
+KW  - Device categorization
+KW  - Device labeling
+KW  - Federated learning
+KW  - Healthcare systems
+KW  - Artificial Intelligence
+KW  - Blockchain
+KW  - Humans
+KW  - Internet of Things
+KW  - artificial intelligence
+KW  - blockchain
+KW  - human
+KW  - internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Palumbo, A.
+AU  - Calabrese, B.
+AU  - Ielpo, N.
+AU  - Garropoli, R.
+AU  - Vizza, P.
+AU  - Demeco, A.
+AU  - Gramigna, V.
+TI  - A High-Performance, Secure Custom Electronics Circuit for Biopotential Measurement and Processing
+PY  - 2024
+T2  - Frontiers in Biomedical Technologies
+VL  - 11
+IS  - 3
+SP  - 361
+EP  - 374
+DO  - 10.18502/fbt.v11i3.15881
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198254601&doi=10.18502%2ffbt.v11i3.15881&partnerID=40&md5=af29fdd99ed1533bef314bac561f6340
+AB  - Purpose: In this paper, we propose a secure wearable and portable device aiming to (i) monitor physical activity in medical and clinical rehabilitation, (ii) evaluate the subject's movements in sports environments, and (iii) monitor wellness indicators. Materials and Methods: The innovative low-power custom circuit can acquire, pre-process, digitalize, and transmit EMG signals to a Raspberry PI4 device via a low-energy Bluetooth module. The Raspberry PI4 is a hub that sends data to a cloud-based system for remote monitoring and processing. The best cybersecurity practices have been implemented: firewall, anti-DDoS and SELinux. Results: We have assessed the system's vulnerability before and after the system's hardening. SELinux makes the system safer and prevents unauthorized access to patients' data health by tampering with the devices. Conclusion: Adopting IoT systems in telemedicine requires greater attention to cybersecurity. It is necessary to implement security mechanisms to guarantee the privacy of patient's health data. © 2024 Tehran University of Medical Sciences.
+KW  - Bio-Signal Acquisition
+KW  - Cybersecurity
+KW  - Electromyography
+KW  - Internet of Things
+KW  - Telemonitoring
+KW  - Telerehabilitation
+KW  - Article
+KW  - Biopotential Measurement
+KW  - Biopotential Processing
+KW  - computer security
+KW  - data base
+KW  - electrochemical analysis
+KW  - electromyogram
+KW  - electromyography
+KW  - electrophysiology
+KW  - human
+KW  - low energy radiation
+KW  - nonhuman
+KW  - P wave
+KW  - power supply
+KW  - privacy
+KW  - raspberry
+KW  - remote sensing
+KW  - signal noise ratio
+KW  - signal processing
+KW  - telemonitoring
+KW  - telerehabilitation
+KW  - vulnerability
+KW  - wireless communication
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zeshan, F.
+AU  - Ahmad, A.
+AU  - Babar, M.I.
+AU  - Hamid, M.
+AU  - Hajjej, F.
+AU  - Ashraf, M.
+TI  - An IoT-Enabled Ontology-Based Intelligent Healthcare Framework for Remote Patient Monitoring
+PY  - 2023
+T2  - IEEE Access
+VL  - 11
+SP  - 133947
+EP  - 133966
+DO  - 10.1109/ACCESS.2023.3332708
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85177089560&doi=10.1109%2fACCESS.2023.3332708&partnerID=40&md5=301e259a344e1e6342bc78d11ac3de62
+AB  - The advancement in automation and medical care technologies in recent decade has changed the traditional medical treatment of patients. Although, these technologies have increased the treatment's precision but the growing number and the complexity of IoT healthcare devices are impacting accuracy along with several other challenges. Moreover, the use of different programming languages, operating platforms and data management methodologies are creating restrictions in safe exchange, integration and reuse of information across different applications. However, with the advent of the semantic web, the semantic technologies are growing in healthcare systems due to the capability of machine interpretation and processing by overcoming the restriction of languages and data heterogeneity. The most common shortcoming in the existing systems are the context-awareness and quality of services and the absence of rich patient ontology; leading towards low accuracy of results. To this aim, this paper provides a smart health framework, consisting on the collection and processing of IoT data (related to patient conditions and context). The framework is supported by the patient ontology along with SWRL rules for better decision making that consider different features (context-awareness and quality of services) differently that results in the improved accuracy. In the evaluation process the proposed work has achieved an accuracy of 89.81%. This work will help the practitioners to treat the patients in a better way.  © 2013 IEEE.
+KW  - Healthcare framework
+KW  - IoT healthcare devices
+KW  - medical decision support system
+KW  - patient monitoring
+KW  - patient ontology
+KW  - Artificial intelligence
+KW  - Data handling
+KW  - Decision making
+KW  - Decision support systems
+KW  - Information management
+KW  - Information use
+KW  - Internet of things
+KW  - Ontology
+KW  - Patient monitoring
+KW  - Patient treatment
+KW  - Biomedical monitoring
+KW  - Context- awareness
+KW  - Healthcare framework
+KW  - IoT healthcare device
+KW  - Medical decision support system
+KW  - Medical services
+KW  - Ontology's
+KW  - Patient ontology
+KW  - Quality-of-service
+KW  - Temperature measurement
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Binabaji, F.
+AU  - Dashtian, K.
+AU  - Zare-Dorabei, R.
+AU  - Naseri, N.
+AU  - Noroozifar, M.
+AU  - Kerman, K.
+TI  - Innovative Wearable Sweat Sensor Array for Real-Time Volatile Organic Compound Detection in Noninvasive Diabetes Monitoring
+PY  - 2024
+T2  - Analytical Chemistry
+DO  - 10.1021/acs.analchem.4c02034
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200826934&doi=10.1021%2facs.analchem.4c02034&partnerID=40&md5=ab9f837e0fb699d584317adb91641eae
+AB  - Wearable sweat sensors are reshaping healthcare monitoring, providing real-time data on hydration and electrolyte levels with user-friendly, noninvasive devices. This paper introduces a highly portable two-channel microfluidic device for simultaneous sweat sampling and the real-time detection of volatile organic compound (VOC) biomarkers. This innovative wearable microfluidic system is tailored for monitoring diabetes through the continuous and noninvasive tracking of acetone and ammonia VOCs, and it seamlessly integrates with smartphones for easy data management. The core of this system lies in the utilization of carbon polymer dots (CPDs) and carbon dots (CDs) derived from monomers such as catechol, resorcinol, o-phenylenediamine, urea, and citric acid. These dots are seamlessly integrated into hydrogels made from gelatin and poly(vinyl alcohol), resulting in an advanced solid-state fluorometric sensor coating on a cellulose paper substrate. These sensors exhibit exceptional performance, offering linear detection ranges of 0.05-0.15 ppm for acetone and 0.25-0.37 ppm for ammonia, with notably low detection limits of 0.01 and 0.08 ppm, respectively. Rigorous optimization of operational parameters, encompassing the temperature, sample volume, and assay time, has been undertaken to maximize device performance. Furthermore, these sensors demonstrate impressive selectivity, effectively discerning between biologically similar substances and other potential compounds commonly present in sweat. As this field matures, the prospect of cost-effective, continuous, personalized health monitoring through wearable VOC sensors holds significant potential for overcoming barriers to comprehensive medical care in underserved regions. This highlights the transformative capacity of wearable VOC sweat sensing in ensuring equitable access to advanced healthcare diagnostics, particularly in remote or geographically isolated areas. © 2024 American Chemical Society.
+KW  - Acetone
+KW  - Ammonia
+KW  - Carbon
+KW  - Cost effectiveness
+KW  - Diagnosis
+KW  - Electrolytes
+KW  - Health care
+KW  - Microfluidics
+KW  - Nanosheets
+KW  - Phenols
+KW  - Polyvinyl alcohols
+KW  - Urea
+KW  - Wearable sensors
+KW  - Healthcare monitoring
+KW  - Highly-portable
+KW  - Microfluidics devices
+KW  - Microfluidics systems
+KW  - Real- time
+KW  - Real-time data
+KW  - Real-time detection
+KW  - Sensors array
+KW  - Two channel
+KW  - User friendly
+KW  - Volatile organic compounds
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Winderickx, J.
+AU  - Braeken, A.
+AU  - Mentens, N.
+TI  - Enhanced end-to-end security through symmetric-key cryptography in wearable medical sensor networks
+PY  - 2021
+T2  - Health and Technology
+VL  - 11
+IS  - 3
+SP  - 511
+EP  - 523
+DO  - 10.1007/s12553-021-00527-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103945951&doi=10.1007%2fs12553-021-00527-9&partnerID=40&md5=7b46de6f47445c5957625b94d007b6b0
+AB  - This paper describes a security protocol and proof-of-concept implementation for wearable medical sensor devices that are deployed in hospitals. The sensor device measures the patient’s vital sign parameters and sends them to the hospital server, such that the data can be processed and stored in the EMR (Electronic Medical Record) of the patient. The proposed security protocol is based on symmetric-key cryptography and addresses the challenges of anonymity, unlinkability, mutual authentication and perfect forward secrecy. Moreover, it relies on decentralised authentication, avoiding an authentication server to be the single point of attack. Besides offering strong security features, the proposed protocol and implementation take into account that sensor devices are typically constrained with respect to communication bandwidth and computation power. Therefore, these parameters are evaluated in addition to the security analysis of the presented protocol. Our solution gives stronger security guarantees than related work, while featuring a comparable computation overhead and the lowest communication overhead. © 2021, IUPESM and Springer-Verlag GmbH Germany, part of Springer Nature.
+KW  - Anonymity
+KW  - Medical sensor data
+KW  - Mutual authentication
+KW  - Perfect forward secrecy
+KW  - Symmetric-key security protocol
+KW  - Article
+KW  - data privacy
+KW  - electronic medical record
+KW  - health care system
+KW  - human
+KW  - information security
+KW  - patient information
+KW  - proof of concept
+KW  - symmetric key cryptography
+KW  - telemonitoring
+KW  - threat
+KW  - vital sign
+KW  - wireless communication
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Harinee, S.
+AU  - Mahendran, A.
+TI  - Secure ECG signal transmission for smart healthcare
+PY  - 2021
+T2  - International Journal of Performability Engineering
+VL  - 17
+IS  - 8
+SP  - 711
+EP  - 721
+DO  - 10.23940/ijpe.21.08.p7.711721
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114433071&doi=10.23940%2fijpe.21.08.p7.711721&partnerID=40&md5=5f32f787a548bda07250eefb7374a837
+AB  - The health care system is overwhelming with COVID-19 patients since the end of 2019. Many countries have postponed their public screening programs and are fighting to maintain balance between essential health care and COVID-19 pandemic. At this point of time, IoT along with artificial intelligence (AI) provides a solution for a remote IoT based healthcare system. IoT based wearable devices collect data and send them to the cloud via IoT Gateway. Further, the data are analyzed by AI to raise alerts at times of emergencies like a sudden drop-in pulse rate etc. AI needs a large database for training and processing. This threatens the patient’s data security and privacy. To overcome this threat, an encryption algorithm can be used. When it comes to remote healthcare, monitoring of cardio vascular muscles is the most important of all. This can be done by an electrocardiogram (ECG). These ECG signals are transmitted in case of emergency and are stored in remote servers. The ECG signals are unique in nature and they can be used in biometric devices which attract hackers. To avoid the intruders, the data is encrypted and transmitted. In this paper, we provide a lightweight cellular automaton (CA) based encryption algorithm to suit limited power and low memory devices. For ECG based evaluation, the MIT-BIH arrhythmia database is considered. © 2021 Totem Publisher, Inc. All rights reserved.
+KW  - AI
+KW  - Cellular automata
+KW  - ECG
+KW  - IoT based health care
+KW  - Security
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Cleary, F.
+AU  - Henshall, D.C.
+AU  - Balasubramaniam, S.
+TI  - On-Body Edge Computing Through E-Textile Programmable Logic Array
+PY  - 2021
+T2  - Frontiers in Communications and Networks
+VL  - 2
+C7  - 688419
+DO  - 10.3389/frcmn.2021.688419
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133775750&doi=10.3389%2ffrcmn.2021.688419&partnerID=40&md5=2f24aaf16527e4c26b58d0a1dd626020
+AB  - E-textiles have received tremendous attention in recent years due to the capability of integrating sensors into a garment, enabling high-precision sensing of the human body. Besides sensing, a number of solutions for e-textile garments have also integrated wireless interfaces, allowing sensing data to be transmitted, and also inbuilt capacitive touch sensors, allowing users to provide instructions. While this has provided a new level of sensing that can result in unprecedented applications, there has been little attention placed around on-body edge computing for e-textiles. This study focuses on the need for a noninvasive and remote health-monitoring solution with inbuilt on-body edge computing, and how enabling such sensing and computing capabilities in a fabric environment can act as a new method for healthcare monitoring through the use of embedded computing intelligence in smart garments. Facilitating computing in e-textiles can result in a new form of on-body edge computing, where sensor information is processed very close to the body before being transmitted to an external device or wireless access point. This form of computing can provide new security and data privacy capabilities and, at the same time, provide opportunities for new energy-harvesting mechanisms to process the data through the garment. This study proposes this concept through embroidered programmable logic arrays (PLAs) integrated into e-textiles. In the same way that PLAs have programmable logic circuits by interconnecting different AND, NOT, and OR gates, we propose e-textile–based gates that are sewn into a garment and connected through conductive thread stitching. Two designs are proposed, and this includes single- and multi-layered PLAs. Experimental validations have been conducted at the individual gates and the entire PLA circuits to determine the voltage utilization and logic computing reliability. The multilayered PLA garment superseded the single-layered garment with higher levels of accuracy in the yielded results due to the enhanced design layout, which reduces the potential for short circuits and errors occurring. Our proposed approach can usher in a new form of on-body edge computing for e-textile garments for future wearable technologies, and, in particular, with the current pandemic that requires noninvasive remote health-monitoring applications. Copyright © 2021 Cleary, Henshall and Balasubramaniam.
+KW  - e-textiles
+KW  - embroidered logic
+KW  - on-body edge computing
+KW  - PLA
+KW  - user interaction
+KW  - wearable
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Siddiqi, M.A.
+AU  - Doerr, C.
+AU  - Strydis, C.
+TI  - IMDfence: Architecting a Secure Protocol for Implantable Medical Devices
+PY  - 2020
+T2  - IEEE Access
+VL  - 8
+C7  - 9165063
+SP  - 147948
+EP  - 147964
+DO  - 10.1109/ACCESS.2020.3015686
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092024646&doi=10.1109%2fACCESS.2020.3015686&partnerID=40&md5=e3717ebed886dc940ad07e152e79052d
+AB  - Over the past decade, focus on the security and privacy aspects of implantable medical devices (IMDs) has intensified, driven by the multitude of cybersecurity vulnerabilities found in various existing devices. However, due to their strict computational, energy and physical constraints, conventional security protocols are not directly applicable to IMDs. Custom-tailored schemes have been proposed instead which, however, fail to cover the full spectrum of security features that modern IMDs and their ecosystems so critically require. In this paper we propose IMDfence, a security protocol for IMD ecosystems that provides a comprehensive yet practical security portfolio, which includes availability, non-repudiation, access control, entity authentication, remote monitoring and system scalability. The protocol also allows emergency access that results in the graceful degradation of offered services without compromising security and patient safety. The performance of the security protocol as well as its feasibility and impact on modern IMDs are extensively analyzed and evaluated. We find that IMDfence achieves the above security requirements at a mere less than 7% increase in total IMD energy consumption, and less than 14 ms and 9 kB increase in system delay and memory footprint, respectively. © 2013 IEEE.
+KW  - Authentication protocol
+KW  - battery DoS
+KW  - battery-depletion attack
+KW  - denial-of-service attack
+KW  - IMD
+KW  - implantable medical device
+KW  - non-repudiation
+KW  - smart card
+KW  - zero-power defense
+KW  - Access control
+KW  - Ecosystems
+KW  - Energy utilization
+KW  - Investments
+KW  - Entity authentications
+KW  - Graceful degradation
+KW  - Implantable medical devices
+KW  - Physical constraints
+KW  - Security and privacy
+KW  - Security protocols
+KW  - Security requirements
+KW  - System scalability
+KW  - Network security
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Bermad, N.
+AU  - Zemmoudj, S.
+AU  - Bouallouche-Medjkoune, L.
+AU  - Khoukhi, L.
+TI  - Pseudonym revocation system for IoT-based medical applications
+PY  - 2025
+T2  - Computer Networks
+VL  - 257
+C7  - 110983
+DO  - 10.1016/j.comnet.2024.110983
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212201139&doi=10.1016%2fj.comnet.2024.110983&partnerID=40&md5=cdabf971d77028f842c190d24b1ceaa9
+AB  - The Internet of Things (IoT) technology has revolutionized today's healthcare systems and their medical services. It brings numerous benefits to healthcare organizations dedicated for enhancing patient health treatment and prevention. This technology has significantly contributed to alleviating the therapeutic suffering of patients by strengthening and enhancing remote surveillance options. Medical devices, wearable sensors, and smart objects can construct a wireless body area network (WBAN) to monitor patients’ health conditions. In WBAN, the objects continuously communicate with each other to send, collect, analyze, exchange patient health information, and make appropriate decisions. However, due to the nature of wireless communications, security and privacy issues can negatively affect a patient's health status and personal life. Therefore, patients’ private and health data, including location, identity information, therapeutic actions, and e-healthcare records, must be safeguarded against misuse. Most existing privacy protocols, particularly those based on pseudonyms, aim to protect patients’ health and personal information using pseudonyms that are periodically renewed instead of their real identities. However, these protocols often lack discussions on pseudonym generation methods, revocation mechanisms and the life cycle management of pseudonyms in medical systems. In this paper, we propose a Pseudonym Revocation System (PRS) for IoT-based healthcare applications. Our approach addresses the limitations of current protocols by introducing a generic decentralized system that implements a complete life cycle of pseudonyms, from generation to revocation. It uses lightweight cryptography to secure pseudonym generation under the resource constraints of sensors. Unlike previous methods, our system is the first to ensure that pseudonyms can be seamlessly validated and verified using finite state machine without relying on a centralized authority. Pseudonym revocation has been either overlooked or inadequately addressed in previous works. In contrast, our approach incorporates both static and dynamic patient contexts, making it more dynamic and applicable in real-world scenarios.Through extensive simulations, we demonstrate that PRS outperforms existing solutions in terms of privacy protection, scalability, revocation time and performance, making it a robust solution for securing patient data in IoT healthcare environments. © 2024
+KW  - Health
+KW  - IoT
+KW  - Privacy
+KW  - Pseudonym
+KW  - Revocation
+KW  - Validation
+KW  - Data privacy
+KW  - Differential privacy
+KW  - Electronic health record
+KW  - Network security
+KW  - Pathology
+KW  - Health informations
+KW  - Healthcare systems
+KW  - Internet of things technologies
+KW  - Patient health
+KW  - Privacy
+KW  - Pseudonym
+KW  - Revocation
+KW  - Revocation systems
+KW  - Validation
+KW  - Wireless body area network
+KW  - Patient treatment
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Shreya, S.
+AU  - Chatterjee, K.
+AU  - Singh, A.
+TI  - A smart secure healthcare monitoring system with Internet of Medical Things
+PY  - 2022
+T2  - Computers and Electrical Engineering
+VL  - 101
+C7  - 107969
+DO  - 10.1016/j.compeleceng.2022.107969
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129292331&doi=10.1016%2fj.compeleceng.2022.107969&partnerID=40&md5=778433dbc0c25d57a3f9151a2d7a6a57
+AB  - The new era of information technologies made smart healthcare by including edge, Internet of Things (loT), Internet of Medical Things (IoMT), cloud computing etc. This adaptation has partially replaced the old medical system, making healthcare more efficient, easy, and customized. Wireless medical sensors are used in the smart healthcare sector to capture the patient's health data and transmit it to the remote server for treatment or diagnostic purposes. Every time a cloud-based solution is adopted to collect and preserve the sensitive and personal health information. This collected patient data is shared between the different stakeholders across the network. Due to this, healthcare systems are vulnerable to confidentiality, integrity and privacy threats. Secure data access is a big challenge in such systems. In this paper, a lightweight authentication technique with the privacy-preserving schema using fully homomorphic encryption is proposed. This approach can be used for a secure access of patient data through online mode, and also the data can be shared in an encrypted format for desired purposes of stakeholders. The proposed authentication scheme is for Internet of Medical Things that can resist all network attacks and is easy to implement. The performance analysis of the proposed work shows that overall execution time (80.03%), communication cost (15.62%) and energy consumption (79.19%) is reduced in comparison with existing work. © 2022 Elsevier Ltd
+KW  - Authentication
+KW  - Homomorphic encryption
+KW  - Internet of Medical Things
+KW  - IoT based technology
+KW  - Security
+KW  - Cryptography
+KW  - Data privacy
+KW  - Diagnosis
+KW  - Energy utilization
+KW  - Hospital data processing
+KW  - Internet of things
+KW  - Patient treatment
+KW  - Cloud-computing
+KW  - Healthcare monitoring
+KW  - Ho-momorphic encryptions
+KW  - Homomorphic-encryptions
+KW  - Internet of medical thing
+KW  - IoT based technology
+KW  - Medical systems
+KW  - Monitoring system
+KW  - Patient data
+KW  - Security
+KW  - Authentication
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 34
+ER  -
+
+TY  - JOUR
+AU  - Firat Kilincer, I.
+AU  - Ertam, F.
+AU  - Sengur, A.
+AU  - Tan, R.-S.
+AU  - Rajendra Acharya, U.
+TI  - Automated detection of cybersecurity attacks in healthcare systems with recursive feature elimination and multilayer perceptron optimization
+PY  - 2023
+T2  - Biocybernetics and Biomedical Engineering
+VL  - 43
+IS  - 1
+SP  - 30
+EP  - 41
+DO  - 10.1016/j.bbe.2022.11.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144039077&doi=10.1016%2fj.bbe.2022.11.005&partnerID=40&md5=482d2a8cfe0d3c02e008c9006cca2c28
+AB  - Widespread proliferation of interconnected healthcare equipment, accompanying software, operating systems, and networks in the Internet of Medical Things (IoMT) raises the risk of security compromise as the bulk of IoMT devices are not built to withstand internet attacks. In this work, we have developed a cyber-attack and anomaly detection model based on recursive feature elimination (RFE) and multilayer perceptron (MLP). The RFE approach selected optimal features using logistic regression (LR) and extreme gradient boosting regression (XGBRegressor) kernel functions. MLP parameters were adjusted by using a hyperparameter optimization and 10-fold cross-validation approach was performed for performance evaluations. The developed model was performed on various IoMT cybersecurity datasets, and attained the best accuracy rates of 99.99%, 99.94%, 98.12%, and 96.2%, using Edith Cowan University- Internet of Health Things (ECU-IoHT), Intensive Care Unit (ICU Dataset), Telemetry data, Operating systems’ data, and Network data from the testbed IoT/IIoT network (TON-IoT), and Washington University in St. Louis enhanced healthcare monitoring system (WUSTL-EHMS) datasets, respectively. The proposed method has the ability to counter cyber attacks in healthcare applications. © 2022 Nalecz Institute of Biocybernetics and Biomedical Engineering of the Polish Academy of Sciences
+KW  - Extreme Gradient Boosting Regressor (XGBRegressor)
+KW  - Internet of Medical Things (IoMT)
+KW  - Logistic Regression (LR)
+KW  - Multilayer Perceptron (MLP)
+KW  - Recursive Feature Elimination (RFE)
+KW  - Article
+KW  - classification algorithm
+KW  - classifier
+KW  - clinical evaluation
+KW  - computer security
+KW  - cross validation
+KW  - cyberattack
+KW  - extreme gradient boosting regression
+KW  - feature extraction
+KW  - feature selection
+KW  - feature selection algorithm
+KW  - health care
+KW  - health care system
+KW  - human
+KW  - information processing
+KW  - intensive care unit
+KW  - Internet
+KW  - internet of things
+KW  - kernel method
+KW  - logistic regression analysis
+KW  - major clinical study
+KW  - multiclass classification
+KW  - multilayer perceptron
+KW  - network security
+KW  - outlier detection
+KW  - recursive feature elimination
+KW  - regression analysis
+KW  - support vector machine
+KW  - telemetry
+KW  - telemonitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 64
+ER  -
+
+TY  - JOUR
+AU  - Dwivedi, R.K.
+AU  - Kumar, R.
+AU  - Buyya, R.
+TI  - Secure healthcare monitoring sensor cloud with attribute-based elliptical curve cryptography
+PY  - 2021
+T2  - International Journal of Cloud Applications and Computing
+VL  - 11
+IS  - 3
+DO  - 10.4018/IJCAC.2021070101
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108078995&doi=10.4018%2fIJCAC.2021070101&partnerID=40&md5=153483d673cfc3c10cbece6fc8940a5b
+AB  - Sensor networks are integrated with cloud in many internet of things (IoT) applications for various benefits. Healthcare monitoring sensor cloud is one of the application that allows storing the patients’ health data generated by their wearable sensors at cloud and facilitates the authorized doctors to monitor and advise them remotely. Patients’ data at cloud must be secure. Existing security schemes (e.g., key policy attribute-based encryption [KP-ABE] and ciphertext policy attribute-based encryption [CP-ABE]) have higher computational overheads. In this paper, a security mechanism called attribute-based elliptical curve cryptography (ABECC) is proposed that guarantees data integrity, data confidentiality, and fine-grained access control. It also reduces the computational overheads. ABECC is implemented in .NET framework. Use of elliptical curve cryptography (ECC) in ABECC reduces the key length, thereby improving the encryption, decryption, and key generation time. It is observed that ABECC is 1.7 and 1.4 times faster than the existing approaches of KP-ABE and CP-ABE, respectively. Copyright © 2021, IGI Global.
+KW  - Cloud Computing
+KW  - Data Security
+KW  - Elliptical Curve Cryptography
+KW  - Internet of Things
+KW  - Sensor Cloud
+KW  - Wearable Sensors
+KW  - Wireless Sensor Network (WSN)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Azbeg, K.
+AU  - Ouchetto, O.
+AU  - Jai Andaloussi, S.
+TI  - BlockMedCare: A healthcare system based on IoT, Blockchain and IPFS for data management security
+PY  - 2022
+T2  - Egyptian Informatics Journal
+VL  - 23
+IS  - 2
+SP  - 329
+EP  - 343
+DO  - 10.1016/j.eij.2022.02.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125470385&doi=10.1016%2fj.eij.2022.02.004&partnerID=40&md5=475dad87baf9d1660141738417178e55
+AB  - Nowadays, healthcare is growing rapidly due to the large development of new technologies such as IoT and wearable devices. These devices are widely used to ensure remote patient monitoring. The current implementation is based on a client/server architecture. This raises several challenges regarding security and privacy that make healthcare systems more susceptible to several attacks. Therefore, health data are subject to strict regulatory and security requirements. To overcome these challenges and comply with security regulations, the adoption of a distributed architecture is a necessity. Due to its distributed nature and its security promises, Blockchain has a large interest as a sophisticated technology to solve the security challenges in IoT-based systems. Motivated by these factors, this work proposes BlockMedCare, a secure healthcare system that integrates IoT with Blockchain. The system is designed to support remote patient monitoring, especially when it comes to chronic diseases that require regular monitoring. We took into consideration three main parameters: security, scalability, and processing time. The security is ensured by using the re-encryption proxy combined with Blockchain to store hash data. Smart contracts are used for access control. To ensure Blockchain scalability, an off-chain database based on IPFS is used to store data. To speed up the data storage process, we use an Ethereum Blockchain-based proof of authority. As a use case, we applied the system to diabetes management and showed the execution results based on the system interfaces. The experimental system has demonstrated a good improvement of healthcare systems in terms of security face to the existing methods. © 2022
+KW  - Blockchain
+KW  - Healthcare
+KW  - Internet of things
+KW  - IPFS
+KW  - Proxy re-encryption
+KW  - Remote patient monitoring
+KW  - Security
+KW  - Access control
+KW  - Client server computer systems
+KW  - Cryptography
+KW  - Digital storage
+KW  - Health care
+KW  - Information management
+KW  - Internet of things
+KW  - Scalability
+KW  - Wearable technology
+KW  - 'current
+KW  - Block-chain
+KW  - Client-server architectures
+KW  - Health data
+KW  - Healthcare systems
+KW  - IPFS
+KW  - Proxy re encryptions
+KW  - Security
+KW  - Security and privacy
+KW  - Wearable devices
+KW  - Blockchain
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 135
+ER  -
+
+TY  - JOUR
+AU  - Jameil, A.K.
+AU  - Al-Raweshidy, H.
+TI  - Enhancing offloading with cybersecurity in edge computing for digital twin-driven patient monitoring
+PY  - 2024
+T2  - IET Wireless Sensor Systems
+VL  - 14
+IS  - 6
+SP  - 363
+EP  - 380
+DO  - 10.1049/wss2.12086
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198860803&doi=10.1049%2fwss2.12086&partnerID=40&md5=8ded2b31536d5cc8b9dd002d69f9071f
+AB  - In healthcare, the use of digital twin (DT) technology has been recognised as essential for enhancing patient care through real-time remote monitoring. However, concerns regarding risk prediction, task offloading, and data security have been raised due to the integration of the Internet of Things (IoT) in remote healthcare. In this study, a new method was introduced, combines edge computing with sophisticated cybersecurity solutions. A vast amount of environmental and physiological data has been gathered, allowing for thorough understanding of patients. The system included hybrid encryption, threat prediction, Merkle Tree verification, certificate-based authentication, and secure communication. The feasibility of the proposal was evaluated by using an ESP32-Azure IoT Kit and Azure Cloud to evaluate the system's capacity to securely send patient data to healthcare institutions and stakeholders, while simultaneously upholding data confidentiality. The system demonstrated a notable improvement in encryption speed, with 27.18%, represented as the improved efficiency and achieved storage efficiency ratio 0.673. Furthermore, the evidence from the simulations showed that the system's performance was not affected by encryption since encryption times continuously remained within a narrow range. Moreover, proactive alert of probable security risks would be detected from the predictive analytics, hence strong data integrity assurance. The results suggest the proposed system provided a proactive, personalised care approach for cybersecurity-protected DT healthcare (DTH) high-level modelling and simulation, enabled via IoT and cloud computing under improved threat prediction. © 2024 The Author(s). IET Wireless Sensor Systems published by John Wiley & Sons Ltd on behalf of The Institution of Engineering and Technology.
+KW  - biosensors
+KW  - body area networks
+KW  - body sensor networks
+KW  - cloud computing
+KW  - computer network security
+KW  - data integrity
+KW  - decision making
+KW  - health care
+KW  - internet of things
+KW  - patient monitoring
+KW  - Body sensor networks
+KW  - Cloud storage
+KW  - Cryptography
+KW  - Decision making
+KW  - Health care
+KW  - Hospital data processing
+KW  - Internet of things
+KW  - Network security
+KW  - Patient monitoring
+KW  - Predictive analytics
+KW  - Trees (mathematics)
+KW  - Wearable sensors
+KW  - Bodyarea networks (BAN)
+KW  - Cloud-computing
+KW  - Computer network security
+KW  - Cyber security
+KW  - Data integrity
+KW  - Decisions makings
+KW  - Edge computing
+KW  - Patient care
+KW  - Real-time remote monitoring
+KW  - Threat prediction
+KW  - Efficiency
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Mondal, S.
+AU  - Ghosh, I.
+AU  - Das, A.
+TI  - Energy efficient and secure healthcare data transmission in the internet of medical things network
+PY  - 2023
+T2  - Microsystem Technologies
+VL  - 29
+IS  - 4
+SP  - 539
+EP  - 551
+DO  - 10.1007/s00542-022-05398-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142258622&doi=10.1007%2fs00542-022-05398-2&partnerID=40&md5=fa9db8638936ebf22c8cecad4f4d7dce
+AB  - The Internet of Things (IoT) gains myriad admiration in wide applications including medical and healthcare monitoring due to its low cost and its self-operating activities. Recently several wearable gadgets are used frequently and become popular in health monitoring systems. In the monitoring system, Biomedical Sensor Nodes (BSN) are used to sense the physiological parameters of the patients and transmitted to the coordinator or Base Station (BS) via the Internet of Medical Things (IoMT) frameworks for further analysis. BSNs are energy-constrained and the most amount of energy is consumed due to their information transmissions. Therefore, a key research problem is to reduce energy consumption and communication costs. Moreover, patient data, transmitted over the insecure channel may lead to security threats. Therefore, ensuring data privacy and integrity is another challenging issue. In this paper, we propose an energy-efficient and secure health monitoring system to reduce the energy consumption and communication cost of the monitoring system. On the other hand, it also provides secured data transmission by incorporating a Cipher Block Chaining (CBC) based lightweight security mechanism. Extensive simulation results reveal that the proposed scheme achieved improved performance in terms of network lifetime by 27%, average End-to-end delay by 18%, and average network throughput by 23%. In conclusion, our proposed algorithms prove to be a feasible solution for securing and extending the IoMT network lifetime. © 2022, The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.
+KW  - Cost reduction
+KW  - Data privacy
+KW  - Data transfer
+KW  - Energy efficiency
+KW  - Energy utilization
+KW  - Health care
+KW  - Hospital data processing
+KW  - Internet of things
+KW  - Monitoring
+KW  - Network security
+KW  - Physiological models
+KW  - Biomedical sensors
+KW  - Communication cost
+KW  - Data-transmission
+KW  - Energy efficient
+KW  - Health monitoring system
+KW  - Healthcare monitoring
+KW  - Low-costs
+KW  - Monitoring system
+KW  - Network lifetime
+KW  - Physiological parameters
+KW  - Sensor nodes
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Lian, Z.
+AU  - Yang, Q.
+AU  - Wang, W.
+AU  - Zeng, Q.
+AU  - Alazab, M.
+AU  - Zhao, H.
+AU  - Su, C.
+TI  - DEEP-FEL: Decentralized, Efficient and Privacy-Enhanced Federated Edge Learning for Healthcare Cyber Physical Systems
+PY  - 2022
+T2  - IEEE Transactions on Network Science and Engineering
+VL  - 9
+IS  - 5
+SP  - 3558
+EP  - 3569
+DO  - 10.1109/TNSE.2022.3175945
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130436965&doi=10.1109%2fTNSE.2022.3175945&partnerID=40&md5=f20832d81e4fc07d9530476e29cc8ca5
+AB  - The rapid development of Internet of Things (IoT) stimulates the innovation for the health-related devices such as remote patient monitoring, connected inhalers and ingestible sensors. Simultaneously, with the aid of numerous equipments, a great number of collected data can be used for disease prediction or diagnosis model establishment. However, the potential patient data leak will also bring privacy and security issues in the interaction period. To deal with these existing issues, we propose a decentralized, efficient, and privacy-enhanced federated edge learning system called DEEP-FEL, which enables medical devices in different institutions to collaboratively train a global model without raw data mutual exchange. Firstly, we design a hierarchical ring topology to alleviate centralization of the conventional training framework, and formulate the ring construction as an optimization problem, which can be solved by an efficient heuristic algorithm. Subsequently, we design an efficient parameter aggregation algorithm for distributed medical institutions to generate a new global model, and the total amount of data transmitted by N nodes is only 2/N times that of traditional algorithm. In addition, data security among different medical institutions is enhanced by adding artificial noise to the edge model. Finally, experimental results on three medical datasets demonstrate the superiority of our system.  © 2013 IEEE.
+KW  - Cyber physical systems
+KW  - decentralized system
+KW  - differential privacy
+KW  - federated learning
+KW  - mobile healthcare
+KW  - Blockchain
+KW  - Data privacy
+KW  - Decentralized systems
+KW  - Diagnosis
+KW  - Embedded systems
+KW  - Heuristic algorithms
+KW  - Hospital data processing
+KW  - Internet of things
+KW  - mHealth
+KW  - Peer to peer networks
+KW  - Remote patient monitoring
+KW  - Topology
+KW  - Collaborative Work
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Decentralised
+KW  - Decentralized system
+KW  - Differential privacies
+KW  - Federated learning
+KW  - Medical services
+KW  - Mobile handsets
+KW  - Peer-to-peer computing
+KW  - Cyber Physical System
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 54
+ER  -
+
+TY  - JOUR
+AU  - Vandana, T.S.
+AU  - Venkateswarlu, S.
+TI  - A biometric-based secure, energy efficient, lightweight authentication protocol for wireless body area networks
+PY  - 2021
+T2  - International Journal of Cloud Computing
+VL  - 10
+IS  - 4
+SP  - 319
+EP  - 330
+DO  - 10.1504/ijcc.2021.10043010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120819737&doi=10.1504%2fijcc.2021.10043010&partnerID=40&md5=96f857c12c902ac4c83ce9d30c24dde1
+AB  - Wireless body area networks are one of the important categories of wireless networks for remote healthcare monitoring using wearable computing devices. In WBANs, it must be guaranteed that the privacy of users is not exposed to unauthorised entities while sending and receiving the data. Hence, a proficient and secure authentication protocol is highly essential in WBANs. Conventional security protocols have restricted and few protocols cannot protect the privacy of users. In this work, a secure, energy-efficient, lightweight authentication protocol is proposed for securing WBAN that performs authentication session key establishment in privacy-preserving data aggregation. The proposed protocol provides confidentiality, integrity, availability and authenticity of data. Based on the security analysis, it is clear that the proposed protocol provides powerful protection than majority of the available schemes in insecure channels. Copyright © 2021 Inderscience Enterprises Ltd.
+KW  - Authentication protocol
+KW  - Biometrics
+KW  - Electrocardiogram
+KW  - Security protocols
+KW  - WBANs
+KW  - Wireless body area networks
+KW  - Wireless sensor networks
+KW  - Authentication
+KW  - Biometrics
+KW  - Cryptography
+KW  - Data privacy
+KW  - Energy efficiency
+KW  - Internet protocols
+KW  - Network security
+KW  - Wireless local area networks (WLAN)
+KW  - Wireless sensor networks
+KW  - Authentication protocols
+KW  - Computing devices
+KW  - Energy efficient
+KW  - Exposed to
+KW  - Healthcare monitoring
+KW  - Lightweight authentication protocols
+KW  - Security protocols
+KW  - WBAN
+KW  - Wearable computing
+KW  - Wireless body area network
+KW  - Electrocardiograms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Kalabakov, S.
+AU  - Jovanovski, B.
+AU  - Denkovski, D.
+AU  - Rakovic, V.
+AU  - Pfitzner, B.
+AU  - Konak, O.
+AU  - Arnrich, B.
+AU  - Gjoreski, H.
+TI  - Federated Learning for Activity Recognition: A System Level Perspective
+PY  - 2023
+T2  - IEEE Access
+VL  - 11
+SP  - 64442
+EP  - 64457
+DO  - 10.1109/ACCESS.2023.3289220
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163510877&doi=10.1109%2fACCESS.2023.3289220&partnerID=40&md5=756d63804636532b500a27df73522acb
+AB  - The past decade has seen substantial growth in the prevalence and capabilities of wearable devices. For instance, recent human activity recognition (HAR) research has explored using wearable devices in applications such as remote monitoring of patients, detection of gait abnormalities, and cognitive disease identification. However, data collection poses a major challenge in developing HAR systems, especially because of the need to store data at a central location. This raises privacy concerns and makes continuous data collection difficult and expensive due to the high cost of transferring data from a user's wearable device to a central repository. Considering this, we explore the adoption of federated learning (FL) as a potential solution to address the privacy and cost issues associated with data collection in HAR. More specifically, we investigate the performance and behavioral differences between FL and deep learning (DL) HAR models, under various conditions relevant to real-world deployments. Namely, we explore the differences between the two types of models when (i) using data from different sensor placements, (ii) having access to users with data from heterogeneous sensor placements, (iii) considering bandwidth efficiency, and (iv) dealing with data with incorrect labels. Our results show that FL models suffer from a consistent performance deficit in comparison to their DL counterparts, but achieve these results with much better bandwidth efficiency. Furthermore, we observe that FL models exhibit very similar responses to those of DL models when exposed to data from heterogeneous sensor placements. Finally, we show that the FL models are more robust to data with incorrect labels than their centralized DL counterparts.  © 2013 IEEE.
+KW  - bandwidth efficiency
+KW  - data errors
+KW  - deep learning
+KW  - different and heterogeneous sensor placements
+KW  - feature selection
+KW  - federated learning
+KW  - FL optimizers
+KW  - fraction fit
+KW  - Human activity recognition
+KW  - model complexity
+KW  - system-level aspects
+KW  - Bandwidth
+KW  - Data acquisition
+KW  - Data privacy
+KW  - Deep learning
+KW  - Feature extraction
+KW  - Bandwidth efficiency
+KW  - Data collection
+KW  - Data errors
+KW  - Deep learning
+KW  - Different and heterogeneous sensor placement
+KW  - Features extraction
+KW  - Features selection
+KW  - Federated learning
+KW  - Federated learning optimizer
+KW  - Fraction fit
+KW  - Heterogeneous sensors
+KW  - Human activity recognition
+KW  - Modeling complexity
+KW  - Optimizers
+KW  - Sensor placement
+KW  - Spectral efficiencies
+KW  - System levels
+KW  - System-level aspect
+KW  - Efficiency
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Zöllner, J.P.
+AU  - Noda, A.H.
+AU  - McCoy, J.
+AU  - Schulz, J.
+AU  - Tsalouchidou, P.-E.
+AU  - Langenbruch, L.
+AU  - Kovac, S.
+AU  - Knake, S.
+AU  - Von Podewils, F.
+AU  - Hamacher, M.
+AU  - Mann, C.
+AU  - Leyer, A.-C.
+AU  - Van Alphen, N.
+AU  - Schubert-Bast, S.
+AU  - Rosenow, F.
+AU  - Strzelczyk, A.
+TI  - Use of Health-Related Apps and Telehealth in Adults with Epilepsy in Germany: A Multicenter Cohort Study
+PY  - 2023
+T2  - Telemedicine and e-Health
+VL  - 29
+IS  - 4
+SP  - 540
+EP  - 550
+DO  - 10.1089/tmj.2022.0238
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85152170741&doi=10.1089%2ftmj.2022.0238&partnerID=40&md5=3c5e095f4c09025d3add50bde72451f5
+AB  - Background: Telehealth can improve the treatment of chronic disorders, such as epilepsy. Telehealth prevalence and use increased during the coronavirus disease 2019 (COVID-19) pandemic. However, familiarity with and use of telehealth and health-related mobile applications (apps) by persons with epilepsy remain unknown. Methods: We investigated telehealth use, demographics, and clinical variables within the multicenter Epi2020 cross-sectional study. Between October and December 2020, adults with epilepsy completed a validated questionnaire, including individual questions regarding knowledge and use of apps and telehealth. Results: Of 476 included individuals (58.2% women; mean age 40.2 ± 15.4 years), 41.6% reported using health-related apps. Health apps were used more frequently (pedometer 32.1%, exercise app 17.6%) than medical apps (health insurance 15.1%, menstrual apps 12.2%) or apps designed for epilepsy (medication reminders 10.3%, seizure calendars 4.6%). Few used seizure detectors (i.e., apps as medical devices 1.9%) or mobile health devices (fitness bracelet 11.3%). A majority (60.9%) had heard the term telehealth, 78.6% of whom had a positive view. However, only 28.6% had a concrete idea of telehealth, and only 16.6% reported personal experience with telehealth. A majority (55%) would attend a teleconsultation follow-up, and 41.2% would in a medical emergency. Data privacy and availability were considered equally important by 50.8%, 21.8% considered data privacy more important, and 20.2% considered data availability more important. Current health-related app use was independently associated with younger age (p = 0.003), higher education (p < 0.001), and subjective COVID-19-related challenges (p = 0.002). Persistent seizure occurrence (vs. seizure freedom ≥12 months) did not affect willingness to use teleconsultations on multivariable logistic regression analysis. Conclusions: Despite positive telehealth views, few persons with epilepsy in Germany are familiar with specific apps or services. Socioeconomic factors influence telehealth use more than baseline epilepsy characteristics. Telehealth education and services should target socioeconomically disadvantaged individuals to reduce the digital care gap. German Clinical Trials Register (DRKS00022024; Universal Trial Number: U1111-1252-5331).  © Copyright 2023, Mary Ann Liebert, Inc., publishers 2023.
+KW  - e-Health
+KW  - epilepsy
+KW  - remote monitoring
+KW  - seizures
+KW  - telehealth
+KW  - telemedicine
+KW  - wearables
+KW  - Adult
+KW  - Cohort Studies
+KW  - COVID-19
+KW  - Cross-Sectional Studies
+KW  - Epilepsy
+KW  - Female
+KW  - Germany
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Mobile Applications
+KW  - Telemedicine
+KW  - Young Adult
+KW  - COVID-19
+KW  - Health insurance
+KW  - Medical computing
+KW  - mHealth
+KW  - Neurology
+KW  - Telemedicine
+KW  - Wearable technology
+KW  - Chronic disorders
+KW  - Cohort studies
+KW  - E health
+KW  - Ehealth
+KW  - Epilepsy
+KW  - Remote monitoring
+KW  - Seizure
+KW  - Teleconsultation
+KW  - Telehealth
+KW  - Wearables
+KW  - adult
+KW  - clinical trial
+KW  - cohort analysis
+KW  - cross-sectional study
+KW  - epilepsy
+KW  - female
+KW  - Germany
+KW  - human
+KW  - male
+KW  - middle aged
+KW  - mobile application
+KW  - multicenter study
+KW  - telemedicine
+KW  - young adult
+KW  - Data privacy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Jourdan, T.
+AU  - Boutet, A.
+AU  - Bahi, A.
+AU  - Frindel, C.
+TI  - Privacy-preserving IoT Framework for Activity Recognition in Personal Healthcare Monitoring
+PY  - 2021
+T2  - ACM Transactions on Computing for Healthcare
+VL  - 2
+IS  - 1
+C7  - 3
+DO  - 10.1145/3416947
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124783618&doi=10.1145%2f3416947&partnerID=40&md5=e47225ba476b3af48d4c308b8d8eb5fc
+AB  - The increasing popularity of wearable consumer products can play a significant role in the healthcare sector. The recognition of human activities from IoT is an important building block in this context. While the analysis of the generated datastream can have many benefits from a health point of view, it can also lead to privacy threats by exposing highly sensitive information. In this article, we propose a framework that relies on machine learning to efficiently recognise the user activity, useful for personal healthcare monitoring, while limiting the risk of users re-identification from biometric patterns characterizing each individual. To achieve that, we show that features in temporal domain are useful to discriminate user activity while features in frequency domain lead to distinguish the user identity. We then design a novel protection mechanism processing the raw signal on the user's smartphone to select relevant features for activity recognition and normalise features sensitive to re-identification. These unlinkable features are then transferred to the application server. We extensively evaluate our framework with reference datasets: Results show an accurate activity recognition (87%) while limiting the re-identification rate (33%). This represents a slight decrease of utility (9%) against a large privacy improvement (53%) compared to state-of-the-art baselines. © 2020 ACM.
+KW  - Activity recognition
+KW  - IoT healthcare
+KW  - privacy
+KW  - Consumer products
+KW  - Health care
+KW  - Health risks
+KW  - Internet of things
+KW  - Pattern recognition
+KW  - Privacy-preserving techniques
+KW  - Activity recognition
+KW  - Healthcare monitoring
+KW  - Healthcare sectors
+KW  - Human activities
+KW  - IoT healthcare
+KW  - Personal health care
+KW  - Privacy
+KW  - Privacy preserving
+KW  - Re identifications
+KW  - User activity
+KW  - Article
+KW  - biometry
+KW  - data privacy
+KW  - feature extraction
+KW  - feature ranking
+KW  - feature selection
+KW  - human
+KW  - image segmentation
+KW  - internet of things
+KW  - learning algorithm
+KW  - machine learning
+KW  - priority journal
+KW  - signal processing
+KW  - Frequency domain analysis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Ullah, S.S.
+AU  - Hussain, S.
+AU  - Alroobaea, R.
+AU  - Ali, I.
+TI  - Securing NDN-Based Internet of Health Things through Cost-Effective Signcryption Scheme
+PY  - 2021
+T2  - Wireless Communications and Mobile Computing
+VL  - 2021
+C7  - 5569365
+DO  - 10.1155/2021/5569365
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104408776&doi=10.1155%2f2021%2f5569365&partnerID=40&md5=7dd376d3f205795e1cdb44216b5a970b
+AB  - The Internet of Health Things (IoHT) is an extended version of the Internet of Things that is acting a starring role in data sharing remotely. These remote data sources consist of physiological processes, such as treatment progress, patient monitoring, and consultation. The main purpose of IoHT platform is to intervene independently from geographically remote areas by providing low-cost preventive or active healthcare services. Several low-power biomedical sensors with limited computing capabilities provide IoHT's communication, integration, computation, and interoperability. However, IoHT transfers IoT data via IP-centric Internet, which has implications for security and privacy. To address this issue, in this paper, we suggest using named data networking (NDN), a future Internet model that is well suited for mobile patients and caregivers. As the IoHT contains a lot of personal information about a user's physical condition, which can be detrimental to users' finances and health if leaked, therefore, data protection is important in the IoHT. Experts and scholars have researched this area, but the reconstruction of existing schemes could be further improved. Also, doing computing-intensive tasks leads to slower response times, which further worsens the performance of IoHT. We are trying to resolve such an error, so a new NDN-based certificateless signcryption scheme is proposed for IoHT using the security hardness of the hyperelliptic curve cryptosystem. Security analysis and comparisons with existing schemes show the viability of the designed scheme. The final results confirm that the designed scheme provides better security with minimal computational and communicational resources. Finally, we validate the security of the designed scheme against man-in-the-middle attacks and replay attacks using the AVISPA tool.  © 2021 Aroosa et al.
+KW  - Biosensors
+KW  - Cost effectiveness
+KW  - Cryptography
+KW  - Internet of things
+KW  - Network security
+KW  - Patient treatment
+KW  - Privacy by design
+KW  - Remote patient monitoring
+KW  - Certificateless signcryption
+KW  - Computing capability
+KW  - Hyperelliptic curve cryptosystems
+KW  - Man in the middle attacks
+KW  - Named data networkings
+KW  - Personal information
+KW  - Physiological process
+KW  - Security and privacy
+KW  - Data Sharing
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Anand, D.
+AU  - Kaur, A.
+AU  - Singh, P.
+TI  - Enhancing Healthcare Monitoring with Efficient Computation Offloading in Fog Computing
+PY  - 2024
+T2  - International Journal of Computer Networks and Applications
+VL  - 11
+IS  - 4
+SP  - 506
+EP  - 518
+DO  - 10.22247/ijcna/2024/32
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203294268&doi=10.22247%2fijcna%2f2024%2f32&partnerID=40&md5=a359c2bc3e9a6d8765d9be45fc74eca5
+AB  - The exponential growth of produced data by healthcare monitoring devices poses a substantial challenge for conventional fog-based computing frameworks. Fog computing, a dispersed computing prototype that expands fog computing capabilities to the network's edge, emerges as a promising solution to address this challenge. This paper, proposes a technique for offloading computations for healthcare monitoring in fog computing, aiming to minimize task completion time, consumption of energy, execution time ratio and response time analysis. Enhancing Healthcare Monitoring with Optimal Computation Offloading in Fog Environment specifies that the research is focused on improving healthcare monitoring systems through the use of fog computing. In this approach, data processing is carried out closer to the source, such as medical devices or sensors, instead of depending only on centralized cloud servers. The "computation offloading" technique is moving computational workloads from less powerful devices to edge or fog nodes with more processing power. By using this method, the research seeks to improve real-time data processing, minimize latency, maximize resource use, and improve security in healthcare monitoring by retaining confidential data closer to its source. The goal of the study is to show how this strategy might result in healthcare monitoring systems that are more effective and efficient, especially when quick decisions and great data security are required. The proposed technique dynamically offloads computation tasks to fog nodes based on real-time network conditions, resource availability, and task characteristics. It emphasizes the achievement of superior performance metrics including the shortest job completion time, lowest energy consumption, and minimal cost compared to existing task offloading methods within healthcare contexts. The technique notably achieves a reduction of up to 31.1% in task completion time, 66.67% in energy consumption, and 20% in execution time ratio compared to existing task offloading methods in healthcare contexts. Additionally, it improves response time by 40%, demonstrating superior performance metrics. It conducts a thorough assessment of the proposed technique’s effectiveness through key performance indicators such as Task Completion Time, Energy Consumption, Execution Time Ratio, and Response Time Analysis. Finally, a detailed comparative analysis against established techniques enriches the discussion, providing valuable insights into the superiority of the proposed technique. ©EverScience Publications.
+KW  - Computation Offloading
+KW  - Dynamic Task
+KW  - Energy Consumption
+KW  - Execution Time Ratio
+KW  - Fog Computing
+KW  - Healthcare Monitoring
+KW  - Resource Optimization
+KW  - Response Time Analysis
+KW  - Task Completion Time
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Judith, A.
+AU  - Kathrine, G.J.W.
+AU  - Silas, S.
+AU  - J, A.
+TI  - Efficient Deep Learning-Based Cyber-Attack Detection for Internet of Medical Things Devices †
+PY  - 2023
+T2  - Engineering Proceedings
+VL  - 59
+IS  - 1
+C7  - 139
+DO  - 10.3390/engproc2023059139
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85186605037&doi=10.3390%2fengproc2023059139&partnerID=40&md5=89a68beebe08de0434e6feb13ba4e779
+AB  - The usage of IoT in the medical field, often referred to as IoMT, plays a vital role in facilitating the exchange of sensitive data among medical devices. This capability significantly contributes to enhancing the quality of patient care. However, it comes with privacy issues that compromise the security of the data collected by medical sensors, making them vulnerable to potential cyber threats such as data modification, replay attacks, etc. These attacks can lead to significant data loss or unauthorized alterations. Machine learning, particularly in cyber-attack detection systems, is crucial for identifying and classifying such attacks. Yet, the main challenge lies in adapting to the dynamic and unpredictable nature of malicious attacks and creating scalable solutions to combat them. The objective of this paper is to detect cybersecurity threats, with a particular focus on man-in-the-middle attacks that occur within the IoMT communication network. The study utilizes principal component analysis (PCA) for feature reduction and employs multi-layer perceptron to classify unforeseen cyber-attack IoT-based healthcare devices. The study evaluates the effectiveness of this proposed strategy using real-time data from the St. Louis Enhanced Healthcare Monitoring System (WUSTL-EHMS). The findings indicate that the multi-layer perceptron outperforms other tested classifiers, achieving an accuracy score of 96.39%, while also improving the performance by reducing the time complexity. © 2023 by the authors.
+KW  - cyber-attack detection
+KW  - deep learning
+KW  - Internet of Medical Things
+KW  - multi-layer perceptron
+KW  - principal component analysis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Mansoor, J.S.
+AU  - Subramaniam, K.
+TI  - Healthcare Monitoring-Based Iot Framework for Heart Disease Detection and Classification
+PY  - 2024
+T2  - Journal of Angiotherapy
+VL  - 8
+IS  - 3
+C7  - 9553
+DO  - 10.25163/angiotherapy.839553
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196825903&doi=10.25163%2fangiotherapy.839553&partnerID=40&md5=fa71d173c84cdc87fbf01a1056c9a358
+AB  - Background: Chronic diseases like diabetes, heart disease, and cancer pose significant global health challenges, contributing to a substantial portion of worldwide mortality. Diagnosing heart disease, with its diverse signs and symptoms, remains a complex task. The growing market for connected wearable devices presents opportunities for leveraging Internet of Things (IoT) technologies in healthcare. However, diagnosing and managing heart disease effectively remains a critical concern due to its high fatality rates. Integrating IoT into the traditional healthcare system holds promise for enhancing patient outcomes, particularly for those with heart disease. Methods: A Healthcare Monitoring-based IoT framework (HM-IoT) has been developed to enable continuous monitoring of heart disease patients, eliminating the need for manual feature extraction. This framework facilitates real-time monitoring of heart failure patients through IoT-enabled devices. Data encryption using the Enhanced Encryption Standard algorithm ensures the security of patient information within the cloud platform. An Artificial Neural Network (ANN) model is employed to classify encrypted data, promptly alerting healthcare professionals to abnormal physiological conditions. Results: Evaluation in Matlab revealed impressive processing capabilities, with decryption and encryption rates of 1085 milliseconds and 1075 milliseconds, respectively. Data protection level reached 91%, while the Security Rate level attained 99%. Performance metrics, including Accuracy (98%), Sensitivity (96%), Specificity (98%), and Precision (99.4%), demonstrated the reliability of the system in detecting potential instances of heart disease. Conclusion: The Healthcare Monitoring-based IoT framework represents a significant advancement in smart healthcare solutions for heart disease management. By integrating IoT technologies with healthcare infrastructure, the framework enables real-time monitoring, enhancing prognostic capabilities and facilitating timely interventions. © 2019 ANGIOTHERAPY, a publication of Eman Research Ltd, Australia.
+KW  - Artificial Neural Networks
+KW  - Enhanced Encryption Standard algorithm
+KW  - Healthcare Monitoring
+KW  - Internet of Things
+KW  - Security
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Muurling, M.
+AU  - de Boer, C.
+AU  - Kozak, R.
+AU  - Religa, D.
+AU  - Koychev, I.
+AU  - Verheij, H.
+AU  - Nies, V.J.M.
+AU  - Duyndam, A.
+AU  - Sood, M.
+AU  - Fröhlich, H.
+AU  - Hannesdottir, K.
+AU  - Erdemli, G.
+AU  - Lucivero, F.
+AU  - Lancaster, C.
+AU  - Hinds, C.
+AU  - Stravopoulos, T.G.
+AU  - Nikolopoulos, S.
+AU  - Kompatsiaris, I.
+AU  - Manyakov, N.V.
+AU  - Owens, A.P.
+AU  - Narayan, V.A.
+AU  - Aarsland, D.
+AU  - Visser, P.J.
+AU  - Buegler, M.
+AU  - Fischer, R.
+AU  - Harms, R.
+AU  - Meier, I.B.
+AU  - Tarnanas, I.
+AU  - Diaz, A.
+AU  - Georges, J.
+AU  - Gove, D.
+AU  - Lazarou, I.
+AU  - Mpaltadoros, L.
+AU  - Papastergiou, A.
+AU  - Stavropoulos, T.
+AU  - Strantsalis, D.
+AU  - Froehlich, H.
+AU  - Hoffman-Apitius, M.
+AU  - Novak, J.G.
+AU  - Schwertner, E.
+AU  - Secnik, J.
+AU  - Winblad, B.
+AU  - Conde, P.
+AU  - Folarin, A.
+AU  - Lavelle, G.
+AU  - McCarthy, A.
+AU  - Nickerson, A.
+AU  - Boere, J.
+AU  - Consiglio, B.
+AU  - Daskalova, Y.
+AU  - Kanter-Schlifke, I.
+AU  - Stolk, P.
+AU  - Coello, N.
+AU  - Curcic, J.
+AU  - Hache, T.
+AU  - Sverdlov, A.
+AU  - Vallejo, V.
+AU  - Yang, E.
+AU  - Dowling, A.
+AU  - Naylor, M.
+AU  - dos Reis, R.P.
+AU  - Shin, G.
+AU  - Borgdorff, J.
+AU  - Cirillo, E.
+AU  - Hedayati, K.
+AU  - Mahasivam, N.
+AU  - Doherty, A.
+AU  - Libert, S.
+AU  - Wu, Y.
+AU  - Durudas, A.
+TI  - Remote monitoring technologies in Alzheimer’s disease: design of the RADAR-AD study
+PY  - 2021
+T2  - Alzheimer's Research and Therapy
+VL  - 13
+IS  - 1
+C7  - 89
+DO  - 10.1186/s13195-021-00825-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105760857&doi=10.1186%2fs13195-021-00825-4&partnerID=40&md5=109620c5fe5bf5b626e204f96e1ad84c
+AB  - Background: Functional decline in Alzheimer’s disease (AD) is typically measured using single-time point subjective rating scales, which rely on direct observation or (caregiver) recall. Remote monitoring technologies (RMTs), such as smartphone applications, wearables, and home-based sensors, can change these periodic subjective assessments to more frequent, or even continuous, objective monitoring. The aim of the RADAR-AD study is to assess the accuracy and validity of RMTs in measuring functional decline in a real-world environment across preclinical-to-moderate stages of AD compared to standard clinical rating scales. Methods: This study includes three tiers. For the main study, we will include participants (n = 220) with preclinical AD, prodromal AD, mild-to-moderate AD, and healthy controls, classified by MMSE and CDR score, from clinical sites equally distributed over 13 European countries. Participants will undergo extensive neuropsychological testing and physical examination. The RMT assessments, performed over an 8-week period, include walk tests, financial management tasks, an augmented reality game, two activity trackers, and two smartphone applications installed on the participants’ phone. In the first sub-study, fixed sensors will be installed in the homes of a representative sub-sample of 40 participants. In the second sub-study, 10 participants will stay in a smart home for 1 week. The primary outcome of this study is the difference in functional domain profiles assessed using RMTs between the four study groups. The four participant groups will be compared for each RMT outcome measure separately. Each RMT outcome will be compared to a standard clinical test which measures the same functional or cognitive domain. Finally, multivariate prediction models will be developed. Data collection and privacy are important aspects of the project, which will be managed using the RADAR-base data platform running on specifically designed biomedical research computing infrastructure. Results: First results are expected to be disseminated in 2022. Conclusion: Our study is well placed to evaluate the clinical utility of RMT assessments. Leveraging modern-day technology may deliver new and improved methods for accurately monitoring functional decline in all stages of AD. It is greatly anticipated that these methods could lead to objective and real-life functional endpoints with increased sensitivity to pharmacological agent signal detection. © 2021, The Author(s).
+KW  - Alzheimer’s disease
+KW  - Remote monitoring technologies
+KW  - Wearable technologies
+KW  - Alzheimer Disease
+KW  - Caregivers
+KW  - Europe
+KW  - Humans
+KW  - Neuropsychological Tests
+KW  - Technology
+KW  - accelerometry
+KW  - adult
+KW  - Alzheimer disease
+KW  - Article
+KW  - augmented reality
+KW  - Clinical Dementia Rating
+KW  - cognition
+KW  - cohort analysis
+KW  - controlled study
+KW  - cross-sectional study
+KW  - data privacy
+KW  - female
+KW  - financial management
+KW  - functional status
+KW  - human
+KW  - information processing
+KW  - major clinical study
+KW  - male
+KW  - Mini Mental State Examination
+KW  - mobile application
+KW  - neuropsychological test
+KW  - observational study
+KW  - physical examination
+KW  - remote monitoring technology
+KW  - staging
+KW  - study design
+KW  - technology
+KW  - telemonitoring
+KW  - walk test
+KW  - Alzheimer disease
+KW  - caregiver
+KW  - Europe
+KW  - technology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 34
+ER  -
+
+TY  - JOUR
+AU  - Chen, C.
+AU  - He, D.
+AU  - Khan, M.K.
+AU  - Luo, M.
+AU  - Peng, C.
+TI  - A Secure Certificateless Signcryption Scheme Without Pairing for Internet of Medical Things
+PY  - 2023
+T2  - IEEE Internet of Things Journal
+VL  - 10
+IS  - 10
+SP  - 9136
+EP  - 9147
+DO  - 10.1109/JIOT.2022.3233180
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147211519&doi=10.1109%2fJIOT.2022.3233180&partnerID=40&md5=004656776bc61e348cb69ed193271287
+AB  - The Internet of Medical Things (IoMT), which integrates medical sensors with the Internet of Things, is helpful for providing remote diagnosis and real-time decision making. Massive data collected by medical and healthcare monitoring sensors in the IoMT involves sensitive patient information. It brings some security challenges to validate the legitimacy of participating entities and protect patient data privacy. A certificateless signcryption (CLSC) scheme combines encryption and signature that can offer authenticity, confidentiality, and unforgeability, providing a viable solution to the data privacy issue of the IoMT. However, existing CLSC schemes fail to meet confidentiality or unforgeability, or require expensive computation overhead to perform pairing operations. This article first presents a new CLSC scheme for secure data transmission and better smart services in IoMT, which replaces the signature part with the Schnorr signature. We then give a thorough security proof under the random oracle model. Besides, we elaborately evaluate the performance and security of some existing solutions with our solution. Finally, the experiment results indicate that our solution can achieve a better balance between security and performance than some existing schemes. Therefore, in terms of feasibility, our scheme is more suitable for the IoMT scenario.  © 2014 IEEE.
+KW  - Certificateless signcryption
+KW  - confidentiality
+KW  - data privacy protection
+KW  - Internet of Medical Things (IoMT)
+KW  - secure communication
+KW  - unforgeability
+KW  - Authentication
+KW  - Cryptography
+KW  - Decision making
+KW  - Hospital data processing
+KW  - Medical imaging
+KW  - Sensitive data
+KW  - Certificateless signcryption
+KW  - Confidentiality
+KW  - Data privacy protections
+KW  - Elliptic curve
+KW  - Intelligent sensors
+KW  - Medical diagnostic imaging
+KW  - Medical services
+KW  - Performances evaluation
+KW  - Security
+KW  - The internet of medical thing
+KW  - Unforgeability
+KW  - Diagnosis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 20
+ER  -
+
+TY  - JOUR
+AU  - Pini, N.
+AU  - Fifer, W.P.
+AU  - Oh, J.
+AU  - Nebeker, C.
+AU  - Croff, J.M.
+AU  - Smith, B.A.
+TI  - Remote data collection of infant activity and sleep patterns via wearable sensors in the HEALthy Brain and Child Development Study (HBCD)
+PY  - 2024
+T2  - Developmental Cognitive Neuroscience
+VL  - 69
+C7  - 101446
+DO  - 10.1016/j.dcn.2024.101446
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85198962299&doi=10.1016%2fj.dcn.2024.101446&partnerID=40&md5=f7026a87d3cddc4b5d1313e6cabfeba9
+AB  - The HEALthy Brain and Child Development (HBCD) Study, a multi-site prospective longitudinal cohort study, will examine human brain, cognitive, behavioral, social, and emotional development beginning prenatally and planned through early childhood. Wearable and remote sensing technologies have advanced data collection outside of laboratory settings to enable exploring, in more detail, the associations of early experiences with brain development and social and health outcomes. In the HBCD Study, the Novel Technology/Wearable Sensors Working Group (WG-NTW) identified two primary data types to be collected: infant activity (by measuring leg movements) and sleep (by measuring heart rate and leg movements). These wearable technologies allow for remote collection in the natural environment. This paper illustrates the collection of such data via wearable technologies and describes the decision-making framework, which led to the currently deployed study design, data collection protocol, and derivatives, which will be made publicly available. Moreover, considerations regarding actual and potential challenges to adoption and use, data management, privacy, and participant burden were examined. Lastly, the present limitations in the field of wearable sensor data collection and analysis will be discussed in terms of extant validation studies, the difficulties in comparing performance across different devices, and the impact of evolving hardware/software/firmware. © 2024
+KW  - Biosignals
+KW  - HBCD
+KW  - Infancy
+KW  - Longitudinal Cohort
+KW  - Protocols, Research Ethics, Digital Health
+KW  - Remote Data Collection
+KW  - Wearable Sensors
+KW  - Brain
+KW  - Child Development
+KW  - Data Collection
+KW  - Female
+KW  - Humans
+KW  - Infant
+KW  - Longitudinal Studies
+KW  - Male
+KW  - Prospective Studies
+KW  - Remote Sensing Technology
+KW  - Sleep
+KW  - Wearable Electronic Devices
+KW  - access to information
+KW  - Article
+KW  - brain development
+KW  - child development
+KW  - clinical study
+KW  - comparative study
+KW  - conceptual framework
+KW  - controlled study
+KW  - data analysis
+KW  - data privacy
+KW  - data processing
+KW  - data release
+KW  - decision making
+KW  - digital health
+KW  - diversity, equity and inclusion
+KW  - heart rate
+KW  - human
+KW  - infancy
+KW  - infant
+KW  - information processing
+KW  - leg movement
+KW  - medical ethics
+KW  - performance
+KW  - physical activity
+KW  - prospective study
+KW  - research protocol
+KW  - risk benefit analysis
+KW  - sleep pattern
+KW  - software
+KW  - study design
+KW  - telemonitoring
+KW  - usability
+KW  - validation study
+KW  - brain
+KW  - clinical trial
+KW  - devices
+KW  - female
+KW  - information processing
+KW  - longitudinal study
+KW  - male
+KW  - multicenter study
+KW  - physiology
+KW  - procedures
+KW  - remote sensing
+KW  - sleep
+KW  - wearable computer
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Ouni, R.
+AU  - Saleem, K.
+TI  - Secure smart home architecture for ambient-assisted living using a multimedia Internet of Things based system in smart cities
+PY  - 2024
+T2  - Mathematical Biosciences and Engineering
+VL  - 21
+IS  - 3
+SP  - 3473
+EP  - 3497
+DO  - 10.3934/mbe.2024153
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188181142&doi=10.3934%2fmbe.2024153&partnerID=40&md5=74b7825447a6a7552735f5b79f2c8fb6
+AB  - Recent advances in smartphones and remote monitoring based on the Internet of Things (IoT) have enabled improved multidimensional intelligent services. The advent of IoT-based wearable and multimedia sensors has prevented millions of mishaps through seamless and systematic monitoring. An IoT-based monitoring system is composed of several sensor devices to measure vital signs, fall detection, energy consumption, and visual recognition. As the data collected by the sensors are transmitted to cloud storage through the Internet, data security is a major concern when transmitting data from remote locations. To improve data security and prediction accuracy, in this study, we proposed a smart and secure multimedia IoT monitoring system for smart homes backed up by smart grid supervisory control and data acquisition (SCADA). The proposed system employs state-of-the-art IoT microcontrollers and hardware devices and integrates them in a manner that significantly affects the accuracy and speed of the entire system. Furthermore, the information gathered from IoT is securely transferred through private channels and stored on the cloud, which can be accessed authentically and reliably using an information system built into an IoT application. The output was extensively compared in terms of power consumption and delivery ratio, which were based on the values collected with sequence numbers. The comparative analysis demonstrated that the proposed approach provides increased prediction accuracy and better security. Hence, the proposed power-efficient prototype model monitors the entire smart home environment in real time and serves as an early warning system for critical situations. © 2024 the Author(s).
+KW  - data security
+KW  - Internet of Things
+KW  - remote sensing system
+KW  - smart homes
+KW  - Automation
+KW  - Data acquisition
+KW  - Digital storage
+KW  - Energy utilization
+KW  - Fall detection
+KW  - Information use
+KW  - Intelligent buildings
+KW  - Remote sensing
+KW  - Security of data
+KW  - Smart city
+KW  - Wearable sensors
+KW  - Ambient assisted living
+KW  - Intelligent Services
+KW  - Monitoring system
+KW  - Multimedia internet
+KW  - Prediction accuracy
+KW  - Remote monitoring
+KW  - Remote sensing system
+KW  - Sensor device
+KW  - Smart homes
+KW  - Smart phones
+KW  - article
+KW  - assisted living facility
+KW  - cloud computing
+KW  - diagnosis
+KW  - energy consumption
+KW  - home environment
+KW  - information security
+KW  - Internet
+KW  - internet of things
+KW  - multimedia
+KW  - prediction
+KW  - remote sensing
+KW  - sensor
+KW  - smart home
+KW  - smartphone
+KW  - velocity
+KW  - visual memory
+KW  - vital sign
+KW  - wearable device
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Miao, H.
+AU  - Li, C.
+AU  - Wang, J.
+TI  - A Future of Smarter Digital Health Empowered by Generative Pretrained Transformer
+PY  - 2023
+T2  - Journal of Medical Internet Research
+VL  - 25
+IS  - 1
+C7  - e49963
+DO  - 10.2196/49963
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172204717&doi=10.2196%2f49963&partnerID=40&md5=ed0550ce64050ecdd722ef7cd0c4d01e
+AB  - Generative pretrained transformer (GPT) tools have been thriving, as ignited by the remarkable success of OpenAI’s recent chatbot product. GPT technology offers countless opportunities to significantly improve or renovate current health care research and practice paradigms, especially digital health interventions and digital health–enabled clinical care, and a future of smarter digital health can thus be expected. In particular, GPT technology can be incorporated through various digital health platforms in homes and hospitals embedded with numerous sensors, wearables, and remote monitoring devices. In this viewpoint paper, we highlight recent research progress that depicts the future picture of a smarter digital health ecosystem through GPT-facilitated centralized communications, automated analytics, personalized health care, and instant decision-making. © 2023 Journal of Medical Internet Research. All rights reserved.
+KW  - AI
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - digital health
+KW  - ethics
+KW  - generative pretrained model
+KW  - generative pretrained transformer
+KW  - precision medicine
+KW  - privacy
+KW  - Ecosystem
+KW  - Health Services Research
+KW  - Hospitals
+KW  - Humans
+KW  - Software
+KW  - Technology
+KW  - Article
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - clinical decision making
+KW  - clinician
+KW  - data privacy
+KW  - digital technology
+KW  - ecosystem monitoring
+KW  - ethics
+KW  - generative pretrained transformer
+KW  - health care
+KW  - health education
+KW  - health service
+KW  - human
+KW  - interpersonal communication
+KW  - medical research
+KW  - personalized medicine
+KW  - remote sensing
+KW  - ecosystem
+KW  - health services research
+KW  - hospital
+KW  - software
+KW  - technology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Sarkar, A.
+AU  - Jhamb, M.
+TI  - Secure and portable health monitoring system for cyber physical systems in internet of things
+PY  - 2024
+T2  - Engineering Research Express
+VL  - 6
+IS  - 2
+C7  - 025357
+DO  - 10.1088/2631-8695/ad5269
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196628113&doi=10.1088%2f2631-8695%2fad5269&partnerID=40&md5=d6d65db37f7a88fc90fa5540d12257a5
+AB  - The incorporation of Internet of Things (IoT) technology into healthcare has introduced vulnerabilities within medical devices, thereby posing noteworthy risks to both patient safety and the inclusive integrity of healthcare systems. This contribution addresses the security concern of health care monitoring system. The STM32BL-475E IoT node along with its sensors provides a greener way to monitor health remotely with data privacy, along with this many such applications can be containerized to enable multiuser application in virtual set up. This paper proposes a methodology of dynamic key generation highlighting the potential for transformative healthcare advancements. The proposed work provides an improved avalanche effect of 51.6%, minimal RAM utilization of 3.49% and a randomness of 2^128 times which is very unpredictable to detect. This paper aims to integrate these technologies to create a resilient health monitoring framework with greater data indemnity. The integration of artificial intelligence with the proposed design is reserved as future work. © 2024 IOP Publishing Ltd.
+KW  - CPS
+KW  - embedded systems
+KW  - health
+KW  - IoT
+KW  - monitoring
+KW  - portable
+KW  - secure
+KW  - Cyber Physical System
+KW  - Data privacy
+KW  - Health care
+KW  - Internet of things
+KW  - CPS
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Embedded-system
+KW  - Health monitoring system
+KW  - Internet of things technologies
+KW  - Medical Devices
+KW  - Patient safety
+KW  - Portable
+KW  - Secure
+KW  - Embedded systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Cohen, I.G.
+AU  - Gerke, S.
+AU  - Kramer, D.B.
+TI  - Ethical and Legal Implications of Remote Monitoring of Medical Devices
+PY  - 2020
+T2  - Milbank Quarterly
+VL  - 98
+IS  - 4
+SP  - 1257
+EP  - 1289
+DO  - 10.1111/1468-0009.12481
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092901291&doi=10.1111%2f1468-0009.12481&partnerID=40&md5=3798939cc841d76c67eb54c6c6868442
+AB  - Policy Points Millions of life-sustaining implantable devices collect and relay massive amounts of digital health data, increasingly by using user-downloaded smartphone applications to facilitate data relay to clinicians via manufacturer servers. Our analysis of health privacy laws indicates that most US patients may have little access to their own digital health data in the United States under the Health Insurance Portability and Accountability Act Privacy Rule, whereas the EU General Data Protection Regulation and the California Consumer Privacy Act grant greater access to device-collected data. Our normative analysis argues for consistently granting patients access to the raw data collected by their implantable devices. Context: Millions of life-sustaining implantable devices collect and relay massive amounts of digital health data, increasingly by using user-downloaded smartphone applications to facilitate data relay to clinicians via manufacturer servers. Whether patients have either legal or normative claims to data collected by these devices, particularly in the raw, granular format beyond that summarized in their medical records, remains incompletely explored. Methods: Using pacemakers and implantable cardioverter-defibrillators (ICDs) as a clinical model, we outline the clinical ecosystem of data collection, relay, retrieval, and documentation. We consider the legal implications of US and European privacy regulations for patient access to either summary or raw device data. Lastly, we evaluate ethical arguments for or against providing patients access to data beyond the summaries presented in medical records. Findings: Our analysis of applicable health privacy laws indicates that US patients may have little access to their raw data collected and held by device manufacturers in the United States under the Health Insurance Portability and Accountability Act Privacy Rule, whereas the EU General Data Protection Regulation (GDPR) grants greater access to device-collected data when the processing of personal data falls under the GDPR's territorial scope. The California Consumer Privacy Act, the “little sister” of the GDPR, also grants greater rights to California residents. By contrast, our normative analysis argues for consistently granting patients access to the raw data collected by their implantable devices. Smartphone applications are increasingly involved in the collection, relay, retrieval, and documentation of these data. Therefore, we argue that smartphone user agreements are an emerging but potentially underutilized opportunity for clarifying both legal and ethical claims for device-derived data. Conclusions: Current health privacy legislation incompletely supports patients’ normative claims for access to digital health data. © 2020 Milbank Memorial Fund
+KW  - GDPR
+KW  - health policy
+KW  - HIPAA
+KW  - implantable cardioverter-defibrillators
+KW  - pacemakers
+KW  - Electronic Health Records
+KW  - Ethics, Medical
+KW  - Europe
+KW  - Health Insurance Portability and Accountability Act
+KW  - Humans
+KW  - Pacemaker, Artificial
+KW  - Patient Rights
+KW  - United States
+KW  - access to information
+KW  - Article
+KW  - health care policy
+KW  - hospital care
+KW  - human
+KW  - information retrieval
+KW  - medical documentation
+KW  - medical ethics
+KW  - medical record
+KW  - medical research
+KW  - medicolegal aspect
+KW  - priority journal
+KW  - privacy
+KW  - remote sensing
+KW  - telemonitoring
+KW  - United States
+KW  - artificial heart pacemaker
+KW  - electronic health record
+KW  - ethics
+KW  - Europe
+KW  - health insurance
+KW  - legislation and jurisprudence
+KW  - medical ethics
+KW  - patient right
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 24
+ER  -
+
+TY  - JOUR
+AU  - Rohini, K.R.
+AU  - Rajakumar, D.R.P.S.
+AU  - Geetha, D.R.S.
+TI  - IMPROVING DATA SECURITY AND SCALABILITY IN HEALTHCARE SYSTEM USING BLOCKCHAIN TECHNOLOGY
+PY  - 2024
+T2  - Scalable Computing
+VL  - 25
+IS  - 5
+SP  - 3440
+EP  - 3452
+DO  - 10.12694/scpe.v25i5.3164
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200736118&doi=10.12694%2fscpe.v25i5.3164&partnerID=40&md5=a1988d5236ac70390686e11fd6e63a1b
+AB  - The wearable tech revolution and the proliferation of Internet of Things (IoT) gadgets have created exciting new opportunities for remote patient monitoring. Healthcare providers are increasingly utilizing wearable technologies to expedite the process of diagnosis and treatment. The healthcare and research fields have been substantially impacted by emerging technologies. On the other hand, there are legitimate worries regarding the security of data transfers and transaction recording upon using these technologies. Healthcare departments need easy data interchange for interoperability. Protecting data security and integrity is crucial when exchanging information with authorized parties. In many existing solutions, patients’ sensitive data is collected and stored in smart healthcare systems. Scalability, breach or unauthorized access to this data can compromise privacy. The adoption of blockchain technology is one way to safeguard patient privacy in healthcare. Also, by facilitating the safe and secure exchange of data, blockchain technology is revolutionizing the healthcare industry by making traditional methods of diagnosis and treatment more reliable. However, blockchain has serious problems with its highly limited scalability. This article suggests a new method “SHORTBLOCKS” depending on blockchain technology for the safe administration and analysis of data. To circumvent the security-scalability issue and achieve high throughput, this study employs the newly introduced protocol “SHORTBLOCKS”, which extends blockchain concept to a direct acyclic graph of blocks. The proposed system uses both a private and a public blockchain that are created on the new protocol. In order to analyze patient health data, a system using smart contracts and a private blockchain is built. The system logs the occurrence to the public blockchain in the case that the smart contract raises an alarm due to an unusual reading. This will fix the scalability issue with initial blockchain as well as the security and privacy issues involved in remote patient monitoring. Simulation results shows the performance of the proposed system by comparing with existing solutions, SPECTRE protocol and GHOSTDAG protocol. © 2024 SCPE.
+KW  - Healthcare
+KW  - interoperability
+KW  - Private blockchain
+KW  - Public blockchain
+KW  - Remote patient monitoring
+KW  - Security and privacy
+KW  - Shortblocks
+KW  - Smart contracts
+KW  - Blockchain
+KW  - Data transfer
+KW  - Diagnosis
+KW  - Health care
+KW  - Internet of things
+KW  - Interoperability
+KW  - Remote patient monitoring
+KW  - Scalability
+KW  - Sensitive data
+KW  - Block-chain
+KW  - Health care providers
+KW  - Healthcare
+KW  - Healthcare systems
+KW  - Private blockchain
+KW  - Public blockchain
+KW  - Scalability issue
+KW  - Security and privacy
+KW  - Shortblock
+KW  - Smart contract
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Das, D.
+AU  - Ghosh, U.
+AU  - Shetty, S.
+AU  - Mohanty, S.
+TI  - Machine learning-enabled IoT applications for smart healthcare monitoring systems
+PY  - 2024
+T2  - Advances in Computers
+DO  - 10.1016/bs.adcom.2024.06.007
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199297644&doi=10.1016%2fbs.adcom.2024.06.007&partnerID=40&md5=8054e1498b17918bf5df1414f5db9c60
+AB  - In recent years, the landscape of healthcare has undergone a profound transformation driven by technological innovations, demographic shifts, and evolving patient expectations. Despite these advancements, the healthcare industry faces a series of formidable technical challenges that necessitate urgent attention and innovative solutions. These challenges include the critical need for real-time monitoring of individual health, the effective administration of Electronic Health Records (EHR) with a steadfast commitment to data security and privacy, and the effective harnessing of extensive medical data to inform and guide decision-making processes. To address these challenges, the integration of Internet of Things (IoT) and Machine Learning (ML) technologies into healthcare systems has emerged as a transformative paradigm. This chapter provides the practical implementations of ML-enabled IoT applications within smart healthcare monitoring systems. It focuses on the architectural foundations of remote healthcare monitoring systems, unraveling the key components, data flow mechanisms, and integration aspects essential for seamless healthcare data management and analysis. This chapter also analyzes the key challenges like real-time patient health monitoring, efficient EHR management, and using vast medical data for decision-making. By explaining the architecture of smart healthcare monitoring systems and discussing how IoT and ML work together for remote monitoring, telemedicine, EHR management, and data security, the chapter helps healthcare professionals understand and implement these technologies. In simple terms, it's a valuable resource for those looking to improve patient care and navigate the complexities of modern healthcare using innovative technologies. © 2024 Elsevier Inc.
+KW  - Data fusion
+KW  - Health informatics
+KW  - Predictive analytics
+KW  - Real-time data analysis
+KW  - Remote patient monitoring
+KW  - Wearable devices
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Rashid, Z.
+AU  - Folarin, A.A.
+AU  - Zhang, Y.
+AU  - Ranjan, Y.
+AU  - Conde, P.
+AU  - Sankesara, H.
+AU  - Sun, S.
+AU  - Stewart, C.
+AU  - Laiou, P.
+AU  - Dobson, R.J.B.
+TI  - Digital Phenotyping of Mental and Physical Conditions: Remote Monitoring of Patients Through RADAR-Base Platform
+PY  - 2024
+T2  - JMIR Mental Health
+VL  - 11
+C7  - e51259
+DO  - 10.2196/51259
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85206190865&doi=10.2196%2f51259&partnerID=40&md5=4a85ad405f29e72fc1fc95960d6b12af
+AB  - Background: The use of digital biomarkers through remote patient monitoring offers valuable and timely insights into a patient’s condition, including aspects such as disease progression and treatment response. This serves as a complementary resource to traditional health care settings leveraging mobile technology to improve scale and lower latency, cost, and burden. Objective: Smartphones with embedded and connected sensors have immense potential for improving health care through various apps and mobile health (mHealth) platforms. This capability could enable the development of reliable digital biomarkers from long-term longitudinal data collected remotely from patients. Methods: We built an open-source platform, RADAR-base, to support large-scale data collection in remote monitoring studies. RADAR-base is a modern remote data collection platform built around Confluent’s Apache Kafka to support scalability, extensibility, security, privacy, and quality of data. It provides support for study design and setup and active (eg, patient-reported outcome measures) and passive (eg, phone sensors, wearable devices, and Internet of Things) remote data collection capabilities with feature generation (eg, behavioral, environmental, and physiological markers). The back end enables secure data transmission and scalable solutions for data storage, management, and data access. Results: The platform has been used to successfully collect longitudinal data for various cohorts in a number of disease areas including multiple sclerosis, depression, epilepsy, attention-deficit/hyperactivity disorder, Alzheimer disease, autism, and lung diseases. Digital biomarkers developed through collected data are providing useful insights into different diseases. Conclusions: RADAR-base offers a contemporary, open-source solution driven by the community for remotely monitoring, collecting data, and digitally characterizing both physical and mental health conditions. Clinicians have the ability to enhance their insight through the use of digital biomarkers, enabling improved prevention, personalization, and early intervention in the context of disease management. © Zulqarnain Rashid, Amos A Folarin, Yuezhou Zhang, Yatharth Ranjan, Pauline Conde, Heet Sankesara, Shaoxiong Sun, Callum Stewart, Petroula Laiou, Richard J B Dobson. Originally published in JMIR Mental Health (https://mental.jmir.org), 23.10.2024.
+KW  - biomarkers
+KW  - data collection
+KW  - digital biomarkers
+KW  - Internet of Things
+KW  - IoT
+KW  - mHealth
+KW  - mobile apps
+KW  - mobile phone
+KW  - open-source platform
+KW  - phenotyping
+KW  - platform
+KW  - RADAR-base
+KW  - real-time monitoring
+KW  - remote data collection
+KW  - smartphone
+KW  - wearable
+KW  - wearables
+KW  - biological marker
+KW  - access to information
+KW  - Alzheimer disease
+KW  - Article
+KW  - attention deficit hyperactivity disorder
+KW  - autism
+KW  - behavior
+KW  - cardiometabolic risk factor
+KW  - central nervous system disease
+KW  - comparative study
+KW  - convalescence
+KW  - coronavirus disease 2019
+KW  - data privacy
+KW  - data quality
+KW  - depression
+KW  - digital health technology
+KW  - early intervention
+KW  - eating disorder
+KW  - environment
+KW  - epilepsy
+KW  - ethics
+KW  - gyroscope sensor
+KW  - health care facility
+KW  - health data
+KW  - human
+KW  - information processing
+KW  - information security
+KW  - information storage
+KW  - internet of things
+KW  - lung disease
+KW  - machine learning
+KW  - major depression
+KW  - medication compliance
+KW  - mental disease
+KW  - mental health
+KW  - multiple sclerosis
+KW  - patient-reported outcome
+KW  - permanent atrial fibrillation
+KW  - personalized medicine
+KW  - phenotype
+KW  - physical activity
+KW  - physical disease
+KW  - physiology
+KW  - questionnaire
+KW  - relapse
+KW  - telecommunication
+KW  - telehealth
+KW  - telemonitoring
+KW  - treatment response
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Cristiano, A.
+AU  - Musteata, S.
+AU  - De Silvestri, S.
+AU  - Bellandi, V.
+AU  - Ceravolo, P.
+AU  - Cesari, M.
+AU  - Azzolino, D.
+AU  - Sanna, A.
+AU  - Trojaniello, D.
+TI  - Older Adults' and Clinicians' Perspectives on a Smart Health Platform for the Aging Population: Design and Evaluation Study
+PY  - 2022
+T2  - JMIR Aging
+VL  - 5
+IS  - 1
+C7  - e29623
+DO  - 10.2196/29623
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126481035&doi=10.2196%2f29623&partnerID=40&md5=b5970e84ab8281f2d85272e9fa6d4873
+AB  - Background: Over recent years, interest in the development of smart health technologies aimed at supporting independent living for older populations has increased. The integration of innovative technologies, such as the Internet of Things, wearable technologies, artificial intelligence, and ambient-assisted living applications, represents a valuable solution for this scope. Designing such an integrated system requires addressing several aspects (eg, equipment selection, data management, analytics, costs, and users'needs) and involving different areas of expertise (eg, medical science, service design, biomedical and computer engineering). Objective: The objective of this study is 2-fold; we aimed to design the functionalities of a smart health platform addressing 5 chronic conditions prevalent in the older population (ie, hearing loss, cardiovascular diseases, cognitive impairments, mental health problems, and balance disorders) by considering both older adults'and clinicians' perspectives and to evaluate the identified smart health platform functionalities with a small group of older adults. Methods: Overall, 24 older adults (aged >65 years) and 118 clinicians were interviewed through focus group activities and web-based questionnaires to elicit the smart health platform requirements. Considering the elicited requirements, the main functionalities of smart health platform were designed. Then, a focus group involving 6 older adults was conducted to evaluate the proposed solution in terms of usefulness, credibility, desirability, and learnability. Results: Eight main functionalities were identified and assessed-cognitive training and hearing training (usefulness: 6/6, 100%; credibility: 6/6, 100%; desirability: 6/6, 100%; learnability: 6/6, 100%), monitoring of physiological parameters (usefulness: 6/6, 100%; credibility: 6/6, 100%; desirability: 6/6, 100%; learnability: 5/6, 83%), physical training (usefulness: 6/6, 100%; credibility: 6/6, 100%; desirability: 5/6, 83%; learnability: 2/6, 33%), psychoeducational intervention (usefulness: 6/6, 100%; credibility: 6/6, 100%; desirability: 4/6, 67%; learnability: 2/6, 33%), mood monitoring (usefulness: 4/6, 67%; credibility: 4/6, 67%; desirability: 3/6, 50%; learnability: 5/6, 50%), diet plan (usefulness: 5/6, 83%; credibility: 4/6, 67%; desirability: 1/6, 17%; learnability: 2/6, 33%), and environment monitoring and adjustment (usefulness: 1/6, 17%; credibility: 1/6, 17%; desirability: 0/6, 0%; learnability: 0/6, 0%). Most of them were highly appreciated by older participants, with the only exception being environment monitoring and adjustment. The results showed that the proposed functionalities met the needs and expectations of users (eg, improved self-management of patients' disease and enhanced patient safety). However, some aspects need to be addressed (eg, technical and privacy issues). Conclusions: The presented smart health platform functionalities seem to be able to meet older adults' needs and desires to enhance their self-awareness and self-management of their medical condition, encourage healthy and independent living, and provide evidence-based support for clinicians' decision-making. Further research with a larger and more heterogeneous pool of stakeholders in terms of demographics and clinical conditions is needed to assess system acceptability and overall user experience in free-living conditions. © 2022 JMIR Publications Inc.. All right reserved.
+KW  - age-related chronic conditions
+KW  - healthy aging
+KW  - Internet of Things
+KW  - mobile phone
+KW  - older population
+KW  - remote monitoring
+KW  - requirement elicitation
+KW  - smart health
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Ibrahim, M.
+AU  - Alsheikh, A.
+AU  - Matar, A.
+TI  - Attack graph modeling for implantable pacemaker
+PY  - 2020
+T2  - Biosensors
+VL  - 10
+IS  - 2
+C7  - 14
+DO  - 10.3390/bios10020014
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082198268&doi=10.3390%2fbios10020014&partnerID=40&md5=8830b1fc71f7cc845babeb94ffa2503f
+AB  - Remote health monitoring systems are used to audit implantable medical devices or patients’ health in a non-clinical setting. These systems are prone to cyberattacks exploiting their critical vulnerabilities. Thus, threatening patients’ health and confidentiality. In this paper, a pacemaker automatic remote monitoring system (PARMS) is modeled using architecture analysis and design language (AADL), formally characterized, and checked using the JKind model checker tool. The generated attack graph is visualized using the Graphviz tool, and classifies security breaches through the violation of the security features of significance. The developed attack graph showed the essentiality of setting up appropriate security measures in PARMS. © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+KW  - Internet of things (IoT) medical devices
+KW  - Pacemaker
+KW  - Threat modeling
+KW  - Vulnerabilities
+KW  - Computer Graphics
+KW  - Humans
+KW  - Pacemaker, Artificial
+KW  - Research Design
+KW  - Cybersecurity
+KW  - Model checking
+KW  - Remote control
+KW  - Security systems
+KW  - Attack graph
+KW  - Graph model
+KW  - Implantable pacemaker
+KW  - Internet of thing  medical device
+KW  - Medical Devices
+KW  - Patient health
+KW  - Remote health monitoring
+KW  - Remote monitoring system
+KW  - Threat modeling
+KW  - Vulnerability
+KW  - architecture analysis and design language
+KW  - Article
+KW  - computer security
+KW  - information processing
+KW  - malware
+KW  - pacemaker automatic remote monitoring system
+KW  - wireless communication
+KW  - artificial heart pacemaker
+KW  - computer graphics
+KW  - human
+KW  - methodology
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Stuijt, D.G.
+AU  - van Doeveren, E.E.M.
+AU  - Kos, M.
+AU  - Eversdijk, M.
+AU  - Bosch, J.J.
+AU  - Bins, A.D.
+AU  - Bak, M.A.R.
+AU  - van Oijen, M.G.H.
+TI  - Remote Patient Monitoring Using Mobile Health Technology in Cancer Care and Research: Patients’ Views and Preferences
+PY  - 2024
+T2  - JCO Clinical Cancer Informatics
+VL  - 8
+C7  - e2400092
+DO  - 10.1200/CCI.24.00092
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85209481204&doi=10.1200%2fCCI.24.00092&partnerID=40&md5=15a4a59e6c69bb78200645e1a9110294
+AB  - PURPOSE There is an increasing interest in studying the potential of mobile health (mHealth) technologies, such as smartphone apps and wearables, as monitoring tools for patients with cancer during or after their treatment. However, little research is dedicated to exploring the opinions and concerns of patients regarding the adoption of these technologies. This study aimed to gain insight into patients’ perspectives and preferences for participating in mHealth-based monitoring in cancer care. METHODS A qualitative study comprising semistructured interviews was conducted in the Netherlands between April and June 2023. Participants were eligible if they were 18 years or older with a current or past diagnosis of cancer. The interview guide was developed on the basis of the technology acceptance model, with main themes being use, communication, trust, privacy, and expectations. RESULTS Thirteen participants with urologic primary cancer were interviewed. Most patients had already some familiarity with the use of digital monitoring devices or wearables. Main barriers included persistent reminders of the illness, receiving notifications deemed unnecessary or unwanted, and the acknowledgment that mHealth technology does not serve as a substitute for human doctors. Conversely, patients recognized the potential for time-savings through the utilization of mHealth, viewed active monitoring as nonburdensome, considered mHealth a tool for reducing the communication threshold with their doctor, and expressed willingness to adopt such a platform if they perceived personal or societal relevance. CONCLUSION This study has elucidated which factors are important for successful development of mHealth for patients with cancer. While both barriers and facilitators play a role, patients’ attitudes were positive toward the implementation of remote digital monitoring, showing promising prospects for future research of mHealth in oncology. © 2024 by American Society of Clinical Oncology.
+KW  - Adult
+KW  - Aged
+KW  - Female
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Mobile Applications
+KW  - Monitoring, Physiologic
+KW  - Neoplasms
+KW  - Netherlands
+KW  - Patient Preference
+KW  - Qualitative Research
+KW  - Telemedicine
+KW  - adult
+KW  - aged
+KW  - ambulatory monitoring
+KW  - Article
+KW  - bladder cancer
+KW  - cancer diagnosis
+KW  - cancer research
+KW  - cancer therapy
+KW  - clinical article
+KW  - controlled study
+KW  - data privacy
+KW  - digital health technology
+KW  - disease burden
+KW  - doctor patient relationship
+KW  - electronic health record
+KW  - expectation
+KW  - female
+KW  - health care utilization
+KW  - human
+KW  - interpersonal communication
+KW  - kidney cancer
+KW  - male
+KW  - Netherlands
+KW  - outpatient department
+KW  - patient attitude
+KW  - patient preference
+KW  - patient-reported outcome
+KW  - prostate cancer
+KW  - qualitative research
+KW  - quality of life
+KW  - semi structured interview
+KW  - telemonitoring
+KW  - trust
+KW  - diagnosis
+KW  - middle aged
+KW  - mobile application
+KW  - neoplasm
+KW  - patient preference
+KW  - physiologic monitoring
+KW  - procedures
+KW  - psychology
+KW  - telemedicine
+KW  - therapy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Phuyal, S.
+AU  - Elvas, L.B.
+AU  - Ferreira, J.C.
+AU  - Bista, R.
+TI  - Harnessing Wearable Devices for Enhanced Long-Term Care: Opportunities, Challenges, and Future Directions
+PY  - 2024
+T2  - International Journal of Computer Information Systems and Industrial Management Applications
+VL  - 16
+IS  - 3
+SP  - 502
+EP  - 514
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202478838&partnerID=40&md5=4d6196b639126bd69b3e60828fe66f64
+AB  - The incorporation of wearable devices within long-term care represents a ground breaking advancement in healthcare. These devices, leveraging sensor and intelligent technologies, possess the potential to revolutionize the supervision and handling of chronic illnesses, enriching the lives of individuals reliant on extended care. One of the primary considerations revolves around the question of whether recent technological advancements have made it feasible to deliver healthcare remotely to the elderly population. This paper conducts an exhaustive examination of wearable devices in the long-term care context, spotlighting their wide-ranging applications. It encompasses devices tailored for monitoring vital signs, mobility, medication adherence, cognitive health, and other critical facets of long-term care. Through an in-depth exploration of their capabilities and limitations, it illuminates their capacity to ease the strain on healthcare systems and enhance patient well-being. Moreover, this paper investigates the hurdles related to wearable device adoption in long-term care, addressing concerns like data security, user acceptance, and interoperability. By tackling these challenges, it endeavors to chart a path for the seamless integration of wearable technologies. Drawing insights from current research and industry trends, it identifies emerging prospects such as personalized care plans, remote monitoring, and data-driven healthcare interventions, fostering collaboration among healthcare stakeholders. By harnessing the full potential of wearable technologies, the quality of life of individuals in long-term care can be improved and also, it can contribute to achieve more efficient and sustainable healthcare systems. © 2024 by the authors.
+KW  - chronic illness management
+KW  - healthcare monitoring
+KW  - healthcare technology
+KW  - long-term care
+KW  - patient-centric care
+KW  - remote monitoring
+KW  - wearable devices
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Yaakov, R.A.
+AU  - Güler, Ö.
+AU  - Mayhugh, T.
+AU  - Serena, T.E.
+TI  - Enhancing patient centricity and advancing innovation in clinical research with virtual randomized clinical trials (Vrcts)
+PY  - 2021
+T2  - Diagnostics
+VL  - 11
+IS  - 2
+C7  - 151
+DO  - 10.3390/diagnostics11020151
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120909840&doi=10.3390%2fdiagnostics11020151&partnerID=40&md5=a7b615621f0dc42136251b115563b695
+AB  - The current public health crisis has highlighted the need to accelerate healthcare innovation. Despite unwavering levels of cooperation among academia, industry, and policy makers, it can still take years to bring a life-saving product to market. There are some obvious limitations, including lack of blinding or masking and small sample size, which render the results less applicable to the real world. Traditional randomized controlled trials (RCTs) are lengthy, expensive, and have a low success rate. There is a growing acknowledgement that the current process no longer fully meets the growing healthcare needs. Advances in technology coupled with proliferation of telehealth modalities, sensors, wearable and connected devices have paved the way for a new paradigm. Virtual randomized controlled trials (vRCTs) have the potential to drastically shorten the clinical trial cycle while maximizing patient-centricity, compliance, and recruitment. This new approach can inform clinical trials in real time and with a holistic view of a patient’s health. This paper provides an overview of virtual clinical trials, addressing critical issues, including regulatory compliance, data security, privacy, and ownership. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Clinical research
+KW  - Direct-to-patient studies
+KW  - Patientcentricity
+KW  - Remote patient monitoring
+KW  - Study design
+KW  - Virtual clinical trials
+KW  - Article
+KW  - clinical research
+KW  - data privacy
+KW  - health care need
+KW  - holistic care
+KW  - human
+KW  - information security
+KW  - organization and management
+KW  - patient care
+KW  - patient centricity
+KW  - patient compliance
+KW  - randomized controlled trial (topic)
+KW  - telehealth
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Shuai, M.
+AU  - Xiong, L.
+AU  - Wang, C.
+AU  - Yu, N.
+TI  - Lightweight and privacy-preserving authentication scheme with the resilience of desynchronisation attacks for WBANs
+PY  - 2020
+T2  - IET Information Security
+VL  - 14
+IS  - 4
+SP  - 380
+EP  - 390
+DO  - 10.1049/iet-ifs.2019.0491
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087197755&doi=10.1049%2fiet-ifs.2019.0491&partnerID=40&md5=9df018ed308be38d4b2a67206a0567ea
+AB  - With the advances in wireless communication and Internet of things, wireless body area networks (WBANs) have attracted more and more attention because of the potential in improving the quality of health care services. With the help of WBANs, the user can access the patient's life-critical data generated by miniaturised medical sensors, and remote health care monitoring services are provided. Since the open nature of wireless channel and sensitivity of transmitted information, the security and privacy of such personal data are becoming important issues that must be dealt with. In the past few years, a large number of authentication schemes had been proposed to solve these issues. However, most of the existing schemes are not secure enough. As a step toward this direction, in this study, the authors present a privacy-preserving authentication scheme with adaptive resilience of desynchronisation attacks for WBANs, in which lightweight crypto-modules are adopted to pursue the best efficiency. The proposed scheme adopts the pseudonym identity technique to provide user anonymity, and one-way hash chain technique and serial number method are employed to ensure forward secrecy and resist desynchronisation attack, respectively. Analysis and comparison results demonstrate that the proposed scheme achieves a delicate balance between security and efficiency. © The Institution of Engineering and Technology 2020
+KW  - Authentication
+KW  - Cryptography
+KW  - Data privacy
+KW  - Efficiency
+KW  - Health care
+KW  - Remote patient monitoring
+KW  - Authentication scheme
+KW  - Desynchronisation attacks
+KW  - Monitoring services
+KW  - Privacy-preserving authentication
+KW  - Quality of health care
+KW  - Security and privacy
+KW  - Wireless body area network
+KW  - Wireless communications
+KW  - Wireless local area networks (WLAN)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 18
+ER  -
+
+TY  - JOUR
+AU  - Kadian, S.
+AU  - Kumari, P.
+AU  - Shukla, S.
+AU  - Narayan, R.
+TI  - Recent advancements in machine learning enabled portable and wearable biosensors
+PY  - 2023
+T2  - Talanta Open
+VL  - 8
+C7  - 100267
+DO  - 10.1016/j.talo.2023.100267
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175338478&doi=10.1016%2fj.talo.2023.100267&partnerID=40&md5=ed94f367929939251f24767bc340e269
+AB  - Recent advances in noninvasive portable and wearable biosensors have attracted significant attention due to their capability to offer continual physiological information for continuous healthcare monitoring through the collection of biological signals. To make the collected biological data understandable and improve the efficacy of these biosensors, scientists have integrated machine learning (ML) with biosensors to analyze large sensing data through various ML algorithms. In this article, we have highlighted the recent developments in ML-enabled noninvasive biosensors. Initially, we introduced and discussed the basic features of ML algorithms used in data processing to build an intelligent biosensor system and the capability to make clinical decisions. Next, the principles of portable and wearable biosensors, the application of different ML models in diverse biosensors for healthcare applications, and their impact on the performance of biosensors are discussed. The last section highlights the challenges (such as data privacy, consistency, stability, accuracy, scalable production, and adaptive learning capacity), future prospects, and necessary steps required to address these issues, spotlighting their revolutionizing impact on the healthcare industry for the development of next-generation ML-enabled efficient biosensors. © 2023
+KW  - Clinical decision making
+KW  - Machine learning
+KW  - Portable and wearable biosensors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 27
+ER  -
+
+TY  - JOUR
+AU  - Li, J.
+AU  - Silvera-Tawil, D.
+AU  - Varnfield, M.
+AU  - Hussain, M.S.
+AU  - Math, V.
+TI  - Users’ perceptions toward mHealth technologies for health and well-being monitoring in pregnancy care: Qualitative interview study
+PY  - 2021
+T2  - JMIR Formative Research
+VL  - 5
+IS  - 12
+C7  - e28628
+DO  - 10.2196/28628
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120990622&doi=10.2196%2f28628&partnerID=40&md5=a357e482e1ac798dc5ba70a6330f70e0
+AB  - Background: Mobile health (mHealth) technologies, such as wearable sensors, smart health devices, and mobile apps, that are capable of supporting pregnancy care are emerging. Although mHealth could be used to facilitate the tracking of health changes during pregnancy, challenges remain in data collection compliance and technology engagement among pregnant women. Understanding the interests, preferences, and requirements of pregnant women and those of clinicians is needed when designing and introducing mHealth solutions for supporting pregnant women’s monitoring of health and risk factors throughout their pregnancy journey. Objective: This study aims to understand clinicians’ and pregnant women’s perceptions on the potential use of mHealth, including factors that may influence their engagement with mHealth technologies and the implications for technology design and implementation. Methods: A qualitative study using semistructured interviews was conducted with 4 pregnant women, 4 postnatal women, and 13 clinicians working in perinatal care. Results: Clinicians perceived the potential benefit of mHealth in supporting different levels of health and well-being monitoring, risk assessment, and care provision in pregnancy care. Most pregnant and postnatal female participants were open to the use of wearables and health monitoring devices and were more likely to use these technologies if they knew that clinicians were monitoring their data. Although it was acknowledged that some pregnancy-related medical conditions are suitable for an mHealth model of remote monitoring, the clinical and technical challenges in the introduction of mHealth for pregnancy care were also identified. Incorporating appropriate health and well-being measures, intelligently detecting any abnormalities, and providing tailored information for pregnant women were the critical aspects, whereas usability and data privacy were among the main concerns of the participants. Moreover, this study highlighted the challenges of engaging pregnant women in longitudinal mHealth monitoring, the additional work required for clinicians to monitor the data, and the need for an evidence-based technical solution. Conclusions: Clinical, technical, and practical factors associated with the use of mHealth to monitor health and well-being in pregnant women need to be considered during the design and feasibility evaluation stages. Technical solutions and appropriate strategies for motivating pregnant women are critical to supporting their long-term data collection compliance and engagement with mHealth technology during pregnancy. ©Jane Li, David Silvera-Tawil, Marlien Varnfield, M Sazzad Hussain, Vanitha Math.
+KW  - Acceptance
+KW  - Design
+KW  - MHealth service
+KW  - Mobile health
+KW  - Mobile phone
+KW  - Pregnancy care
+KW  - Wearable sensors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Ni, L.
+AU  - Huang, P.
+AU  - Wei, Y.
+AU  - Shu, M.
+AU  - Zhang, J.
+TI  - Federated Learning Model with Adaptive Differential Privacy Protection in Medical IoT
+PY  - 2021
+T2  - Wireless Communications and Mobile Computing
+VL  - 2021
+C7  - 8967819
+DO  - 10.1155/2021/8967819
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120522482&doi=10.1155%2f2021%2f8967819&partnerID=40&md5=d5af556937867bc4ed4bca5ad98db986
+AB  - With the proliferation of intelligent services and applications authorized by artificial intelligence, the Internet of Things has penetrated into many aspects of our daily lives, and the medical field is no exception. The medical Internet of Things (MIoT) can be applied to wearable devices, remote diagnosis, mobile medical treatment, and remote monitoring. There is a large amount of medical information in the databases of various medical institutions. Nevertheless, due to the particularity of medical data, it is extremely related to personal privacy, and the data cannot be shared, resulting in data islands. Federated learning (FL), as a distributed collaborative artificial intelligence method, provides a solution. However, FL also involves multiple security and privacy issues. This paper proposes an adaptive Differential Privacy Federated Learning Medical IoT (DPFL-MIoT) model. Specifically, when the user updates the model locally, we propose a differential privacy federated learning deep neural network with adaptive gradient descent (DPFLAGD-DNN) algorithm, which can adaptively add noise to the model parameters according to the characteristics and gradient of the training data. Since privacy leaks often occur in downlink, we present differential privacy federated learning (DP-FL) algorithm where adaptive noise is added to the parameters when the server distributes the parameters. Our method effectively reduces the addition of unnecessary noise, and at the same time, the model has a good effect. Experimental results on real-world data show that our proposed algorithm can effectively protect data privacy.  © 2021 Lina Ni et al.
+KW  - Deep neural networks
+KW  - Diagnosis
+KW  - Gradient methods
+KW  - Internet of things
+KW  - Learning algorithms
+KW  - Parameter estimation
+KW  - Daily lives
+KW  - Differential privacies
+KW  - Intelligent applications
+KW  - Intelligent Services
+KW  - Learning models
+KW  - Medical fields
+KW  - Privacy protection
+KW  - Remote diagnosis
+KW  - Services and applications
+KW  - Wearable devices
+KW  - Data privacy
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Sumathi, S.
+AU  - Balaji Ganesh, A.
+TI  - Secure healthcare monitoring of arrythmias in internet of things with deep learning and elgamal encryption
+PY  - 2024
+T2  - Journal of Intelligent and Fuzzy Systems
+VL  - 46
+IS  - 1
+SP  - 1697
+EP  - 1712
+DO  - 10.3233/JIFS-235885
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182606078&doi=10.3233%2fJIFS-235885&partnerID=40&md5=a989655837ddc0aa17c9ae78bdd9cdb8
+AB  - Arrhythmia disorders are the leading cause of death worldwide and are primarily recognized by the patient's irregular cardiac rhythms. Wearable Internet of Things (IoT) devices can reliably measure patients' heart rhythms by producing electrocardiogram (ECG) signals. Due to their non-invasive nature, ECG signals have been frequently employed to detect arrhythmias. The manual procedure, however, takes a long time and is prone to error. Utilizing deep learning models for early automatic identification of cardiac arrhythmias is a preferable approach that will improve diagnosis and therapy. Though ECG analysis using cloud-based methods can perform satisfactorily, they still suffer from security issues. It is essential to provide secure data transmission and storage for IoT medical data because of its significant development in the healthcare system. So, this paper proposes a secure arrhythmia classification system with the help of effective encryption and a deep learning (DL) system. The proposed method mainly involved two phases: ECG signal transmission and arrhythmia disease classification. In the ECG signal transmission phase, the patient's ECG data collected through the IoT sensors is encrypted using the optimal key-based elgamal elliptic curve cryptography (OKEGECC) mechanism, and the encrypted data is securely transmitted to the cloud. After that, in the arrhythmia disease classification phase, the system collects the data from the Massachusetts Institute of Technology-Beth Israel Hospital (MIT-BIH) database to perform training. The collected data is preprocessed by applying the continuous wavelet transform (CWT) to improve the quality of the ECG data. Next, the feature extraction is carried out by deformable attention-centered residual network 50 (DARNet-50), and finally, the classification is performed using butterfly-optimized Bi-directional long short-term memory (BOBLSTM). The experimental outcomes showed that the proposed system achieves 99.76% accuracy, which is better than the existing related schemes.  © 2024 - IOS Press. All rights reserved.
+KW  - arrhythmia disease classification
+KW  - data security
+KW  - electrocardiogram
+KW  - Internet of things
+KW  - machine learning
+KW  - Automation
+KW  - Classification (of information)
+KW  - Deep learning
+KW  - Digital storage
+KW  - Diseases
+KW  - Internet of things
+KW  - Learning systems
+KW  - Public key cryptography
+KW  - Wavelet transforms
+KW  - Arrhythmia disease classification
+KW  - Arrythmias
+KW  - Cardiac rhythms
+KW  - Causes of death
+KW  - Disease classification
+KW  - Electrocardiogram signal
+KW  - Elgamal encryption
+KW  - Healthcare monitoring
+KW  - Machine-learning
+KW  - Signal transmission
+KW  - Electrocardiograms
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, C.
+TI  - Information processing in Internet of Things using big data analytics
+PY  - 2020
+T2  - Computer Communications
+VL  - 160
+SP  - 718
+EP  - 729
+DO  - 10.1016/j.comcom.2020.06.020
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087916117&doi=10.1016%2fj.comcom.2020.06.020&partnerID=40&md5=085c4b9b3fcf2181886e0704e1b0f650
+AB  - With innovation in persistent technologies, such as wearable sensor gadgets, sensor devices, and wireless ad-hoc communication networks connect everyday life things to the Internet, normally referred to as Internet of Things (IoT). IoT is observed as an active entity for design and development of smart and context awareness services and applications in the area of business, science and engineering discipline. These applications and services could vigorously respond to the surroundings transformation and users’ preference. Developing a scalable system for data analysis, processing and mining of enormous real world based datasets has turned into one of the demanding problems that faces both system research scholars and data management research scholars. Employing big data analytics with IoT technologies is one of the ways for handling the timely analyzing information (i.e., data, events) streams. In this paper, we propose an integrated approach that coalesce IoT systems with big data tools into a holistic platform for real-time and continuous data monitoring and processing. We propose Fog assisted IoT based Smart and real time healthcare information processing (SRHIP) system in which large amounts of data generated by IoT sensor devices are offloaded at Fog cloud form data analytics and processing with minimum delay. The processed data is then transferred to a centralized cloud system for further analysis and storage. In this work, we introduce a Fog-assisted model with big data environment for data analytic of real time data with remote monitoring and discuss our plan for evaluating its efficacy in terms of several performance metrics such as transmission cost, storage cost, accuracy, specificity, sensitivity and F-measure. The proposed SRHIP system needs less transmission cost of 40.10% in comparison to SPPDA, 100% fewer bytes are compromised in comparison to GCEDA. Our proposed system data size reduction of 60% reduction due to proposed compression scheme in comparison to other benchmark strategies that offer 40% of reduction. © 2020
+KW  - Cloud computing
+KW  - Fog computing
+KW  - Internet of Things (IoT)
+KW  - Naïve Bayes classifier
+KW  - Smart and real-time healthcare information processing (SRHIP)
+KW  - Advanced Analytics
+KW  - Big data
+KW  - Continuous time systems
+KW  - Data Analytics
+KW  - Data reduction
+KW  - Data streams
+KW  - Digital storage
+KW  - Fog
+KW  - Information management
+KW  - Light transmission
+KW  - Monitoring
+KW  - Real time systems
+KW  - Wearable sensors
+KW  - Wireless sensor networks
+KW  - Design and Development
+KW  - Integrated approach
+KW  - Internet of Things (IOT)
+KW  - Large amounts of data
+KW  - Real-time healthcares
+KW  - Science and engineering
+KW  - Services and applications
+KW  - Wireless ad hoc communication
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Bin, K.J.
+AU  - De Pretto, L.R.
+AU  - Sanchez, F.B.
+AU  - De Souza e Castro, F.P.M.
+AU  - Ramos, V.D.
+AU  - Battistella, L.R.
+TI  - Digital Platform for Continuous Monitoring of Patients Using a Smartwatch: Longitudinal Prospective Cohort Study
+PY  - 2023
+T2  - JMIR Formative Research
+VL  - 7
+IS  - 1
+C7  - e47388
+DO  - 10.2196/47388
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173551745&doi=10.2196%2f47388&partnerID=40&md5=2be645aa7d4b8676ac963c74fdd43486
+AB  - Background: Since the COVID-19 pandemic, there has been a boost in the digital transformation of the human society, where wearable devices such as a smartwatch can already measure vital signs in a continuous and naturalistic way; however, the security and privacy of personal data is a challenge to expanding the use of these data by health professionals in clinical follow-up for decision-making. Similar to the European General Data Protection Regulation, in Brazil, the Lei Geral de Proteção de Dados established rules and guidelines for the processing of personal data, including those used for patient care, such as those captured by smartwatches. Thus, in any telemonitoring scenario, there is a need to comply with rules and regulations, making this issue a challenge to overcome. Objective: This study aimed to build a digital solution model for capturing data from wearable devices and making them available in a safe and agile manner for clinical and research use, following current laws. Methods: A functional model was built following the Brazilian Lei Geral de Proteção de Dados (2018), where data captured by smartwatches can be transmitted anonymously over the Internet of Things and be identified later within the hospital. A total of 80 volunteers were selected for a 24-week follow-up clinical trial divided into 2 groups, one group with a previous diagnosis of COVID-19 and a control group without a previous diagnosis of COVID-19, to measure the synchronization rate of the platform with the devices and the accuracy and precision of the smartwatch in out-of-hospital conditions to simulate remote monitoring at home. Results: In a 35-week clinical trial, >11.2 million records were collected with no system downtime; 66% of continuous beats per minute were synchronized within 24 hours (79% within 2 days and 91% within a week). In the limit of agreement analysis, the mean differences in oxygen saturation, diastolic blood pressure, systolic blood pressure, and heart rate were -1.280% (SD 5.679%), -1.399 (SD 19.112) mm Hg, -1.536 (SD 24.244) mm Hg, and 0.566 (SD 3.114) beats per minute, respectively. Furthermore, there was no difference in the 2 study groups in terms of data analysis (neither using the smartwatch nor the gold-standard devices), but it is worth mentioning that all volunteers in the COVID-19 group were already cured of the infection and were highly functional in their daily work life. Conclusions: On the basis of the results obtained, considering the validation conditions of accuracy and precision and simulating an extrahospital use environment, the functional model built in this study is capable of capturing data from the smartwatch and anonymously providing it to health care services, where they can be treated according to the legislation and be used to support clinical decisions during remote monitoring. © JMIR Formative Research.All rights reserved.
+KW  - clinical intervention
+KW  - clinical trial
+KW  - digital health
+KW  - digital platform
+KW  - GDPR
+KW  - General Data Protection Regulation
+KW  - Lei Geral de Proteção de Dados
+KW  - LGPD
+KW  - mobile health
+KW  - mobile phone
+KW  - sensitive data
+KW  - smartwatch
+KW  - telemedicine
+KW  - telemonitoring
+KW  - wearable
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Keogh, A.
+AU  - Taraldsen, K.
+AU  - Caulfield, B.
+AU  - Vereijken, B.
+TI  - It’s not about the capture, it’s about what we can learn”: a qualitative study of experts’ opinions and experiences regarding the use of wearable sensors to measure gait and physical activity
+PY  - 2021
+T2  - Journal of NeuroEngineering and Rehabilitation
+VL  - 18
+IS  - 1
+C7  - 78
+DO  - 10.1186/s12984-021-00874-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105661039&doi=10.1186%2fs12984-021-00874-8&partnerID=40&md5=e3bb8789315f0358e9aadf19df8a6b02
+AB  - Background: The use of wearable sensor technology to collect patient health data, such as gait and physical activity, offers the potential to transform healthcare research. To maximise the use of wearable devices in practice, it is important that they are usable by, and offer value to, all stakeholders. Although previous research has explored participants’ opinions of devices, to date, limited studies have explored the experiences and opinions of the researchers who use and implement them. Researchers offer a unique insight into wearable devices as they may have access to multiple devices and cohorts, and thus gain a thorough understanding as to how and where this area needs to progress. Therefore, the aim of this study was to explore the experiences and opinions of researchers from academic, industry and clinical contexts, in the use of wearable devices to measure gait and physical activity. Methods: Twenty professionals with experience using wearable devices in research were recruited from academic, industry and clinical backgrounds. Independent, semi-structured interviews were conducted, audio-recorded and transcribed. Transcribed texts were analysed using inductive thematic analysis. Results: Five themes were identified: (1) The positives and negatives of using wearable devices in research, (2) The routine implementation of wearable devices into research and clinical practice, (3) The importance of compromise in protocols, (4) Securing good quality data, and (5) A paradigm shift. Researchers overwhelmingly supported the use of wearable sensor technology due to the insights that they may provide. Though barriers remain, researchers were pragmatic towards these, believing that there is a paradigm shift happening in this area of research that ultimately requires mistakes and significant volumes of further research to allow it to progress. Conclusions: Multiple barriers to the use of wearable devices in research and clinical practice remain, including data management and clear clinical utility. However, researchers strongly believe that the potential benefit of these devices to support and create new clinical insights for patient care, is greater than any current barrier. Multi-disciplinary research integrating the expertise of both academia, industry and clinicians is a fundamental necessity to further develop wearable devices and protocols that match the varied needs of all stakeholders. © 2021, The Author(s).
+KW  - Accelerometry
+KW  - Acceptability
+KW  - Qualitative
+KW  - Remote monitoring
+KW  - Wearable devices
+KW  - Exercise
+KW  - Gait
+KW  - Health Personnel
+KW  - Humans
+KW  - Monitoring, Physiologic
+KW  - Qualitative Research
+KW  - Wearable Electronic Devices
+KW  - Article
+KW  - audio recording
+KW  - behavior change
+KW  - biotechnology
+KW  - controlled study
+KW  - cross-sectional study
+KW  - feedback system
+KW  - female
+KW  - gait
+KW  - human
+KW  - interrater reliability
+KW  - male
+KW  - physical activity
+KW  - qualitative research
+KW  - risk factor
+KW  - semi structured interview
+KW  - thematic analysis
+KW  - devices
+KW  - electronic device
+KW  - exercise
+KW  - health care personnel
+KW  - physiologic monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Bathalapalli, V.K.V.V.
+AU  - Mohanty, S.P.
+AU  - Kougianos, E.
+AU  - Iyer, V.
+AU  - Rout, B.
+TI  - PUFchain 3.0: Hardware-Assisted Distributed Ledger for Robust Authentication in Healthcare Cyber–Physical Systems
+PY  - 2024
+T2  - Sensors
+VL  - 24
+IS  - 3
+C7  - 938
+DO  - 10.3390/s24030938
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184500724&doi=10.3390%2fs24030938&partnerID=40&md5=2388038b5582e155b38e7b111958b6ab
+AB  - This article presents a novel hardware-assisted distributed ledger-based solution for simultaneous device and data security in smart healthcare. This article presents a novel architecture that integrates PUF, blockchain, and Tangle for Security-by-Design (SbD) of healthcare cyber–physical systems (H-CPSs). Healthcare systems around the world have undergone massive technological transformation and have seen growing adoption with the advancement of Internet-of-Medical Things (IoMT). The technological transformation of healthcare systems to telemedicine, e-health, connected health, and remote health is being made possible with the sophisticated integration of IoMT with machine learning, big data, artificial intelligence (AI), and other technologies. As healthcare systems are becoming more accessible and advanced, security and privacy have become pivotal for the smooth integration and functioning of various systems in H-CPSs. In this work, we present a novel approach that integrates PUF with IOTA Tangle and blockchain and works by storing the PUF keys of a patient’s Body Area Network (BAN) inside blockchain to access, store, and share globally. Each patient has a network of smart wearables and a gateway to obtain the physiological sensor data securely. To facilitate communication among various stakeholders in healthcare systems, IOTA Tangle’s Masked Authentication Messaging (MAM) communication protocol has been used, which securely enables patients to communicate, share, and store data on Tangle. The MAM channel works in the restricted mode in the proposed architecture, which can be accessed using the patient’s gateway PUF key. Furthermore, the successful verification of PUF enables patients to securely send and share physiological sensor data from various wearable and implantable medical devices embedded with PUF. Finally, healthcare system entities like physicians, hospital admin networks, and remote monitoring systems can securely establish communication with patients using MAM and retrieve the patient’s BAN PUF keys from the blockchain securely. Our experimental analysis shows that the proposed approach successfully integrates three security primitives, PUF, blockchain, and Tangle, providing decentralized access control and security in H-CPS with minimal energy requirements, data storage, and response time. © 2024 by the authors.
+KW  - blockchain
+KW  - hardware-assisted security (HAS)
+KW  - healthcare cyber–physical systems (H-CPS)
+KW  - masked authentication messaging (MAM)
+KW  - physical unclonable function (PUF)
+KW  - security-by-design (SbD)
+KW  - smart healthcare
+KW  - Tangle
+KW  - Artificial intelligence
+KW  - Authentication
+KW  - Cryptography
+KW  - Cybersecurity
+KW  - Digital storage
+KW  - Distributed ledger
+KW  - Engineering education
+KW  - Gateways (computer networks)
+KW  - Health care
+KW  - Internet of things
+KW  - Metadata
+KW  - Network architecture
+KW  - Network security
+KW  - Physiology
+KW  - Wearable sensors
+KW  - Block-chain
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Hardware-assisted
+KW  - Hardware-assisted security
+KW  - Healthcare cybe–physical system
+KW  - Masked authentication messaging
+KW  - Physical unclonable function
+KW  - Security-by-design
+KW  - Smart healthcare
+KW  - Tangle
+KW  - Blockchain
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Azbeg, K.
+AU  - Ouchetto, O.
+AU  - Jai Andaloussi, S.
+TI  - Access Control and Privacy-Preserving Blockchain-Based System for Diseases Management
+PY  - 2023
+T2  - IEEE Transactions on Computational Social Systems
+VL  - 10
+IS  - 4
+SP  - 1515
+EP  - 1527
+DO  - 10.1109/TCSS.2022.3186945
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132098745&doi=10.1109%2fTCSS.2022.3186945&partnerID=40&md5=47e36768efbb91ff435fa19aecc54313
+AB  - In many developing countries, the healthcare sector is facing several challenges, mainly due to the lack of personal, institutions, and medications in public health systems. Over the past decade, information and communication technology has proved its ability to improve medical quality, reduce costs, and promote data security. Developing countries can exploit these technologies to improve the healthcare process and ensure remote health monitoring, especially in rural areas. The Internet of Things and smart medical devices are widely used to provide remote patient monitoring. Current systems are based on centralized communication with cloud servers. However, this architecture increases several security and privacy risks. The adoption of a distributed architecture is required to overcome these issues. In this article, we describe a Blockchain-based system for securing Internet-of-Things (IoT) healthcare devices. In addition to data encryption, we propose to use Blockchain technology to enhance security and privacy in healthcare systems. The system is intended to allow remote patient monitoring, particularly for chronic diseases that necessitate regular monitoring. Three important characteristics were taken into account: security, scalability, and processing time. The security concerns are ensured by using the re-encryption proxy in conjunction with Blockchain to encrypt data and control access to it. To ensure Blockchain scalability, data are stored in an InterPlanetary file system (IPFS) off-chain database. We use an Ethereum Blockchain based on proof of authority (PoA) to speed up the data storage. In comparison to existing methods, the experimental system has shown a significant improvement in the security of healthcare systems. © 2014 IEEE.
+KW  - Blockchain
+KW  - healthcare
+KW  - information and communication technology (ICT)
+KW  - Internet of Things (IoT)
+KW  - InterPlanetary file system (IPFS)
+KW  - proxy re-encryption
+KW  - remote patient monitoring
+KW  - security
+KW  - Access control
+KW  - Blockchain
+KW  - Cloud storage
+KW  - Developing countries
+KW  - Disease control
+KW  - File organization
+KW  - Health care
+KW  - Health insurance
+KW  - Internet of things
+KW  - Privacy-preserving techniques
+KW  - Remote patient monitoring
+KW  - Scalability
+KW  - Sensitive data
+KW  - Block-chain
+KW  - Filesystem
+KW  - Healthcare
+KW  - Information and Communication Technologies
+KW  - Information and communication technology
+KW  - Internet of thing
+KW  - Interplanetary file system
+KW  - Medical services
+KW  - Privacy
+KW  - Proxy re encryptions
+KW  - Security
+KW  - Smart contract
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 31
+ER  -
+
+TY  - JOUR
+AU  - Watts, P.
+AU  - Breedon, P.
+AU  - Nduka, C.
+AU  - Neville, C.
+AU  - Venables, V.
+AU  - Clarke, S.
+TI  - Cloud Computing Mobile Application for Remote Monitoring of Bell’s Palsy
+PY  - 2020
+T2  - Journal of Medical Systems
+VL  - 44
+IS  - 9
+C7  - 149
+DO  - 10.1007/s10916-020-01605-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088635001&doi=10.1007%2fs10916-020-01605-7&partnerID=40&md5=3bf293ae6915c87fa5d513742035f5cf
+AB  - Mobile applications provide the healthcare industry with a means of connecting with patients in their own home utilizing their own personal mobile devices such as tablets and phones. This allows therapists to monitor the progress of people under their care from a remote location and all with the added benefit that patients are familiar with their own mobile devices; thereby reducing the time required to train patients with the new technology. There is also the added benefit to the health service that there is no additional cost required to purchase devices for use. The Facial Remote Activity Monitoring Eyewear (FRAME) mobile application and web service framework has been designed to work on the IOS and android platforms, the two most commonly used today. Results: The system utilizes secure cloud based data storage to collect, analyse and store data, this allows for near real time, secure access remotely by therapists to monitor their patients and intervene when required. The underlying framework has been designed to be secure, anonymous and flexible to ensure compliance with the data protection act and the latest General Data Protection Regulation (GDPR); this new standard came into effect in April 2018 and replaces the Data Protection Act in the UK and Europe. © 2020, The Author(s).
+KW  - Bell’s palsy
+KW  - Cloud computing
+KW  - Healthcare solution
+KW  - Mobile application
+KW  - System design
+KW  - Wearable technology
+KW  - Bell Palsy
+KW  - Cloud Computing
+KW  - Computer Security
+KW  - Europe
+KW  - Humans
+KW  - Mobile Applications
+KW  - access to information
+KW  - Article
+KW  - Bell palsy
+KW  - cloud computing
+KW  - conceptual framework
+KW  - data analysis
+KW  - human
+KW  - information storage
+KW  - information technology
+KW  - mobile application
+KW  - patient monitoring
+KW  - remote sensing
+KW  - software
+KW  - web browser
+KW  - cloud computing
+KW  - computer security
+KW  - Europe
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 12
+ER  -
+
+TY  - JOUR
+AU  - Wierda, E.
+AU  - Blok, S.
+AU  - Somsen, G.A.
+AU  - Van Der Velde, E.T.
+AU  - Tulevski, I.I.
+AU  - Stavrov, B.
+AU  - De Wildt, M.C.C.
+AU  - Van Den Born, B.J.H.
+AU  - Breukel, L.
+AU  - De Mol, B.A.J.M.
+AU  - Ploem, M.C.
+AU  - Winter, M.M.
+TI  - Protecting patient privacy in digital health technology: The Dutch m-Health infrastructure of Hartwacht as a learning case
+PY  - 2020
+T2  - BMJ Innovations
+VL  - 6
+IS  - 4
+SP  - 170
+EP  - 176
+DO  - 10.1136/bmjinnov-2019-000399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088145675&doi=10.1136%2fbmjinnov-2019-000399&partnerID=40&md5=56047fd4bd0707db9def957c23a691d0
+AB  - Innovative ways of healthcare delivery like m-Health, the practice of medicine by mobile devices and wearable devices are the promising new technique that may lead to improvement in quality of care at lower costs. While fully acknowledging the importance of m-Health development, there are challenges on privacy legislation. We address the legal framework, especially the General Data Protection Regulation, applied to m-Health and its implications for m-Health developments in Europe. We discuss how these rules are applied using a representative example of an m-Health programme with remote monitoring in the Netherlands. We consider informing patients about the data processing and obtaining their explicit consent as main responsibilities of healthcare providers introducing m-Health in their practice.  © 2020 Author(s) (or their employer(s)). Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+KW  - medical apps
+KW  - mHealth
+KW  - remote diagnostics
+KW  - remote monitoring
+KW  - adult
+KW  - article
+KW  - health care personnel
+KW  - health program
+KW  - human
+KW  - law
+KW  - learning
+KW  - Netherlands
+KW  - privacy
+KW  - remote sensing
+KW  - responsibility
+KW  - telediagnosis
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Khan, A.
+AU  - Rizwan, M.
+AU  - Bagdasar, O.
+AU  - Alabdulatif, A.
+AU  - Alamro, S.
+AU  - Alnajim, A.
+TI  - Deep Learning-Driven Anomaly Detection for IoMT-Based Smart Healthcare Systems
+PY  - 2024
+T2  - CMES - Computer Modeling in Engineering and Sciences
+VL  - 141
+IS  - 3
+SP  - 2121
+EP  - 2141
+DO  - 10.32604/cmes.2024.054380
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208221149&doi=10.32604%2fcmes.2024.054380&partnerID=40&md5=c873c28c4259a020a6437bc0feeb4a48
+AB  - The Internet of Medical Things (IoMT) is an emerging technology that combines the Internet of Things (IoT) into the healthcare sector, which brings remarkable benefits to facilitate remote patient monitoring and reduce treatment costs. As IoMT devices become more scalable, Smart Healthcare Systems (SHS) have become increasingly vulnerable to cyberattacks. Intrusion Detection Systems (IDS) play a crucial role in maintaining network security. An IDS monitors systems or networks for suspicious activities or potential threats, safeguarding internal networks. This paper presents the development of an IDS based on deep learning techniques utilizing benchmark datasets. We propose a multilayer perceptron-based framework for intrusion detection within the smart healthcare domain. The primary objective of our work is to protect smart healthcare devices and networks from malicious attacks and security risks. We employ the NSL-KDD and UNSW-NB15 intrusion detection datasets to evaluate our proposed security framework. The proposed framework achieved an accuracy of 95.0674%, surpassing that of comparable deep learning models in smart healthcare while also reducing the false positive rate. Experimental results indicate the feasibility of using a multilayer perceptron, achieving superior performance against cybersecurity threats in the smart healthcare domain. Copyright © 2024 The Authors. Published by Tech Science Press.
+KW  - Anomaly detection
+KW  - deep learning
+KW  - health care
+KW  - Internet of Things (IoT)
+KW  - Deep learning
+KW  - Electronic health record
+KW  - Intrusion detection
+KW  - Patient treatment
+KW  - Remote patient monitoring
+KW  - Anomaly detection
+KW  - Deep learning
+KW  - Emerging technologies
+KW  - Healthcare domains
+KW  - Healthcare sectors
+KW  - Internet of thing
+KW  - Intrusion Detection Systems
+KW  - Intrusion-Detection
+KW  - Multilayers perceptrons
+KW  - Smart healthcare systems
+KW  - Network intrusion
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ramani, R.
+AU  - Rosline Mary, A.
+AU  - Edwin Raja, S.
+AU  - Arun Shunmugam, D.
+TI  - Optimized data management and secured federated learning in the Internet of Medical Things (IoMT) with blockchain technology
+PY  - 2024
+T2  - Biomedical Signal Processing and Control
+VL  - 93
+C7  - 106213
+DO  - 10.1016/j.bspc.2024.106213
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85188430180&doi=10.1016%2fj.bspc.2024.106213&partnerID=40&md5=d45fe30fc135d681db19936646262dd0
+AB  - The increasing need for improved medical and healthcare monitoring systems is paramount in the current healthcare environment. This need is propelled by the continuously growing quantity of patient data, the imperative for instantaneous information, and the crucial significance of data security. The Internet of Medical Things (IoMT) has been recognized as an essential technology for addressing healthcare requirements via the seamless integration of medical devices, sensors, and healthcare systems. Nevertheless, the effective administration and safeguarding of the extensive and delicate data produced by the IoMT present significant obstacles. The current methodologies often need to be revised to deliver holistic resolutions to these difficulties. To tackle these concerns comprehensively, the research proposed Optimized Data Management and Secured Federated Learning (ODMSM-FL), incorporating blockchain provenance. ODMSM-FL has been specifically developed to address the unique requirements of the IoMT via several capabilities, including decentralized data administration, federated learning, and solid security mechanisms based on blockchain technology. The system enhances data management capabilities, facilitating the adequate storage, retrieval, and exchange of medical data while safeguarding data privacy and maintaining data integrity. This study reports a set of numerical findings about essential performance metrics: transaction throughput (102.75 Kbps), block processing time (42.28 ms), data retrieval latency (64.02 ms), convergence rate (77.53 %), security (88.97 %), and accuracy (86.32 %). The findings prove that ODMSM-FL surpasses current methodologies, showcasing its exceptional capacity to improve data management, security, and overall performance within IoMT applications. The findings underscore the considerable potential of ODMSM-FL in effectively tackling the urgent data management and security issues in the IoMT, eventually making valuable contributions to the progress of healthcare systems and the enhanced welfare of patients. © 2024 Elsevier Ltd
+KW  - Data Management
+KW  - Healthcare
+KW  - Internet of Medical Things
+KW  - Security
+KW  - Blockchain
+KW  - Data privacy
+KW  - Digital storage
+KW  - Health care
+KW  - Hospital data processing
+KW  - Medical information systems
+KW  - Search engines
+KW  - 'current
+KW  - Block-chain
+KW  - Healthcare
+KW  - Healthcare environments
+KW  - Healthcare monitoring
+KW  - Healthcare systems
+KW  - Internet of medical thing
+KW  - Monitoring system
+KW  - Patient data
+KW  - Security
+KW  - Article
+KW  - blockchain
+KW  - collaborative learning
+KW  - computer language
+KW  - data integrity
+KW  - data privacy
+KW  - encryption
+KW  - health care
+KW  - health care industry
+KW  - health care management
+KW  - health care system
+KW  - health data
+KW  - hospital running cost
+KW  - human
+KW  - information processing
+KW  - information retrieval
+KW  - information security
+KW  - Internet
+KW  - organization and management
+KW  - patient coding
+KW  - performance indicator
+KW  - process optimization
+KW  - workflow
+KW  - Information management
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Graeber, J.
+AU  - Warmerdam, E.
+AU  - Aufenberg, S.
+AU  - Bull, C.
+AU  - Davies, K.
+AU  - Dixon, J.
+AU  - Emmert, K.
+AU  - Judd, C.
+AU  - Maetzler, C.
+AU  - Reilmann, R.
+AU  - Ng, W.-F.
+AU  - Macrae, V.
+AU  - Maetzler, W.
+AU  - Kaduszkiewicz, H.
+TI  - Technology acceptance of digital devices for home use: Qualitative results of a mixed methods study
+PY  - 2023
+T2  - Digital Health
+VL  - 9
+DO  - 10.1177/20552076231181239
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163033728&doi=10.1177%2f20552076231181239&partnerID=40&md5=361bd58111652d91f9c6b2d5146b3b87
+AB  - Objective: Digital devices have demonstrated benefits to patients with chronic and neurodegenerative diseases. But when patients use medical devices in their homes, the technologies have to fit into their lives. We investigated the technology acceptance of seven digital devices for home use. Methods: We conducted 60 semi-structured interviews with participants of a larger device study on their views on the acceptability of seven devices. Transcriptions were analysed using qualitative content analysis. Results: Based on the unified theory of acceptance and use of technology, we evaluated effort, facilitating conditions, performance expectancy and social influence of each device. In the effort category, five themes emerged: (a) the hassle to use the device; (b) its usability; (c) comfort; (d) disturbance to daily life; and (e) problems during usage. Facilitating conditions consisted of five themes: (a) expectations regarding a device; (b) quality of the instructions; (c) insecurities with usage; (d) possibilities of optimization; and (e) possibilities to use the device longer. Regarding performance expectancy, we identified three themes: (a) insecurities with the performance of a device; (b) feedback; and (c) motivation for using a device. In the social influence category, three themes emerged: (a) reactions of peers; (b) concerns with the visibility of a device; and (c) concerns regarding data privacy. Conclusions: We identify key factors that determine the acceptability of medical devices for home use from the participants’ perspective. These include low effort of use, minor disruptions to their daily lives and good support from the study team. © The Author(s) 2023.
+KW  - Chronic disease
+KW  - connected devices, personalised medicine
+KW  - digital health, general
+KW  - qualitative studies
+KW  - remote patient monitoring, personalised medicine
+KW  - wearables, personalised medicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Bughio, K.S.
+AU  - Cook, D.M.
+AU  - Shah, S.A.A.
+TI  - Developing a Novel Ontology for Cybersecurity in Internet of Medical Things-Enabled Remote Patient Monitoring
+PY  - 2024
+T2  - Sensors
+VL  - 24
+IS  - 9
+C7  - 2804
+DO  - 10.3390/s24092804
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192862844&doi=10.3390%2fs24092804&partnerID=40&md5=a3e26aabdecefbeba4b41ae23eb3c460
+AB  - IoT has seen remarkable growth, particularly in healthcare, leading to the rise of IoMT. IoMT integrates medical devices for real-time data analysis and transmission but faces challenges in data security and interoperability. This research identifies a significant gap in the existing literature regarding a comprehensive ontology for vulnerabilities in medical IoT devices. This paper proposes a fundamental domain ontology named MIoT (Medical Internet of Things) ontology, focusing on cybersecurity in IoMT (Internet of Medical Things), particularly in remote patient monitoring settings. This research will refer to similar-looking acronyms, IoMT and MIoT ontology. It is important to distinguish between the two. IoMT is a collection of various medical devices and their applications within the research domain. On the other hand, MIoT ontology refers to the proposed ontology that defines various concepts, roles, and individuals. MIoT ontology utilizes the knowledge engineering methodology outlined in Ontology Development 101, along with the structured life cycle, and establishes semantic interoperability among medical devices to secure IoMT assets from vulnerabilities and cyberattacks. By defining key concepts and relationships, it becomes easier to understand and analyze the complex network of information within the IoMT. The MIoT ontology captures essential key terms and security-related entities for future extensions. A conceptual model is derived from the MIoT ontology and validated through a case study. Furthermore, this paper outlines a roadmap for future research, highlighting potential impacts on security automation in healthcare applications. © 2024 by the authors.
+KW  - description logic (DL)
+KW  - first-order logic (FOL)
+KW  - Internet of Medical Things (IoMT)
+KW  - knowledge organization system (KOS)
+KW  - MIoT (Medical Internet of Things) Ontology
+KW  - ontology development
+KW  - resource description framework (RDF)
+KW  - Web Ontology Language (OWL)
+KW  - Computer Security
+KW  - Humans
+KW  - Internet of Things
+KW  - Monitoring, Physiologic
+KW  - Telemedicine
+KW  - Complex networks
+KW  - Computer circuits
+KW  - Data description
+KW  - Health care
+KW  - Internet of things
+KW  - Interoperability
+KW  - Life cycle
+KW  - Network security
+KW  - Semantic Web
+KW  - Semantics
+KW  - Description logic
+KW  - First order logic
+KW  - First-order logic
+KW  - Internet of medical thing
+KW  - Knowledge organization system
+KW  - Knowledge organization systems
+KW  - Medical internet of thing ontology
+KW  - Ontology development
+KW  - Ontology's
+KW  - Resource description framework
+KW  - Resources description frameworks
+KW  - Web ontology language (OWL)
+KW  - computer security
+KW  - devices
+KW  - human
+KW  - internet of things
+KW  - physiologic monitoring
+KW  - procedures
+KW  - telemedicine
+KW  - Ontology
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Hamid, D.E.
+AU  - Amer, H.M.
+AU  - Moustafa, H.E.-D.S.
+AU  - Marie, H.S.
+TI  - Empowering health data protection: machine learning-enabled diabetes classification in a secure cloud-based IoT framework
+PY  - 2024
+T2  - Indonesian Journal of Electrical Engineering and Computer Science
+VL  - 34
+IS  - 2
+SP  - 1110
+EP  - 1121
+DO  - 10.11591/ijeecs.v34.i2.pp1110-1121
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191543569&doi=10.11591%2fijeecs.v34.i2.pp1110-1121&partnerID=40&md5=7ffc9b73a12a72f3ce6b835eac8dfdff
+AB  - Smart medical devices and the internet of things (IoT) have enhanced healthcare systems by allowing remote monitoring of patient's health. Because of the unexpected increase in the number of diabetes patients, it is critical to regularly evaluate patients' health conditions before any significant illness occurs. As a result of transmitting a large volume of sensitive medical data, dealing with IoT data security issues remains a difficult challenge. This paper presents a secure remote diabetes monitoring (SR-DM) model that uses hybrid encryption, combining the advanced encryption standard and elliptic curve cryptography (AES-ECC), to ensure the patients' sensitive data is protected in IoT platforms based on the cloud. The health statuses of patients are determined in this model by predicting critical situations using machine learning (ML) algorithms for analyzing medical data sensed by smart health IoT devices. The results reveal that the AES-ECC approach has a significant influence on cloud-based IoT systems and the random forest (RF) classification method outperforms with a high accuracy of 91.4%. As a consequence of the outcomes obtained, the proposed model effectively establishes a secure and efficient system for remote health monitoring. © 2024 Institute of Advanced Engineering and Science. All rights reserved.
+KW  - Classification
+KW  - Cloud computing
+KW  - Diabetes
+KW  - Internet of things
+KW  - Machine learning
+KW  - Secure healthcare system
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Sharavana Kumar, M.G.
+AU  - Sarma Dhulipala, V.R.
+TI  - Fuzzy allocation model for health care data management on IoT assisted wearable sensor platform
+PY  - 2020
+T2  - Measurement: Journal of the International Measurement Confederation
+VL  - 166
+C7  - 108249
+DO  - 10.1016/j.measurement.2020.108249
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088650335&doi=10.1016%2fj.measurement.2020.108249&partnerID=40&md5=96cae815bd8ea51ab686ae07e6ca3deb
+AB  - In recent times, networking, information, and communication technologies are widely employed and getting spread in the area of medical applications. In a short period, real-time applications for healthcare monitoring produce a huge amount of data. Data is to be bursting in the case of critical applications; hence there is a greater need to enable reliable communication methods that ensure energy efficiency. A large amount of data results in high data transmission, network congestion, and latency, which in turn cause a hop increment between the IoT and cloud servers, and thus data might be unprocessed and insufficient for end-users. Since Fog computing is a distributed intermediate layer between the edge network and the cloud environment, latency can be reduced to a remarkable level, and the reliable communication can be achieved with the help of fog computing on IoT assisted wearable sensor platform. This research proposes a dynamic model for analysis and the Heuristic Hybrid Time Slot Fuzzy-Allocation Algorithm (HHTSF-AA), which improves health monitoring by indulging IoT assisted wearable sensor platform. Fog computing assisted wearable sensor platform is the most suitable and reliable platform for robust life-critical applications that are likely not to be delayed in communication. Besides, routing data packets are equipped with a low-cost energy minimum selection algorithm incorporated to improve the overall network performance. Dynamic slot assignment reduces time in a network and allows high levels of network capacity channel utilization. © 2020 Elsevier Ltd
+KW  - Fog computing
+KW  - Hybrid time slot fuzzy
+KW  - IoT
+KW  - Wearable sensor
+KW  - Energy efficiency
+KW  - Fog
+KW  - Fog computing
+KW  - Health care
+KW  - Information management
+KW  - Medical applications
+KW  - Wearable sensors
+KW  - Allocation algorithm
+KW  - Communication technologies
+KW  - Critical applications
+KW  - Dynamic slot assignment
+KW  - Healthcare monitoring
+KW  - Life-critical applications
+KW  - Real-time application
+KW  - Reliable communication
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Fraiche, A.M.
+AU  - Matlock, D.D.
+AU  - Gabriel, W.
+AU  - Rapley, F.-A.
+AU  - Kramer, D.B.
+TI  - Patient and Provider Perspectives on Remote Monitoring of Pacemakers and Implantable Cardioverter-Defibrillators
+PY  - 2021
+T2  - American Journal of Cardiology
+VL  - 149
+SP  - 42
+EP  - 46
+DO  - 10.1016/j.amjcard.2021.03.023
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103950133&doi=10.1016%2fj.amjcard.2021.03.023&partnerID=40&md5=b7385d696d95475625bb386dd7ebea4d
+AB  - The use of remote monitoring technology for cardiovascular electronic implantable devices has grown significantly in recent decades, yet several key questions remain about its integration into clinical care. We performed semi-structured interviews of patients, clinicians, and device clinic technicians involved in clinical remote monitoring of cardiovascular implantable devices at our institution. Twenty-eight interviews comprised of 15 patients and 13 clinicians were conducted from October 2019 through February 2020. Interview transcripts were analyzed using a mixed inductive and deductive approach. Perspectives among clinicians and patients varied regarding familiarity, educational experiences, and preferences regarding how remote monitoring data are handled. Three key domains emerged including knowledge and understanding, managing alerts, and cost transparency. Within these domains, key findings includedvery limited understanding of how remote monitoring functions and how alerts in particular are handled. These knowledge deficits (both patients and providers) appeared to arise in part from different equipment and platforms among manufacturers, the complexity of the technology, and lack of formalized education in remote monitoring. However, interviewees expressed generally high levels of trust in the technology and care systems supporting remote monitoring. Few respondents described concerns around cybersecurity, but patients in particular did raise concerns about cost transparency and frequent billing. In conclusion, conflicting perceptions around remote monitoring persist and indicate important knowledge gaps despite high trust in the care pathway. This qualitative analysis offers insight into patient and clinician understanding of and attitudes toward remote monitoring, and may guide future efforts to improve education and patient-centeredness of remote monitoring. © 2021 Elsevier Inc.
+KW  - Adult
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - Attitude of Health Personnel
+KW  - Attitude to Health
+KW  - Cardiologists
+KW  - Clinical Alarms
+KW  - Communication
+KW  - Computer Security
+KW  - Defibrillators, Implantable
+KW  - Disclosure
+KW  - Female
+KW  - Health Care Costs
+KW  - Humans
+KW  - Male
+KW  - Middle Aged
+KW  - Monitoring, Ambulatory
+KW  - Nurses
+KW  - Pacemaker, Artificial
+KW  - Qualitative Research
+KW  - Remote Sensing Technology
+KW  - adult
+KW  - aged
+KW  - Article
+KW  - biotechnology
+KW  - cardiac patient
+KW  - clinical article
+KW  - clinician
+KW  - computer security
+KW  - conflict
+KW  - device clinic technician
+KW  - education
+KW  - experience
+KW  - female
+KW  - health care cost
+KW  - health care personnel
+KW  - health care system
+KW  - human
+KW  - knowledge
+KW  - male
+KW  - medical fee
+KW  - patient attitude
+KW  - patient preference
+KW  - perception
+KW  - physician attitude
+KW  - qualitative analysis
+KW  - remote sensing
+KW  - semi structured interview
+KW  - trust
+KW  - alarm monitor
+KW  - ambulatory monitoring
+KW  - artificial heart pacemaker
+KW  - attitude to health
+KW  - cardiologist
+KW  - health personnel attitude
+KW  - implantable cardioverter defibrillator
+KW  - interpersonal communication
+KW  - middle aged
+KW  - nurse
+KW  - qualitative research
+KW  - very elderly
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Kumar, A.
+AU  - Sharma, K.
+AU  - Sharma, A.
+TI  - Genetically optimized Fuzzy C-means data clustering of IoMT-based biomarkers for fast affective state recognition in intelligent edge analytics
+PY  - 2021
+T2  - Applied Soft Computing
+VL  - 109
+C7  - 107525
+DO  - 10.1016/j.asoc.2021.107525
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107089165&doi=10.1016%2fj.asoc.2021.107525&partnerID=40&md5=2398a873c6ab06462a3edaa9f5edd9b5
+AB  - IoMT sensors such as wearables, moodables, ingestible sensors and trackers have the potential to provide a proactive approach to healthcare. But grouping, traversing and selectively tapping the IoMT data traffic and its immediacy makes data management & decision analysis a pressing issue. Evidently, the selection process for real-world, time-constrained health problems involves looking at multivariate time-series data generated simultaneously from various wearables resulting in data overload and accuracy issues. Computational intelligence of edge analytics can extend predictive capability by quickly turning digital biomarker data into actions for remote monitoring and trigger alarm during emergency incidents without relying on backend servers. But the pervasive generation of data streams from IoMT levies significant issues in data visualization and exploratory data analysis. This paper presents a genetically optimized Fuzzy C-means data clustering technique for affective state recognition on the edge. Clustering segregates the biomarker data in chunks and generates a summarized data for each subject which is then genetically optimized to avoid stagnation in local optima. A multi-level convolution neural network is finally used to classify the affective states into the baseline, stress and amusement categories. The model is evaluated on the publicly available WESAD dataset and compares favorably to state-of-the-art with less time complexity. It demonstrates the use of data clustering technique for numerosity reduction of real-time data streams in intelligent edge analytics which facilitates fast analysis of affective state of the user. © 2021 Elsevier B.V.
+KW  - Affect
+KW  - Data clustering
+KW  - Edge analytics
+KW  - Genetic algorithms
+KW  - IoMT
+KW  - Biomarkers
+KW  - Cluster analysis
+KW  - Clustering algorithms
+KW  - Data visualization
+KW  - Decision making
+KW  - Fuzzy systems
+KW  - Information management
+KW  - Intelligent computing
+KW  - State estimation
+KW  - Wearable sensors
+KW  - Convolution neural network
+KW  - Exploratory data analysis
+KW  - Multivariate time series
+KW  - Predictive capabilities
+KW  - Pro-active approach
+KW  - Real-time data streams
+KW  - Remote monitoring
+KW  - State of the art
+KW  - Data streams
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 33
+ER  -
+
+TY  - JOUR
+AU  - Jamil, F.
+AU  - Ahmad, S.
+AU  - Iqbal, N.
+AU  - Kim, D.-H.
+TI  - Towards a remote monitoring of patient vital signs based on iot-based blockchain integrity management platforms in smart hospitals
+PY  - 2020
+T2  - Sensors (Switzerland)
+VL  - 20
+IS  - 8
+C7  - 2195
+DO  - 10.3390/s20082195
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083356418&doi=10.3390%2fs20082195&partnerID=40&md5=ad244ce49b7c9b463569b3227e9037f3
+AB  - Over the past several years, many healthcare applications have been developed to enhance the healthcare industry. Recent advancements in information technology and blockchain technology have revolutionized electronic healthcare research and industry. The innovation of miniaturized healthcare sensors for monitoring patient vital signs has improved and secured the human healthcare system. The increase in portable health devices has enhanced the quality of health-monitoring status both at an activity/fitness level for self-health tracking and at a medical level, providing more data to clinicians with potential for earlier diagnosis and guidance of treatment. When sharing personal medical information, data security and comfort are essential requirements for interaction with and collection of electronic medical records. However, it is hard for current systems to meet these requirements because they have inconsistent security policies and access control structures. The new solutions should be directed towards improving data access, and should be managed by the government in terms of privacy and security requirements to ensure the reliability of data for medical purposes. Blockchain paves the way for a revolution in the traditional pharmaceutical industry and benefits from unique features such as privacy and transparency of data. In this paper, we propose a novel platform for monitoring patient vital signs using smart contracts based on blockchain. The proposed system is designed and developed using hyperledger fabric, which is an enterprise-distributed ledger framework for developing blockchain-based applications. This approach provides several benefits to the patients, such as an extensive, immutable history log, and global access to medical information from anywhere at any time. The Libelium e-Health toolkit is used to acquire physiological data. The performance of the designed and developed system is evaluated in terms of transaction per second, transaction latency, and resource utilization using a standard benchmark tool known as Hyperledger Caliper. It is found that the proposed system outperforms the traditional health care system for monitoring patient data. © 2020 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Blockchain
+KW  - Hyperledger fabric
+KW  - Internet of things
+KW  - Smart contract
+KW  - Smart healthcare
+KW  - Algorithms
+KW  - Blockchain
+KW  - Delivery of Health Care
+KW  - Electronic Health Records
+KW  - Hospitals
+KW  - Humans
+KW  - Internet of Things
+KW  - Monitoring, Physiologic
+KW  - Remote Sensing Technology
+KW  - Vital Signs
+KW  - Access control
+KW  - Benchmarking
+KW  - Bioinformatics
+KW  - Blockchain
+KW  - Data privacy
+KW  - Data Sharing
+KW  - Diagnosis
+KW  - Electronic document exchange
+KW  - Health care
+KW  - Hospital data processing
+KW  - Industrial research
+KW  - Medical computing
+KW  - Remote patient monitoring
+KW  - Electronic healthcare
+KW  - Electronic medical record
+KW  - Health care application
+KW  - Integrity management
+KW  - Personal medical informations
+KW  - Pharmaceutical industry
+KW  - Privacy and security
+KW  - Resource utilizations
+KW  - algorithm
+KW  - electronic health record
+KW  - health care delivery
+KW  - hospital
+KW  - human
+KW  - physiologic monitoring
+KW  - procedures
+KW  - remote sensing
+KW  - vital sign
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 248
+ER  -
+
+TY  - JOUR
+AU  - Bincoletto, G.
+TI  - MHEALTH APPS FOR TELECONSULTATION AND TELEMONITORING: THE NEW FRONTIERS OF TELEMEDI-CINE AND THE LEGAL FRAMEWORKS ON MEDICAL DEVICES AND ON THE PROTECTION OF PERSONAL DATA
+ST  - mHealth app per la televisita e il telemonitoraggio. Le nuove frontiere della telemedicina tra disciplina sui dispositivi medici e protezione dei dati personali
+PY  - 2021
+T2  - BioLaw Journal
+VL  - 2021
+IS  - 4
+SP  - 381
+EP  - 407
+DO  - 10.15168/2284-4503-2054
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131299879&doi=10.15168%2f2284-4503-2054&partnerID=40&md5=4de2ab7654df7772cdc9eb447dfcd22b
+AB  - mHealth apps developed for teleconsultation and telemonitoring include software that collect, store and exchange information on the health status of individuals to allow a remote medical examination and a remote monitoring of a patient suffering from a chronic disease. In recent years the phenomenon of mHealth apps has deeply been studied, but uncertainty remains. In the absence of a specific regime for telemedicine, this paper will reconstruct the applicable rules in the European Union and Italian legal systems and investigate whether such a mHealth app should be considered a medical device and what are the requirements deriving from the data protection framework. © 2021
+KW  - design
+KW  - medical device
+KW  - mHealth app
+KW  - personal data
+KW  - Telemedicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Li, Y.-H.
+AU  - Li, Y.-L.
+AU  - Wei, M.-Y.
+AU  - Li, G.-Y.
+TI  - Innovation and challenges of artificial intelligence technology in personalized healthcare
+PY  - 2024
+T2  - Scientific Reports
+VL  - 14
+IS  - 1
+C7  - 18994
+DO  - 10.1038/s41598-024-70073-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85201403603&doi=10.1038%2fs41598-024-70073-7&partnerID=40&md5=e176d5f3cd122e2ac453de86f1fd7532
+AB  - As the burgeoning field of Artificial Intelligence (AI) continues to permeate the fabric of healthcare, particularly in the realms of patient surveillance and telemedicine, a transformative era beckons. This manuscript endeavors to unravel the intricacies of recent AI advancements and their profound implications for reconceptualizing the delivery of medical care. Through the introduction of innovative instruments such as virtual assistant chatbots, wearable monitoring devices, predictive analytic models, personalized treatment regimens, and automated appointment systems, AI is not only amplifying the quality of care but also empowering patients and fostering a more interactive dynamic between the patient and the healthcare provider. Yet, this progressive infiltration of AI into the healthcare sphere grapples with a plethora of challenges hitherto unseen. The exigent issues of data security and privacy, the specter of algorithmic bias, the requisite adaptability of regulatory frameworks, and the matter of patient acceptance and trust in AI solutions demand immediate and thoughtful resolution.The importance of establishing stringent and far-reaching policies, ensuring technological impartiality, and cultivating patient confidence is paramount to ensure that AI-driven enhancements in healthcare service provision remain both ethically sound and efficient. In conclusion, we advocate for an expansion of research efforts aimed at navigating the ethical complexities inherent to a technology-evolving landscape, catalyzing policy innovation, and devising AI applications that are not only clinically effective but also earn the trust of the patient populace. By melding expertise across disciplines, we stand at the threshold of an era wherein AI's role in healthcare is both ethically unimpeachable and conducive to elevating the global health quotient. © The Author(s) 2024.
+KW  - Artificial intelligence
+KW  - Data security
+KW  - Healthcare
+KW  - Remote patient care
+KW  - Virtual assistant chatbots
+KW  - Artificial Intelligence
+KW  - Delivery of Health Care
+KW  - Humans
+KW  - Precision Medicine
+KW  - Telemedicine
+KW  - artificial intelligence
+KW  - ethics
+KW  - health care delivery
+KW  - human
+KW  - personalized medicine
+KW  - procedures
+KW  - telemedicine
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Paganelli, A.I.
+AU  - Velmovitsky, P.E.
+AU  - Miranda, P.
+AU  - Branco, A.
+AU  - Alencar, P.
+AU  - Cowan, D.
+AU  - Endler, M.
+AU  - Morita, P.P.
+TI  - A conceptual IoT-based early-warning architecture for remote monitoring of COVID-19 patients in wards and at home
+PY  - 2022
+T2  - Internet of Things (Netherlands)
+VL  - 18
+C7  - 100399
+DO  - 10.1016/j.iot.2021.100399
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85119322873&doi=10.1016%2fj.iot.2021.100399&partnerID=40&md5=bb4ddb76eed47b1f3394525f801075fe
+AB  - Due to the COVID-19 pandemic, health services around the globe are struggling. An effective system for monitoring patients can improve healthcare delivery by avoiding in-person contacts, enabling early-detection of severe cases, and remotely assessing patients’ status. Internet of Things (IoT) technologies have been used for monitoring patients’ health with wireless wearable sensors in different scenarios and medical conditions, such as noncommunicable and infectious diseases. Combining IoT-related technologies with early-warning scores (EWS) commonly utilized in infirmaries has the potential to enhance health services delivery significantly. Specifically, the NEWS-2 has been showing remarkable results in detecting the health deterioration of COVID-19 patients. Although the literature presents several approaches for remote monitoring, none of these studies proposes a customized, complete, and integrated architecture that uses an effective early-detection mechanism for COVID-19 and that is flexible enough to be used in hospital wards and at home. Therefore, this article's objective is to present a comprehensive IoT-based conceptual architecture that addresses the key requirements of scalability, interoperability, network dynamics, context discovery, reliability, and privacy in the context of remote health monitoring of COVID-19 patients in hospitals and at home. Since remote monitoring of patients at home (essential during a pandemic) can engender trust issues regarding secure and ethical data collection, a consent management module was incorporated into our architecture to provide transparency and ensure data privacy. Further, the article details mechanisms for supporting a configurable and adaptable scoring system embedded in wearable devices to increase usefulness and flexibility for health care professions working with EWS. © 2021
+KW  - Architecture
+KW  - Consent
+KW  - COVID-19
+KW  - IoT
+KW  - NEWS-2
+KW  - Remote monitoring
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 06 January 2025; Cited By: 67
+ER  -
+

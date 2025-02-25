@@ -1,0 +1,2019 @@
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 14
+IS  - 1
+SP  - 29837
+SN  - 2045-2322
+JF  - Scientific reports
+JO  - Sci Rep
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L645966876&from=export
+U2  - L645966876
+C5  - 39617767
+DB  - Medline
+U4  - 2024-12-16
+L2  - http://dx.doi.org/10.1038/s41598-024-80567-z
+DO  - 10.1038/s41598-024-80567-z
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20452322&id=doi:10.1038%2Fs41598-024-80567-z&atitle=Development+of+a+remote+therapeutic+monitoring+platform%3A+applications+for+movement+disorders&stitle=Sci+Rep&title=Scientific+reports&volume=14&issue=1&spage=29837&epage=&aulast=Thankathuraipandian&aufirst=Sreetharan&auinit=S.&aufull=Thankathuraipandian+S.&coden=&isbn=&pages=29837-&date=2024&auinit1=S&auinitm=
+A1  - Thankathuraipandian, S.
+A1  - Greenleaf, W.
+A1  - Kyani, A.
+A1  - Tomlinson, T.
+A1  - Balasingh, B.
+A1  - Ross, E.
+A1  - Pathak, Y.
+M1  - (Thankathuraipandian S.; Kyani A.; Tomlinson T.; Balasingh B.; Ross E.; Pathak Y., Yagna.Pathak@abbott.com) Plano, TX, United States
+M1  - (Greenleaf W.) Stanford University, Stanford, CA, United States
+T1  - Development of a remote therapeutic monitoring platform: applications for movement disorders
+LA  - English
+KW  - aged
+KW  - brain depth stimulation
+KW  - devices
+KW  - diagnosis
+KW  - feasibility study
+KW  - female
+KW  - human
+KW  - male
+KW  - middle aged
+KW  - mobile application
+KW  - motor dysfunction
+KW  - Parkinson disease
+KW  - patient-reported outcome
+KW  - physiologic monitoring
+KW  - procedures
+KW  - telemedicine
+KW  - therapy
+KW  - wearable computer
+N2  - Digital health tools are emerging as a promising solution for optimizing Deep Brain Stimulation (DBS) therapy for neurodegenerative diseases such as Parkinson's Disease (PD), addressing challenges of therapy maintenance, care access, and discrete assessments. Wearable technology and mobile health platforms can offer remote monitoring capabilities, allowing for real-time virtual programming with optimization of patients' therapy, use of digital biomarkers that can help identify the onset, symptoms, medication-related fluctuations and side-effects, and response to DBS treatment. Through an investigational remote monitoring application (RM app) integrating patient-reported outcomes (PROs) and objective data using wearables, we aimed to develop an accessible, data-driven digital tool to monitor patient symptoms and deliver low-burden and easy-to-access DBS therapy. The platform is designed to be compatible with several consumer-grade wearables and ensures patient data privacy and security. We conducted a feasibility study to test the tool's effectiveness in a large-scale DBS study, where subjects received a home-monitoring kit consisting of an iPhone and Apple Watch, pre-configured with the RM app to enable remote data collection. Compliance in this paper is defined as adherence to the RM app and Apple watch usage. Analysis of 67 subjects from the study demonstrated an average compliance rate of 63.3% for daily check-ins, 85.5% for monthly surveys and 61.9% for passive data with an average of 55 days of post-implant data. The study highlights the feasibility of frequent monitoring in the early post-implant period that could lead to optimal outcomes for patients. The platform developed can further optimize study execution and be extended to other chronic conditions treated with neuromodulation implants such as depression and pain.
+ER  - 
+
+TY  - JOUR
+M3  - Article in Press
+Y1  - 2024
+SN  - 1098-8785
+JF  - American journal of perinatology
+JO  - Am J Perinatol
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L645925256&from=export
+U2  - L645925256
+C5  - 39592107
+DB  - Medline
+U3  - 2024-12-11
+L2  - http://dx.doi.org/10.1055/a-2489-4462
+DO  - 10.1055/a-2489-4462
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=10988785&id=doi:10.1055%2Fa-2489-4462&atitle=Innovations+in+Diabetes+Management+for+Pregnant+Women%3A+Artificial+Intelligence+and+the+Internet+of+Medical+Things&stitle=Am+J+Perinatol&title=American+journal+of+perinatology&volume=&issue=&spage=&epage=&aulast=Murrin&aufirst=Ellen+M.&auinit=E.M.&aufull=Murrin+E.M.&coden=&isbn=&pages=-&date=2024&auinit1=E&auinitm=M
+A1  - Murrin, E.M.
+A1  - Saad, A.F.
+A1  - Sullivan, S.
+A1  - Millo, Y.
+A1  - Miodovnik, M.
+M1  - (Murrin E.M.; Saad A.F.; Sullivan S.; Miodovnik M.) Department of Maternal Fetal Medicine, Inova Health System, Falls Church, United States
+M1  - (Millo Y.) Medical Director, Meuhedet Health Services, Tel Aviv, Israel
+T1  - Innovations in Diabetes Management for Pregnant Women: Artificial Intelligence and the Internet of Medical Things
+LA  - English
+KW  - glucose
+KW  - article
+KW  - artificial intelligence
+KW  - clinical decision support system
+KW  - controlled study
+KW  - cost effectiveness analysis
+KW  - diabetes mellitus
+KW  - drug therapy
+KW  - female
+KW  - fetus outcome
+KW  - glucose level
+KW  - glycemic control
+KW  - health care delivery
+KW  - human
+KW  - information security
+KW  - insulin resistance
+KW  - Internet
+KW  - mobile health application
+KW  - patient education
+KW  - physical activity
+KW  - placenta development
+KW  - pregnancy
+KW  - pregnant woman
+KW  - remote sensing
+KW  - self care
+KW  - telehealth
+KW  - therapy
+N2  - Pregnancies impacted by diabetes face the compounded challenge of strict glycemic control with mounting insulin resistance as the pregnancy progresses. New technological advances, including artificial intelligence (AI) and the Internet of Medical Things (IoMT), are revolutionizing healthcare delivery by providing innovative solutions for diabetes care during pregnancy. Together, AI and the IoMT are a multibillion-dollar industry that integrates advanced medical devices and sensors into a connected network that enables continuous monitoring of glucose levels. AI-driven Clinical Decision Support Systems (CDSS) can predict glucose trends and suggest tailor evidenced-based treatments with real-time adjustments as her insulin resistance changes with placental growth. Additionally, mobile health applications (mHealth) facilitate patient education and self-management through real-time tracking of diet, physical activity, and glucose levels. Remote monitoring capabilities are particularly beneficial for pregnant persons with diabetes as they extend quality care to underserved populations and reduce the need for frequent in-person visits. This high-resolution monitoring allows physicians and patients access to an unprecedented wealth of data to make more informed decisions based on real-time data, reducing complications for both the mother and fetus. These technologies can potentially improve maternal and fetal outcomes by enabling timely, individualized interventions based on personalized health data. While AI and IoMT offer significant promise in enhancing diabetes care for improved maternal and fetal outcomes, their implementation must address challenges such as data security, cost-effectiveness, and preserving the essential patient-provider relationship.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 8
+SN  - 2473-4276
+JF  - JCO Clinical Cancer Informatics
+JO  - JCO Clin. Cancer Inform.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2035796867&from=export
+U2  - L2035796867
+C5  - 39531613
+DB  - Embase
+DB  - Medline
+U3  - 2024-11-28
+U4  - 2024-12-03
+L2  - http://dx.doi.org/10.1200/CCI.24.00092
+DO  - 10.1200/CCI.24.00092
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=24734276&id=doi:10.1200%2FCCI.24.00092&atitle=Remote+Patient+Monitoring+Using+Mobile+Health+Technology+in+Cancer+Care+and+Research%3A+Patients%E2%80%99+Views+and+Preferences&stitle=JCO+Clin.+Cancer+Inform.&title=JCO+Clinical+Cancer+Informatics&volume=8&issue=&spage=&epage=&aulast=Stuijt&aufirst=Dominique+G.&auinit=D.G.&aufull=Stuijt+D.G.&coden=&isbn=&pages=-&date=2024&auinit1=D&auinitm=G
+A1  - Stuijt, D.G.
+A1  - van Doeveren, E.E.M.
+A1  - Kos, M.
+A1  - Eversdijk, M.
+A1  - Bosch, J.J.
+A1  - Bins, A.D.
+A1  - Bak, M.A.R.
+A1  - van Oijen, M.G.H.
+M1  - (Stuijt D.G., dstuijt@chdr.nl; Kos M.; Bins A.D.; van Oijen M.G.H.) Department of Medical Oncology, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, Netherlands
+M1  - (Stuijt D.G., dstuijt@chdr.nl; Bosch J.J.) Centre for Human Drug Research, Leiden, Netherlands
+M1  - (Stuijt D.G., dstuijt@chdr.nl; Kos M.; Bins A.D.; van Oijen M.G.H.) Cancer Center Amsterdam, Amsterdam, Netherlands
+M1  - (van Doeveren E.E.M.; Eversdijk M.; Bak M.A.R.) Department of Ethics, Law and Humanities, Amsterdam UMC, University of Amsterdam, Amsterdam, Netherlands
+M1  - (Eversdijk M.) Department of Medical and Clinical Psychology, Center of Research on Psychological Disorders and Somatic Diseases (CoRPS), Tilburg University, Tilburg, Netherlands
+AD  - D.G. Stuijt, Department of Medical Oncology, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, Netherlands
+T1  - Remote Patient Monitoring Using Mobile Health Technology in Cancer Care and Research: Patients’ Views and Preferences
+LA  - English
+KW  - blood glucose meter
+KW  - blood pressure monitor
+KW  - mobile application
+KW  - patient scale
+KW  - smart device
+KW  - smart watch
+KW  - thermometer
+KW  - adult
+KW  - aged
+KW  - ambulatory monitoring
+KW  - article
+KW  - bladder cancer
+KW  - cancer diagnosis
+KW  - cancer research
+KW  - cancer therapy
+KW  - clinical article
+KW  - controlled study
+KW  - data privacy
+KW  - digital health technology
+KW  - disease burden
+KW  - doctor patient relationship
+KW  - electronic health record
+KW  - expectation
+KW  - female
+KW  - health care utilization
+KW  - human
+KW  - interpersonal communication
+KW  - kidney cancer
+KW  - male
+KW  - Netherlands
+KW  - outpatient department
+KW  - patient attitude
+KW  - patient preference
+KW  - patient-reported outcome
+KW  - prostate cancer
+KW  - qualitative research
+KW  - quality of life
+KW  - semi structured interview
+KW  - telemonitoring
+KW  - trust
+N2  - PURPOSE There is an increasing interest in studying the potential of mobile health (mHealth) technologies, such as smartphone apps and wearables, as monitoring tools for patients with cancer during or after their treatment. However, little research is dedicated to exploring the opinions and concerns of patients regarding the adoption of these technologies. This study aimed to gain insight into patients’ perspectives and preferences for participating in mHealth-based monitoring in cancer care. METHODS A qualitative study comprising semistructured interviews was conducted in the Netherlands between April and June 2023. Participants were eligible if they were 18 years or older with a current or past diagnosis of cancer. The interview guide was developed on the basis of the technology acceptance model, with main themes being use, communication, trust, privacy, and expectations. RESULTS Thirteen participants with urologic primary cancer were interviewed. Most patients had already some familiarity with the use of digital monitoring devices or wearables. Main barriers included persistent reminders of the illness, receiving notifications deemed unnecessary or unwanted, and the acknowledgment that mHealth technology does not serve as a substitute for human doctors. Conversely, patients recognized the potential for time-savings through the utilization of mHealth, viewed active monitoring as nonburdensome, considered mHealth a tool for reducing the communication threshold with their doctor, and expressed willingness to adopt such a platform if they perceived personal or societal relevance. CONCLUSION This study has elucidated which factors are important for successful development of mHealth for patients with cancer. While both barriers and facilitators play a role, patients’ attitudes were positive toward the implementation of remote digital monitoring, showing promising prospects for future research of mHealth in oncology.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 69
+SN  - 1878-9307
+SN  - 1878-9293
+JF  - Developmental Cognitive Neuroscience
+JO  - Dev. Cognitive Neurosci.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2034616868&from=export
+U2  - L2034616868
+C5  - 39298921
+DB  - Embase
+DB  - Medline
+U3  - 2024-09-20
+U4  - 2024-09-24
+L2  - http://dx.doi.org/10.1016/j.dcn.2024.101446
+DO  - 10.1016/j.dcn.2024.101446
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18789307&id=doi:10.1016%2Fj.dcn.2024.101446&atitle=Remote+data+collection+of+infant+activity+and+sleep+patterns+via+wearable+sensors+in+the+HEALthy+Brain+and+Child+Development+Study+%28HBCD%29&stitle=Dev.+Cognitive+Neurosci.&title=Developmental+Cognitive+Neuroscience&volume=69&issue=&spage=&epage=&aulast=Pini&aufirst=Nicol%C3%B2&auinit=N.&aufull=Pini+N.&coden=&isbn=&pages=-&date=2024&auinit1=N&auinitm=
+A1  - Pini, N.
+A1  - Fifer, W.P.
+A1  - Oh, J.
+A1  - Nebeker, C.
+A1  - Croff, J.M.
+A1  - Smith, B.A.
+M1  - (Pini N., np2600@cumc.columbia.edu; Fifer W.P.) Department of Psychiatry, Columbia University Irving Medical Center, New York, NY, United States
+M1  - (Pini N., np2600@cumc.columbia.edu; Fifer W.P.) Division of Developmental Neuroscience, New York State Psychiatric Institute, New York, NY, United States
+M1  - (Fifer W.P.) Department of Pediatrics, Columbia University Irving Medical Center, New York, NY, United States
+M1  - (Oh J.; Smith B.A.) Division of Developmental-Behavioral Pediatrics, Children's Hospital Los Angeles, Los Angeles, CA, United States
+M1  - (Nebeker C.) Herbert Wertheim School of Public Health and Human Longevity Science, UC San Diego, La Jolla, CA, United States
+M1  - (Nebeker C.) The Qualcomm Institute, UC San Diego, La Jolla, CA, United States
+M1  - (Croff J.M.) Department of Rural Health, Oklahoma State University Center for Health Sciences, Tulsa, OK, United States
+M1  - (Smith B.A.) Developmental Neuroscience and Neurogenetics Program, The Saban Research Institute, Children's Hospital Los Angeles, Los Angeles, CA, United States
+M1  - (Smith B.A.) Department of Pediatrics, Keck School of Medicine, University of Southern California, Los Angeles, CA, United States
+M1  - ()
+AD  - N. Pini, Department of Psychiatry, Columbia University Irving Medical Center, 1051 Riverside Drive, Room 4911 C, New York, NY, United States
+T1  - Remote data collection of infant activity and sleep patterns via wearable sensors in the HEALthy Brain and Child Development Study (HBCD)
+LA  - English
+KW  - computer
+KW  - wearable sensor
+KW  - access to information
+KW  - article
+KW  - brain development
+KW  - child development
+KW  - clinical study
+KW  - comparative study
+KW  - conceptual framework
+KW  - controlled study
+KW  - data analysis
+KW  - data privacy
+KW  - data processing
+KW  - data release
+KW  - decision making
+KW  - digital health
+KW  - diversity, equity and inclusion
+KW  - heart rate
+KW  - human
+KW  - infancy
+KW  - infant
+KW  - information processing
+KW  - leg movement
+KW  - medical ethics
+KW  - performance
+KW  - physical activity
+KW  - prospective study
+KW  - research protocol
+KW  - risk benefit analysis
+KW  - sleep pattern
+KW  - software
+KW  - study design
+KW  - telemonitoring
+KW  - usability
+KW  - validation study
+N2  - The HEALthy Brain and Child Development (HBCD) Study, a multi-site prospective longitudinal cohort study, will examine human brain, cognitive, behavioral, social, and emotional development beginning prenatally and planned through early childhood. Wearable and remote sensing technologies have advanced data collection outside of laboratory settings to enable exploring, in more detail, the associations of early experiences with brain development and social and health outcomes. In the HBCD Study, the Novel Technology/Wearable Sensors Working Group (WG-NTW) identified two primary data types to be collected: infant activity (by measuring leg movements) and sleep (by measuring heart rate and leg movements). These wearable technologies allow for remote collection in the natural environment. This paper illustrates the collection of such data via wearable technologies and describes the decision-making framework, which led to the currently deployed study design, data collection protocol, and derivatives, which will be made publicly available. Moreover, considerations regarding actual and potential challenges to adoption and use, data management, privacy, and participant burden were examined. Lastly, the present limitations in the field of wearable sensor data collection and analysis will be discussed in terms of extant validation studies, the difficulties in comparing performance across different devices, and the impact of evolving hardware/software/firmware.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 93
+SN  - 1746-8108
+SN  - 1746-8094
+JF  - Biomedical Signal Processing and Control
+JO  - Biomed. Signal Process. Control
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2031141498&from=export
+U2  - L2031141498
+DB  - Embase
+U3  - 2024-03-27
+U4  - 2024-04-02
+L2  - http://dx.doi.org/10.1016/j.bspc.2024.106213
+DO  - 10.1016/j.bspc.2024.106213
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=17468108&id=doi:10.1016%2Fj.bspc.2024.106213&atitle=Optimized+data+management+and+secured+federated+learning+in+the+Internet+of+Medical+Things+%28IoMT%29+with+blockchain+technology&stitle=Biomed.+Signal+Process.+Control&title=Biomedical+Signal+Processing+and+Control&volume=93&issue=&spage=&epage=&aulast=Ramani&aufirst=R.&auinit=R.&aufull=Ramani+R.&coden=&isbn=&pages=-&date=2024&auinit1=R&auinitm=
+A1  - Ramani, R.
+A1  - Rosline Mary, A.
+A1  - Edwin Raja, S.
+A1  - Arun Shunmugam, D.
+M1  - (Ramani R., rramani.research@gmail.com) Department of Computer Science and Engineering, P.S.R. Engineering College, Tamil Nadu 626140, Sivakasi, India
+M1  - (Rosline Mary A.) Department of Computer Science and Engineering, Vemana Institute of Technology, Karnataka, Bengaluru, India
+M1  - (Edwin Raja S.) Department of Computer Science and Engineering, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Avadi, Chennai, India
+M1  - (Arun Shunmugam D.) Department of Electronics and Communication Engineering, P.S.R. Engineering College, Tamil Nadu 626140, Sivakasi, India
+AD  - R. Ramani, Department of Computer Science and Engineering, P.S.R. Engineering College, Tamil Nadu 626140, Sivakasi, India
+T1  - Optimized data management and secured federated learning in the Internet of Medical Things (IoMT) with blockchain technology
+LA  - English
+KW  - article
+KW  - blockchain
+KW  - collaborative learning
+KW  - computer language
+KW  - data integrity
+KW  - data privacy
+KW  - encryption
+KW  - health care
+KW  - health care industry
+KW  - health care management
+KW  - health care system
+KW  - health data
+KW  - hospital running cost
+KW  - human
+KW  - information processing
+KW  - information retrieval
+KW  - information security
+KW  - Internet
+KW  - organization and management
+KW  - patient coding
+KW  - performance indicator
+KW  - process optimization
+KW  - workflow
+N2  - The increasing need for improved medical and healthcare monitoring systems is paramount in the current healthcare environment. This need is propelled by the continuously growing quantity of patient data, the imperative for instantaneous information, and the crucial significance of data security. The Internet of Medical Things (IoMT) has been recognized as an essential technology for addressing healthcare requirements via the seamless integration of medical devices, sensors, and healthcare systems. Nevertheless, the effective administration and safeguarding of the extensive and delicate data produced by the IoMT present significant obstacles. The current methodologies often need to be revised to deliver holistic resolutions to these difficulties. To tackle these concerns comprehensively, the research proposed Optimized Data Management and Secured Federated Learning (ODMSM-FL), incorporating blockchain provenance. ODMSM-FL has been specifically developed to address the unique requirements of the IoMT via several capabilities, including decentralized data administration, federated learning, and solid security mechanisms based on blockchain technology. The system enhances data management capabilities, facilitating the adequate storage, retrieval, and exchange of medical data while safeguarding data privacy and maintaining data integrity. This study reports a set of numerical findings about essential performance metrics: transaction throughput (102.75 Kbps), block processing time (42.28 ms), data retrieval latency (64.02 ms), convergence rate (77.53 %), security (88.97 %), and accuracy (86.32 %). The findings prove that ODMSM-FL surpasses current methodologies, showcasing its exceptional capacity to improve data management, security, and overall performance within IoMT applications. The findings underscore the considerable potential of ODMSM-FL in effectively tackling the urgent data management and security issues in the IoMT, eventually making valuable contributions to the progress of healthcare systems and the enhanced welfare of patients.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 11
+IS  - 3
+SP  - 361
+EP  - 374
+SN  - 2345-5837
+SN  - 2345-5829
+JF  - Frontiers in Biomedical Technologies
+JO  - Front. Biomed. Technol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2033210240&from=export
+U2  - L2033210240
+DB  - Embase
+U3  - 2024-07-16
+U4  - 2024-07-18
+L2  - http://dx.doi.org/10.18502/fbt.v11i3.15881
+DO  - 10.18502/fbt.v11i3.15881
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=23455837&id=doi:10.18502%2Ffbt.v11i3.15881&atitle=A+High-Performance%2C+Secure+Custom+Electronics+Circuit+for+Biopotential+Measurement+and+Processing&stitle=Front.+Biomed.+Technol.&title=Frontiers+in+Biomedical+Technologies&volume=11&issue=3&spage=361&epage=374&aulast=Palumbo&aufirst=Arrigo&auinit=A.&aufull=Palumbo+A.&coden=&isbn=&pages=361-374&date=2024&auinit1=A&auinitm=
+A1  - Palumbo, A.
+A1  - Calabrese, B.
+A1  - Ielpo, N.
+A1  - Garropoli, R.
+A1  - Vizza, P.
+A1  - Demeco, A.
+A1  - Gramigna, V.
+M1  - (Palumbo A.; Calabrese B., calabreseb@unicz.it; Ielpo N.; Vizza P.; Gramigna V.) Department of Medical and Surgical Sciences, University Magna Graecia, Viale Europa, Catanzaro, Italy
+M1  - (Garropoli R.) Garropoli Computer Science Consulting, Cosenza, Italy
+M1  - (Demeco A.) Corchiola Computer Science Consulting, Cosenza, Italy
+AD  - B. Calabrese, Department of Medical and Surgical Sciences, University Magna Graecia, Viale Europa, Catanzaro, Italy
+T1  - A High-Performance, Secure Custom Electronics Circuit for Biopotential Measurement and Processing
+LA  - English
+KW  - Arm Cortex M3
+KW  - Bluetooth
+KW  - BQ24232
+KW  - electrical equipment
+KW  - electrode
+KW  - electromyograph
+KW  - electronics
+KW  - filter
+KW  - high pass filter
+KW  - LM27762
+KW  - low pass filter
+KW  - mobile application
+KW  - motion analysis system
+KW  - notch filter
+KW  - Raspberry PI
+KW  - TPS61220
+KW  - article
+KW  - Biopotential Measurement
+KW  - Biopotential Processing
+KW  - computer security
+KW  - data base
+KW  - electrochemical analysis
+KW  - electromyogram
+KW  - electromyography
+KW  - electrophysiology
+KW  - human
+KW  - low energy radiation
+KW  - nonhuman
+KW  - P wave
+KW  - power supply
+KW  - privacy
+KW  - raspberry
+KW  - remote sensing
+KW  - signal noise ratio
+KW  - signal processing
+KW  - telemonitoring
+KW  - telerehabilitation
+KW  - vulnerability
+KW  - wireless communication
+KW  - Arm Cortex M3
+KW  - BQ24232
+KW  - LM27762
+KW  - Raspberry PI
+KW  - TPS61220
+C3  - Arm Cortex M3
+C3  - BQ24232(Texas Instruments)
+C3  - LM27762(Texas Instruments)
+C3  - Raspberry PI(PI Foundation)
+C3  - TPS61220(Texas Instruments)
+C4  - PI Foundation
+C4  - Texas Instruments
+N2  - Purpose: In this paper, we propose a secure wearable and portable device aiming to (i) monitor physical activity in medical and clinical rehabilitation, (ii) evaluate the subject's movements in sports environments, and (iii) monitor wellness indicators. Materials and Methods: The innovative low-power custom circuit can acquire, pre-process, digitalize, and transmit EMG signals to a Raspberry PI4 device via a low-energy Bluetooth module. The Raspberry PI4 is a hub that sends data to a cloud-based system for remote monitoring and processing. The best cybersecurity practices have been implemented: firewall, anti-DDoS and SELinux. Results: We have assessed the system's vulnerability before and after the system's hardening. SELinux makes the system safer and prevents unauthorized access to patients' data health by tampering with the devices. Conclusion: Adopting IoT systems in telemedicine requires greater attention to cybersecurity. It is necessary to implement security mechanisms to guarantee the privacy of patient's health data.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 1
+SP  - 105
+SN  - 1471-2342
+JF  - BMC medical imaging
+JO  - BMC Med Imaging
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L644233012&from=export
+U2  - L644233012
+C5  - 38730390
+DB  - Medline
+U4  - 2024-05-17
+L2  - http://dx.doi.org/10.1186/s12880-024-01279-4
+DO  - 10.1186/s12880-024-01279-4
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14712342&id=doi:10.1186%2Fs12880-024-01279-4&atitle=Towards+blockchain+based+federated+learning+in+categorizing+healthcare+monitoring+devices+on+artificial+intelligence+of+medical+things+investigative+framework&stitle=BMC+Med+Imaging&title=BMC+medical+imaging&volume=24&issue=1&spage=105&epage=&aulast=Ahmed&aufirst=Syed+Thouheed&auinit=S.T.&aufull=Ahmed+S.T.&coden=&isbn=&pages=105-&date=2024&auinit1=S&auinitm=T
+A1  - Ahmed, S.T.
+A1  - Mahesh, T.R.
+A1  - Srividhya, E.
+A1  - Vinoth Kumar, V.
+A1  - Khan, S.B.
+A1  - Albuali, A.
+A1  - Almusharraf, A.
+M1  - (Ahmed S.T.) Department of Electrical Engineering, Indian Institute of Technology, Hyderabad, India
+M1  - (Mahesh T.R.) Department of Computer Science and Engineering, Bengaluru, India
+M1  - (Srividhya E.) Department of Computer Science and Engineering, Sathyabama Institute of Science and Technology, Chennai, India
+M1  - (Vinoth Kumar V.) School of Computer Science Engineering & Information Systems(SCORE), Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India
+M1  - (Khan S.B.) School of Science Engineering and Environment, University of Salford, Manchester, United Kingdom
+M1  - (Khan S.B.) Department of Electrical and Computer Engineering, Lebanese American University, Byblos, Lebanon
+M1  - (Albuali A.) College of Computer Sciences and Information Technology, King Faisal University, Saudi Arabia
+M1  - (Almusharraf A.) Department of management, College of Business Administration, Princess Nourah Bint Abdulrahman University, P.O. Box 84428, Riyadh, Saudi Arabia
+T1  - Towards blockchain based federated learning in categorizing healthcare monitoring devices on artificial intelligence of medical things investigative framework
+LA  - English
+KW  - artificial intelligence
+KW  - blockchain
+KW  - human
+KW  - internet of things
+N2  - Categorizing Artificial Intelligence of Medical Things (AIoMT) devices within the realm of standard Internet of Things (IoT) and Internet of Medical Things (IoMT) devices, particularly at the server and computational layers, poses a formidable challenge. In this paper, we present a novel methodology for categorizing AIoMT devices through the application of decentralized processing, referred to as "Federated Learning" (FL). Our approach involves deploying a system on standard IoT devices and labeled IoMT devices for training purposes and attribute extraction. Through this process, we extract and map the interconnected attributes from a global federated cum aggression server. The aim of this terminology is to extract interdependent devices via federated learning, ensuring data privacy and adherence to operational policies. Consequently, a global training dataset repository is coordinated to establish a centralized indexing and synchronization knowledge repository. The categorization process employs generic labels for devices transmitting medical data through regular communication channels. We evaluate our proposed methodology across a variety of IoT, IoMT, and AIoMT devices, demonstrating effective classification and labeling. Our technique yields a reliable categorization index for facilitating efficient access and optimization of medical devices within global servers.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 9
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L644235544&from=export
+U2  - L644235544
+C5  - 38732910
+DB  - Medline
+U4  - 2024-05-17
+L2  - http://dx.doi.org/10.3390/s24092804
+DO  - 10.3390/s24092804
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs24092804&atitle=Developing+a+Novel+Ontology+for+Cybersecurity+in+Internet+of+Medical+Things-Enabled+Remote+Patient+Monitoring&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=24&issue=9&spage=&epage=&aulast=Bughio&aufirst=Kulsoom+S.&auinit=K.S.&aufull=Bughio+K.S.&coden=&isbn=&pages=-&date=2024&auinit1=K&auinitm=S
+A1  - Bughio, K.S.
+A1  - Cook, D.M.
+A1  - Shah, S.A.A.
+M1  - (Bughio K.S.; Cook D.M.; Shah S.A.A.) School of Science, Edith Cowan University, 270 Joondalup Dr, Joondalup, WA 6027, Australia
+T1  - Developing a Novel Ontology for Cybersecurity in Internet of Medical Things-Enabled Remote Patient Monitoring
+LA  - English
+KW  - computer security
+KW  - devices
+KW  - human
+KW  - internet of things
+KW  - physiologic monitoring
+KW  - procedures
+KW  - telemedicine
+N2  - IoT has seen remarkable growth, particularly in healthcare, leading to the rise of IoMT. IoMT integrates medical devices for real-time data analysis and transmission but faces challenges in data security and interoperability. This research identifies a significant gap in the existing literature regarding a comprehensive ontology for vulnerabilities in medical IoT devices. This paper proposes a fundamental domain ontology named MIoT (Medical Internet of Things) ontology, focusing on cybersecurity in IoMT (Internet of Medical Things), particularly in remote patient monitoring settings. This research will refer to similar-looking acronyms, IoMT and MIoT ontology. It is important to distinguish between the two. IoMT is a collection of various medical devices and their applications within the research domain. On the other hand, MIoT ontology refers to the proposed ontology that defines various concepts, roles, and individuals. MIoT ontology utilizes the knowledge engineering methodology outlined in Ontology Development 101, along with the structured life cycle, and establishes semantic interoperability among medical devices to secure IoMT assets from vulnerabilities and cyberattacks. By defining key concepts and relationships, it becomes easier to understand and analyze the complex network of information within the IoMT. The MIoT ontology captures essential key terms and security-related entities for future extensions. A conceptual model is derived from the MIoT ontology and validated through a case study. Furthermore, this paper outlines a roadmap for future research, highlighting potential impacts on security automation in healthcare applications.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 21
+IS  - 3
+SP  - 3473
+EP  - 3497
+SN  - 1551-0018
+JF  - Mathematical biosciences and engineering : MBE
+JO  - Math Biosci Eng
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643873010&from=export
+U2  - L643873010
+C5  - 38549292
+DB  - Medline
+U4  - 2024-04-09
+L2  - http://dx.doi.org/10.3934/mbe.2024153
+DO  - 10.3934/mbe.2024153
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15510018&id=doi:10.3934%2Fmbe.2024153&atitle=Secure+smart+home+architecture+for+ambient-assisted+living+using+a+multimedia+Internet+of+Things+based+system+in+smart+cities&stitle=Math+Biosci+Eng&title=Mathematical+biosciences+and+engineering+%3A+MBE&volume=21&issue=3&spage=3473&epage=3497&aulast=Ouni&aufirst=Ridha&auinit=R.&aufull=Ouni+R.&coden=&isbn=&pages=3473-3497&date=2024&auinit1=R&auinitm=
+A1  - Ouni, R.
+A1  - Saleem, K.
+M1  - (Ouni R.) Department of Computer Engineering, College of Computer and Information Sciences, King Saud University, Riyadh, Saudi Arabia
+M1  - (Saleem K.) Center of Excellence in Information Assurance (CoEIA), King Saud University, Riyadh, Saudi Arabia
+T1  - Secure smart home architecture for ambient-assisted living using a multimedia Internet of Things based system in smart cities
+LA  - English
+KW  - article
+KW  - assisted living facility
+KW  - cloud computing
+KW  - diagnosis
+KW  - energy consumption
+KW  - home environment
+KW  - information security
+KW  - Internet
+KW  - internet of things
+KW  - multimedia
+KW  - prediction
+KW  - remote sensing
+KW  - sensor
+KW  - smart home
+KW  - smartphone
+KW  - velocity
+KW  - visual memory
+KW  - vital sign
+KW  - wearable device
+N2  - Recent advances in smartphones and remote monitoring based on the Internet of Things (IoT) have enabled improved multidimensional intelligent services. The advent of IoT-based wearable and multimedia sensors has prevented millions of mishapsthrough seamless and systematic monitoring. An IoT-based monitoring system is composed of several sensor devices to measure vital signs, fall detection, energy consumption, and visual recognition. As the data collected by the sensors are transmitted to cloud storage through the Internet, data security is a major concern when transmitting data from remote locations. To improve data security and prediction accuracy, in this study, we proposed a smart and secure multimedia IoT monitoring system for smart homes backed up by smart grid supervisory control and data acquisition (SCADA). The proposed system employs state-of-the-art IoT microcontrollers and hardware devices and integrates them in a manner that significantly affects the accuracy and speed of the entire system. Furthermore, the information gathered from IoT is securely transferred through private channels and stored on the cloud, which can be accessed authentically and reliably using an information system built into an IoT application. The output was extensively compared in terms of power consumption and delivery ratio, which were based on the values collected with sequence numbers. The comparative analysis demonstrated that the proposed approach provides increased prediction accuracy and better security. Hence, the proposed powerefficient prototype model monitors the entire smart home environment in real time and serves as an early warning system for critical situations.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 3
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643471147&from=export
+U2  - L643471147
+C5  - 38339656
+DB  - Medline
+U3  - 2024-02-19
+L2  - http://dx.doi.org/10.3390/s24030938
+DO  - 10.3390/s24030938
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs24030938&atitle=PUFchain+3.0%3A+Hardware-Assisted+Distributed+Ledger+for+Robust+Authentication+in+Healthcare+Cyber-Physical+Systems&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=24&issue=3&spage=&epage=&aulast=Bathalapalli&aufirst=Venkata+K+V+V&auinit=V.K.V.V.&aufull=Bathalapalli+V.K.V.V.&coden=&isbn=&pages=-&date=2024&auinit1=V&auinitm=K.V.V.
+A1  - Bathalapalli, V.K.V.V.
+A1  - Mohanty, S.P.
+A1  - Kougianos, E.
+A1  - Iyer, V.
+A1  - Rout, B.
+M1  - (Bathalapalli V.K.V.V.; Mohanty S.P.) Department of Computer Science and Engineering, University of North Texas, TX 76203, Denton, United States
+M1  - (Kougianos E.) Department of Electrical Engineering, University of North Texas, TX 76203, Denton, United States
+M1  - (Iyer V.) Department of Computer Science and Digital Technologies, Grambling State University, Grambling, United States
+M1  - (Rout B.) Department of Physics, University of North Texas, Denton, United States
+T1  - PUFchain 3.0: Hardware-Assisted Distributed Ledger for Robust Authentication in Healthcare Cyber-Physical Systems
+LA  - English
+N2  - This article presents a novel hardware-assisted distributed ledger-based solution for simultaneous device and data security in smart healthcare. This article presents a novel architecture that integrates PUF, blockchain, and Tangle for Security-by-Design (SbD) of healthcare cyber-physical systems (H-CPSs). Healthcare systems around the world have undergone massive technological transformation and have seen growing adoption with the advancement of Internet-of-Medical Things (IoMT). The technological transformation of healthcare systems to telemedicine, e-health, connected health, and remote health is being made possible with the sophisticated integration of IoMT with machine learning, big data, artificial intelligence (AI), and other technologies. As healthcare systems are becoming more accessible and advanced, security and privacy have become pivotal for the smooth integration and functioning of various systems in H-CPSs. In this work, we present a novel approach that integrates PUF with IOTA Tangle and blockchain and works by storing the PUF keys of a patient's Body Area Network (BAN) inside blockchain to access, store, and share globally. Each patient has a network of smart wearables and a gateway to obtain the physiological sensor data securely. To facilitate communication among various stakeholders in healthcare systems, IOTA Tangle's Masked Authentication Messaging (MAM) communication protocol has been used, which securely enables patients to communicate, share, and store data on Tangle. The MAM channel works in the restricted mode in the proposed architecture, which can be accessed using the patient's gateway PUF key. Furthermore, the successful verification of PUF enables patients to securely send and share physiological sensor data from various wearable and implantable medical devices embedded with PUF. Finally, healthcare system entities like physicians, hospital admin networks, and remote monitoring systems can securely establish communication with patients using MAM and retrieve the patient's BAN PUF keys from the blockchain securely. Our experimental analysis shows that the proposed approach successfully integrates three security primitives, PUF, blockchain, and Tangle, providing decentralized access control and security in H-CPS with minimal energy requirements, data storage, and response time.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 11
+SN  - 2368-7959
+JF  - JMIR Mental Health
+JO  - JMIR Ment. Heal.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2035468949&from=export
+U2  - L2035468949
+DB  - Embase
+U3  - 2024-11-12
+U4  - 2024-11-14
+L2  - http://dx.doi.org/10.2196/51259
+DO  - 10.2196/51259
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=23687959&id=doi:10.2196%2F51259&atitle=Digital+Phenotyping+of+Mental+and+Physical+Conditions%3A+Remote+Monitoring+of+Patients+Through+RADAR-Base+Platform&stitle=JMIR+Ment.+Heal.&title=JMIR+Mental+Health&volume=11&issue=&spage=&epage=&aulast=Rashid&aufirst=Zulqarnain&auinit=Z.&aufull=Rashid+Z.&coden=&isbn=&pages=-&date=2024&auinit1=Z&auinitm=
+A1  - Rashid, Z.
+A1  - Folarin, A.A.
+A1  - Zhang, Y.
+A1  - Ranjan, Y.
+A1  - Conde, P.
+A1  - Sankesara, H.
+A1  - Sun, S.
+A1  - Stewart, C.
+A1  - Laiou, P.
+A1  - Dobson, R.J.B.
+M1  - (Rashid Z.; Folarin A.A., amos.folarin@kcl.ac.uk; Zhang Y.; Ranjan Y.; Conde P.; Sankesara H.; Sun S.; Stewart C.; Laiou P.; Dobson R.J.B.) Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom
+M1  - (Folarin A.A., amos.folarin@kcl.ac.uk; Dobson R.J.B.) Institute of Health Informatics, University College London, London, United Kingdom
+M1  - (Folarin A.A., amos.folarin@kcl.ac.uk; Dobson R.J.B.) NIHR Biomedical Research Center, South London and Maudsley NHS Foundation Trust, King's College London, London, United Kingdom
+M1  - (Folarin A.A., amos.folarin@kcl.ac.uk; Dobson R.J.B.) Health Data Research UK London, University College London, London, United Kingdom
+M1  - (Folarin A.A., amos.folarin@kcl.ac.uk; Dobson R.J.B.) NIHR Biomedical Research Center, University College London Hospitals, NHS Foundation Trust, London, United Kingdom
+M1  - (Sun S.) Department of Computer Science, University of Sheffield, Sheffield, United Kingdom
+AD  - A.A. Folarin, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, Denmark Hill, London, United Kingdom
+T1  - Digital Phenotyping of Mental and Physical Conditions: Remote Monitoring of Patients Through RADAR-Base Platform
+LA  - English
+KW  - accelerometer
+KW  - Empatica E4
+KW  - Everion
+KW  - Faros 180
+KW  - Faros 360
+KW  - inertial sensor
+KW  - microphone
+KW  - mobile application
+KW  - mobile health application
+KW  - mobile phone
+KW  - open source software
+KW  - Oura Ring
+KW  - Pebble 2 smartwatch
+KW  - smartphone
+KW  - Vivoactive
+KW  - Vivosmart
+KW  - wearable device
+KW  - wearable sensor
+KW  - biological marker
+KW  - access to information
+KW  - Alzheimer disease
+KW  - article
+KW  - attention deficit hyperactivity disorder
+KW  - autism
+KW  - behavior
+KW  - cardiometabolic risk factor
+KW  - central nervous system disease
+KW  - comparative study
+KW  - convalescence
+KW  - coronavirus disease 2019
+KW  - data privacy
+KW  - data quality
+KW  - depression
+KW  - digital health technology
+KW  - early intervention
+KW  - eating disorder
+KW  - environment
+KW  - epilepsy
+KW  - ethics
+KW  - gyroscope sensor
+KW  - health care facility
+KW  - health data
+KW  - human
+KW  - information processing
+KW  - information security
+KW  - information storage
+KW  - internet of things
+KW  - lung disease
+KW  - machine learning
+KW  - major depression
+KW  - medication compliance
+KW  - mental disease
+KW  - mental health
+KW  - multiple sclerosis
+KW  - patient-reported outcome
+KW  - permanent atrial fibrillation
+KW  - personalized medicine
+KW  - phenotype
+KW  - physical activity
+KW  - physical disease
+KW  - physiology
+KW  - questionnaire
+KW  - relapse
+KW  - telecommunication
+KW  - telehealth
+KW  - telemonitoring
+KW  - treatment response
+KW  - Empatica E4
+KW  - Everion
+KW  - Faros 180
+KW  - Faros 360
+KW  - Oura Ring
+KW  - Pebble 2 smartwatch
+KW  - Vivoactive
+KW  - Vivosmart
+C3  - Empatica E4(empatica)
+C3  - Everion(biovotion)
+C3  - Faros 180(bittium)
+C3  - Faros 360(bittium)
+C3  - Oura Ring(oura)
+C3  - Pebble 2 smartwatch
+C3  - Vivoactive(garmin)
+C3  - Vivosmart(garmin)
+C4  - biovotion
+C4  - bittium
+C4  - empatica
+C4  - Fitbit
+C4  - garmin
+C4  - oura
+N2  - Background: The use of digital biomarkers through remote patient monitoring offers valuable and timely insights into a patient’s condition, including aspects such as disease progression and treatment response. This serves as a complementary resource to traditional health care settings leveraging mobile technology to improve scale and lower latency, cost, and burden. Objective: Smartphones with embedded and connected sensors have immense potential for improving health care through various apps and mobile health (mHealth) platforms. This capability could enable the development of reliable digital biomarkers from long-term longitudinal data collected remotely from patients. Methods: We built an open-source platform, RADAR-base, to support large-scale data collection in remote monitoring studies. RADAR-base is a modern remote data collection platform built around Confluent’s Apache Kafka to support scalability, extensibility, security, privacy, and quality of data. It provides support for study design and setup and active (eg, patient-reported outcome measures) and passive (eg, phone sensors, wearable devices, and Internet of Things) remote data collection capabilities with feature generation (eg, behavioral, environmental, and physiological markers). The back end enables secure data transmission and scalable solutions for data storage, management, and data access. Results: The platform has been used to successfully collect longitudinal data for various cohorts in a number of disease areas including multiple sclerosis, depression, epilepsy, attention-deficit/hyperactivity disorder, Alzheimer disease, autism, and lung diseases. Digital biomarkers developed through collected data are providing useful insights into different diseases. Conclusions: RADAR-base offers a contemporary, open-source solution driven by the community for remotely monitoring, collecting data, and digitally characterizing both physical and mental health conditions. Clinicians have the ability to enhance their insight through the use of digital biomarkers, enabling improved prevention, personalization, and early intervention in the context of disease management.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 306
+SP  - 120
+EP  - 126
+SN  - 1879-8365
+JF  - Studies in health technology and informatics
+JO  - Stud Health Technol Inform
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L642128546&from=export
+U2  - L642128546
+C5  - 37638907
+DB  - Medline
+U4  - 2023-09-01
+L2  - http://dx.doi.org/10.3233/SHTI230605
+DO  - 10.3233/SHTI230605
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18798365&id=doi:10.3233%2FSHTI230605&atitle=Audio-Conversion+of+Biomedical+Signals+-+A+Possible+Approach+to+Improve+Remote+Monitoring+of+Elderly+and+Visually+Impaired+People&stitle=Stud+Health+Technol+Inform&title=Studies+in+health+technology+and+informatics&volume=306&issue=&spage=120&epage=126&aulast=Iliev&aufirst=Ivo&auinit=I.&aufull=Iliev+I.&coden=&isbn=&pages=120-126&date=2023&auinit1=I&auinitm=
+A1  - Iliev, I.
+A1  - Tabakov, S.
+A1  - Petrova, G.
+M1  - (Iliev I.; Tabakov S.) Department of Electronics, Faculty of Electronic Engineering and Technologies, Technical University of Sofia, Bulgaria
+M1  - (Petrova G.) Department of Electronics, Faculty of Electronics and Automation, Technical University of Sofia - Plovdiv Branch, Bulgaria
+T1  - Audio-Conversion of Biomedical Signals - A Possible Approach to Improve Remote Monitoring of Elderly and Visually Impaired People
+LA  - English
+KW  - mobile phone
+KW  - aged
+KW  - human
+KW  - interpersonal communication
+KW  - outpatient department
+KW  - reproducibility
+KW  - visually impaired person
+N2  - Long-term remote patients monitoring implies minimal discomfort and reliability throughout the study period. These requirements are fulfilled by portable (wearable) patient devices, with low consumption, which transmit data wirelessly, at a short distance, to a mobile communication device (GSM) and through it, to a remote end recipient - doctor, medical center or a hospital server. The data transfer technology requires the monitored person to perform a sequence of actions, such as: selecting the appropriate application on the mobile phone, establishing a connection between the patient module and the phone, recording the data in the phone's memory, starting the data transfer from the phone to the final receiver. Practice shows that often this sequence of activities is difficult for elderly people and especially for visually impaired people, which as a result compromises the remote monitoring process. In this paper are presented an approach and conceptual implementation of a system for remote monitoring of cardiac activity, using the most popular way of remote connectivity - voice (sound) communication. In addition to the ease of use, this type of communication does not require special data protection, due to the lack of RF interfaces for short-distance data transmission. The presented results of laboratory studies, as well as conducted tests under medical supervision of patients in a cardiology clinic, confirm the workability of the proposed approach for remote monitoring of patients by audio conversion of the ECG signal.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 29
+IS  - 4
+SP  - 540
+EP  - 550
+SN  - 1556-3669
+JF  - Telemedicine journal and e-health : the official journal of the American Telemedicine Association
+JO  - Telemed J E Health
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L638790908&from=export
+U2  - L638790908
+C5  - 35984859
+DB  - Medline
+U3  - 2022-08-26
+U4  - 2023-04-14
+L2  - http://dx.doi.org/10.1089/tmj.2022.0238
+DO  - 10.1089/tmj.2022.0238
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15563669&id=doi:10.1089%2Ftmj.2022.0238&atitle=Use+of+Health-Related+Apps+and+Telehealth+in+Adults+with+Epilepsy+in+Germany%3A+A+Multicenter+Cohort+Study&stitle=Telemed+J+E+Health&title=Telemedicine+journal+and+e-health+%3A+the+official+journal+of+the+American+Telemedicine+Association&volume=29&issue=4&spage=540&epage=550&aulast=Z%C3%B6llner&aufirst=Johann+Philipp&auinit=J.P.&aufull=Z%C3%B6llner+J.P.&coden=&isbn=&pages=540-550&date=2023&auinit1=J&auinitm=P
+A1  - Zöllner, J.P.
+A1  - Noda, A.H.
+A1  - McCoy, J.
+A1  - Schulz, J.
+A1  - Tsalouchidou, P.-E.
+A1  - Langenbruch, L.
+A1  - Kovac, S.
+A1  - Knake, S.
+A1  - von Podewils, F.
+A1  - Hamacher, M.
+A1  - Mann, C.
+A1  - Leyer, A.-C.
+A1  - van Alphen, N.
+A1  - Schubert-Bast, S.
+A1  - Rosenow, F.
+A1  - Strzelczyk, A.
+M1  - (Zöllner J.P.; Noda A.H.; McCoy J.; Mann C.; Leyer A.-C.; van Alphen N.; Schubert-Bast S.; Rosenow F.; Strzelczyk A.) Epilepsy Center Frankfurt Rhine-Main, Department of Neurology, University Hospital Frankfurt-Goethe-University, Frankfurt am Main, Germany
+M1  - (Zöllner J.P.; Noda A.H.; McCoy J.; Mann C.; Leyer A.-C.; van Alphen N.; Schubert-Bast S.; Rosenow F.; Strzelczyk A.) LOEWE Center for Personalized Translational Epilepsy Research, Goethe-University, Frankfurt am Main, Germany
+M1  - (Schulz J.; von Podewils F.; Hamacher M.) Department of Neurology, University Hospital Greifswald, Greifswald, Germany
+M1  - (Tsalouchidou P.-E.; Knake S.) Epilepsy Center Hessen, Department of Neurology, University Hospital Marburg-Philipps-University, Marburg (Lahn), Germany
+M1  - (Langenbruch L.; Kovac S.) Epilepsy Center Münster-Osnabrück, Department of Neurology with Institute of Translational Neurology, University Hospital Münster-Westfälische Wilhelms-University, Münster, Germany
+M1  - (Langenbruch L.) Department of Neurology, Osnabrück Hospital, Germany
+M1  - (Leyer A.-C.; Schubert-Bast S.) Department of Pediatrics and Neuropediatrics, University Hospital Frankfurt-Goethe-University, Frankfurt am Main, Germany
+T1  - Use of Health-Related Apps and Telehealth in Adults with Epilepsy in Germany: A Multicenter Cohort Study
+LA  - English
+KW  - adult
+KW  - clinical trial
+KW  - cohort analysis
+KW  - cross-sectional study
+KW  - epilepsy
+KW  - female
+KW  - Germany
+KW  - human
+KW  - male
+KW  - middle aged
+KW  - mobile application
+KW  - multicenter study
+KW  - telemedicine
+KW  - young adult
+N2  - Background: Telehealth can improve the treatment of chronic disorders, such as epilepsy. Telehealth prevalence and use increased during the coronavirus disease 2019 (COVID-19) pandemic. However, familiarity with and use of telehealth and health-related mobile applications (apps) by persons with epilepsy remain unknown. Methods: We investigated telehealth use, demographics, and clinical variables within the multicenter Epi2020 cross-sectional study. Between October and December 2020, adults with epilepsy completed a validated questionnaire, including individual questions regarding knowledge and use of apps and telehealth. Results: Of 476 included individuals (58.2% women; mean age 40.2 ± 15.4 years), 41.6% reported using health-related apps. Health apps were used more frequently (pedometer 32.1%, exercise app 17.6%) than medical apps (health insurance 15.1%, menstrual apps 12.2%) or apps designed for epilepsy (medication reminders 10.3%, seizure calendars 4.6%). Few used seizure detectors (i.e., apps as medical devices 1.9%) or mobile health devices (fitness bracelet 11.3%). A majority (60.9%) had heard the term telehealth, 78.6% of whom had a positive view. However, only 28.6% had a concrete idea of telehealth, and only 16.6% reported personal experience with telehealth. A majority (55%) would attend a teleconsultation follow-up, and 41.2% would in a medical emergency. Data privacy and availability were considered equally important by 50.8%, 21.8% considered data privacy more important, and 20.2% considered data availability more important. Current health-related app use was independently associated with younger age (p = 0.003), higher education (p < 0.001), and subjective COVID-19-related challenges (p = 0.002). Persistent seizure occurrence (vs. seizure freedom ≥12 months) did not affect willingness to use teleconsultations on multivariable logistic regression analysis. Conclusions: Despite positive telehealth views, few persons with epilepsy in Germany are familiar with specific apps or services. Socioeconomic factors influence telehealth use more than baseline epilepsy characteristics. Telehealth education and services should target socioeconomically disadvantaged individuals to reduce the digital care gap. German Clinical Trials Register (DRKS00022024; Universal Trial Number: U1111-1252-5331).
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 43
+IS  - 1
+SP  - 30
+EP  - 41
+SN  - 0208-5216
+JF  - Biocybernetics and Biomedical Engineering
+JO  - Biocybern. Biomed. Eng.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2021746043&from=export
+U2  - L2021746043
+DB  - Embase
+U3  - 2022-12-21
+U4  - 2022-12-27
+L2  - http://dx.doi.org/10.1016/j.bbe.2022.11.005
+DO  - 10.1016/j.bbe.2022.11.005
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=02085216&id=doi:10.1016%2Fj.bbe.2022.11.005&atitle=Automated+detection+of+cybersecurity+attacks+in+healthcare+systems+with+recursive+feature+elimination+and+multilayer+perceptron+optimization&stitle=Biocybern.+Biomed.+Eng.&title=Biocybernetics+and+Biomedical+Engineering&volume=43&issue=1&spage=30&epage=41&aulast=Firat+Kilincer&aufirst=Ilhan&auinit=I.&aufull=Firat+Kilincer+I.&coden=&isbn=&pages=30-41&date=2023&auinit1=I&auinitm=
+A1  - Firat Kilincer, I.
+A1  - Ertam, F.
+A1  - Sengur, A.
+A1  - Tan, R.-S.
+A1  - Rajendra Acharya, U.
+M1  - (Firat Kilincer I., ifkilincer@firat.edu.tr; Sengur A., ksengur@firat.edu.tr) Department of Electrical-Electronics Engineering, Technology Faculty, Firat University, Elazig, Turkey
+M1  - (Ertam F., fatih.ertam@firat.edu.tr) Department of Digital Forensics Engineering, Technology Faculty, Firat University, Elazig, Turkey
+M1  - (Tan R.-S., tanrsnhc@gmail.com) M.B, B.S, ti, Singapore and Duke-NUS Medical School, Singapore
+M1  - (Rajendra Acharya U., Rajendra_Udyavara_ACHARYA@np.edu.sg) Ngee Ann Polytechnic, Department of Electronics and Computer Engineering, Singapore
+M1  - (Rajendra Acharya U., Rajendra_Udyavara_ACHARYA@np.edu.sg) Biomedical Engineering, School of Science and Technology, SUSS University, Singapore
+M1  - (Rajendra Acharya U., Rajendra_Udyavara_ACHARYA@np.edu.sg) Biomedical Informatics and Medical Engineering, Asia University, Taichung, Taiwan
+AD  - A. Sengur, Department of Electrical-Electronics Engineering, Technology Faculty, Firat University, Elazig, Turkey
+T1  - Automated detection of cybersecurity attacks in healthcare systems with recursive feature elimination and multilayer perceptron optimization
+LA  - English
+KW  - body area network
+KW  - medical device
+KW  - wearable sensor
+KW  - article
+KW  - classification algorithm
+KW  - classifier
+KW  - clinical evaluation
+KW  - computer security
+KW  - cross validation
+KW  - cyberattack
+KW  - extreme gradient boosting regression
+KW  - feature extraction
+KW  - feature selection
+KW  - feature selection algorithm
+KW  - health care
+KW  - health care system
+KW  - human
+KW  - information processing
+KW  - intensive care unit
+KW  - Internet
+KW  - internet of things
+KW  - kernel method
+KW  - logistic regression analysis
+KW  - major clinical study
+KW  - multiclass classification
+KW  - multilayer perceptron
+KW  - network security
+KW  - outlier detection
+KW  - recursive feature elimination
+KW  - regression analysis
+KW  - support vector machine
+KW  - telemetry
+KW  - telemonitoring
+N2  - Widespread proliferation of interconnected healthcare equipment, accompanying software, operating systems, and networks in the Internet of Medical Things (IoMT) raises the risk of security compromise as the bulk of IoMT devices are not built to withstand internet attacks. In this work, we have developed a cyber-attack and anomaly detection model based on recursive feature elimination (RFE) and multilayer perceptron (MLP). The RFE approach selected optimal features using logistic regression (LR) and extreme gradient boosting regression (XGBRegressor) kernel functions. MLP parameters were adjusted by using a hyperparameter optimization and 10-fold cross-validation approach was performed for performance evaluations. The developed model was performed on various IoMT cybersecurity datasets, and attained the best accuracy rates of 99.99%, 99.94%, 98.12%, and 96.2%, using Edith Cowan University- Internet of Health Things (ECU-IoHT), Intensive Care Unit (ICU Dataset), Telemetry data, Operating systems’ data, and Network data from the testbed IoT/IIoT network (TON-IoT), and Washington University in St. Louis enhanced healthcare monitoring system (WUSTL-EHMS) datasets, respectively. The proposed method has the ability to counter cyber attacks in healthcare applications.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 25
+IS  - 1
+SN  - 1438-8871
+JF  - Journal of Medical Internet Research
+JO  - J. Med. Internet Res.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2027927138&from=export
+U2  - L2027927138
+C5  - 37751243
+DB  - Embase
+DB  - Medline
+U3  - 2023-10-31
+U4  - 2023-11-06
+L2  - http://dx.doi.org/10.2196/49963
+DO  - 10.2196/49963
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14388871&id=doi:10.2196%2F49963&atitle=A+Future+of+Smarter+Digital+Health+Empowered+by+Generative+Pretrained+Transformer&stitle=J.+Med.+Internet+Res.&title=Journal+of+Medical+Internet+Research&volume=25&issue=1&spage=&epage=&aulast=Miao&aufirst=Hongyu&auinit=H.&aufull=Miao+H.&coden=&isbn=&pages=-&date=2023&auinit1=H&auinitm=
+A1  - Miao, H.
+A1  - Li, C.
+A1  - Wang, J.
+M1  - (Miao H.; Li C.; Wang J., JingWang@nursing.fsu.edu) College of Nursing, Florida State University, Tallahassee, FL, United States
+AD  - J. Wang, College of Nursing Florida State University, 98 Varsity Way, Tallahassee, FL, United States
+T1  - A Future of Smarter Digital Health Empowered by Generative Pretrained Transformer
+LA  - English
+KW  - sensor
+KW  - wearable device
+KW  - article
+KW  - artificial intelligence
+KW  - ChatGPT
+KW  - clinical decision making
+KW  - clinician
+KW  - data privacy
+KW  - digital technology
+KW  - ecosystem monitoring
+KW  - ethics
+KW  - generative pretrained transformer
+KW  - health care
+KW  - health education
+KW  - health service
+KW  - human
+KW  - interpersonal communication
+KW  - medical research
+KW  - personalized medicine
+KW  - remote sensing
+N2  - Generative pretrained transformer (GPT) tools have been thriving, as ignited by the remarkable success of OpenAI’s recent chatbot product. GPT technology offers countless opportunities to significantly improve or renovate current health care research and practice paradigms, especially digital health interventions and digital health–enabled clinical care, and a future of smarter digital health can thus be expected. In particular, GPT technology can be incorporated through various digital health platforms in homes and hospitals embedded with numerous sensors, wearables, and remote monitoring devices. In this viewpoint paper, we highlight recent research progress that depicts the future picture of a smarter digital health ecosystem through GPT-facilitated centralized communications, automated analytics, personalized health care, and instant decision-making.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 57
+IS  - 11
+SP  - 1550
+EP  - 1555
+SN  - 0976-0555
+SN  - 0367-6722
+JF  - Indian Journal of Animal Research
+JO  - Ind. J. Ani. Res
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2028720193&from=export
+U2  - L2028720193
+DB  - Embase
+U3  - 2023-12-06
+U4  - 2023-12-08
+L2  - http://dx.doi.org/10.18805/IJAR.BF-1698
+DO  - 10.18805/IJAR.BF-1698
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=09760555&id=doi:10.18805%2FIJAR.BF-1698&atitle=Application+of+Artificial+Intelligence+in+Monitoring+of+Animal+Health+and+Welfare&stitle=Ind.+J.+Ani.+Res&title=Indian+Journal+of+Animal+Research&volume=57&issue=11&spage=1550&epage=1555&aulast=Ali+AlZubi&aufirst=Ahmad&auinit=A.&aufull=Ali+AlZubi+A.&coden=&isbn=&pages=1550-1555&date=2023&auinit1=A&auinitm=
+A1  - Ali AlZubi, A.
+A1  - Al-Zu’bi, M.
+M1  - (Ali AlZubi A., aalzubi@ksu.edu.sa) Department of Computer Science, Community College, King Saud University, Riyadh, Saudi Arabia
+M1  - (Al-Zu’bi M.) Department of Planning and Landscape, School of Architecture, University of Calgary, Calgary, AB, Canada
+AD  - A. Ali AlZubi, Department of Computer Science, Community College, King Saud University, Riyadh, Saudi Arabia
+T1  - Application of Artificial Intelligence in Monitoring of Animal Health and Welfare
+LA  - English
+KW  - camera
+KW  - sensor
+KW  - wearable device
+KW  - accuracy
+KW  - algorithm
+KW  - animal health
+KW  - animal welfare
+KW  - article
+KW  - artificial intelligence
+KW  - computer vision
+KW  - convolutional neural network
+KW  - data protection
+KW  - deep learning
+KW  - early diagnosis
+KW  - feature extraction
+KW  - machine learning
+KW  - monitoring
+KW  - nonhuman
+KW  - prediction accuracy
+KW  - recurrent neural network
+KW  - supervised machine learning
+KW  - training
+KW  - unsupervised machine learning
+KW  - wellbeing
+N2  - Background: With the advent of AI technology, great strides have been made in the realm of animal healthcare. This article delves into the numerous uses of AI in veterinary medicine and demonstrates its revolutionary potential in the field. Artificial intelligence (AI) algorithms have shown impressive skills in illness detection, using medical imaging analysis to help veterinarians discover and categorise diseases with greater accuracy and efficiency. Furthermore, predictive analytics algorithms use various data sources, such as electronic health records and genetic profiles, to recognise trends and forecast illness outbreaks, allowing veterinarians to remotely monitor vital signs and act swiftly paving the way for preventative measures and individualised treatment. Methods: The purpose of this article is to offer a synopsis of the many ways in which artificial intelligence (AI) is being used to improve the health and well-being of animals. Understanding the effects of AI in animal healthcare and setting the stage for its further development will be accomplished via an examination of the present state of the subject. Result: It is evident that through mountains of data from studies and clinical trials, AI is helping to speed up the discovery of novel treatments and improve the understanding of animal health. A responsible and useful application of AI in animal healthcare requires the establishment of ethical concerns, data protection and regulatory frameworks.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 18
+IS  - 3
+SP  - 224
+EP  - 231
+SN  - 2688-1535
+SN  - 2688-1527
+JF  - JCO Oncology Practice
+JO  - JCO. Oncol. Pract.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2017208510&from=export
+U2  - L2017208510
+C5  - 34905405
+DB  - Embase
+DB  - Medline
+U3  - 2022-03-25
+U4  - 2022-05-31
+L2  - http://dx.doi.org/10.1200/OP.21.00554
+DO  - 10.1200/OP.21.00554
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=26881535&id=doi:10.1200%2FOP.21.00554&atitle=Use+of+Communication+Technology+to+Improve+Clinical+Trial+Participation+in+Adolescents+and+Young+Adults+With+Cancer%3A+Consensus+Statement+From+the+Children%27s+Oncology+Group+Adolescent+and+Young+Adult+Responsible+Investigator+Network&stitle=JCO.+Oncol.+Pract.&title=JCO+Oncology+Practice&volume=18&issue=3&spage=224&epage=231&aulast=Avutu&aufirst=Viswatej&auinit=V.&aufull=Avutu+V.&coden=&isbn=&pages=224-231&date=2022&auinit1=V&auinitm=
+A1  - Avutu, V.
+A1  - Monga, V.
+A1  - Mittal, N.
+A1  - Saha, A.
+A1  - Andolina, J.R.
+A1  - Bell, D.E.
+A1  - Fair, D.B.
+A1  - Flerlage, J.E.
+A1  - Frediani, J.N.
+A1  - Heath, J.L.
+A1  - Kahn, J.M.
+A1  - Reichek, J.L.
+A1  - Super, L.
+A1  - Terao, M.A.
+A1  - Freyer, D.R.
+A1  - Roth, M.E.
+M1  - (Avutu V., avutuv@mskcc.org) Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, United States
+M1  - (Monga V.) Division of Medical Oncology, Department of Internal Medicine, University of Iowa, Iowa City, IA, United States
+M1  - (Mittal N.) Division of Pediatric Hematology Oncology, Department of Pediatrics, Rush University Medical Center, Chicago, IL, United States
+M1  - (Saha A.) Division of Pediatric Hematology-Oncology, University of South Carolina School of Medicine, Greenville, SC, United States
+M1  - (Andolina J.R.) Department of Pediatrics, Golisano Children's Hospital, University of Rochester Medical Center, Rochester, NY, United States
+M1  - (Bell D.E.) Department of Pediatrics, Ascension St John Hospital, Detroit, MI, United States
+M1  - (Fair D.B.) Division of Hematology/Oncology, Department of Pediatrics, University of Utah, Primary Children's Hospital, Huntsman Cancer Institute, Salt Lake City, UT, United States
+M1  - (Flerlage J.E.) Department of Oncology, St Jude Children's Research Hospital, Memphis, TN, United States
+M1  - (Frediani J.N.) Department of Pediatrics, University of California, Irvine, CA, United States
+M1  - (Heath J.L.) Departments of Pediatrics and Biochemistry, University of Vermont, Burlington, VT, United States
+M1  - (Kahn J.M.) Division of Pediatric Hematology/Oncology/Stem Cell Transplantation, Columbia University Irving Medical Center, New York, NY, United States
+M1  - (Reichek J.L.) Division of Hematology/Oncology/Stem Cell Transplantation, Department of Pediatrics, Northwestern University Feinberg School of Medicine, Ann & Robert H. Lurie Children's Hospital of Chicago, Chicago, IL, United States
+M1  - (Super L.) Department of Paediatrics, School of Medicine, Monash University, Melbourne, VIC, Australia
+M1  - (Terao M.A.) Division of Pediatric Adolescent and Young Adult Hematology and Oncology, Department of Pediatrics, Medstar Georgetown University Hospital, Washington, DC, United States
+M1  - (Freyer D.R.) Departments of Pediatrics, Medicine, and Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA, United States
+M1  - (Roth M.E.) Division of Pediatrics, University of Texas MD Anderson Cancer Center, Houston, TX, United States
+AD  - V. Avutu, Department of Medicine, Memorial Sloan Kettering Cancer Center, 300 E 66th, New York, NY, United States
+T1  - Use of Communication Technology to Improve Clinical Trial Participation in Adolescents and Young Adults With Cancer: Consensus Statement From the Children's Oncology Group Adolescent and Young Adult Responsible Investigator Network
+LA  - English
+KW  - adolescent
+KW  - adult
+KW  - article
+KW  - cancer patient
+KW  - clinical audit
+KW  - clinical monitoring
+KW  - clinical trial (topic)
+KW  - communication technology
+KW  - computer security
+KW  - data privacy
+KW  - electronic health record
+KW  - eligibility
+KW  - health care management
+KW  - health care personnel
+KW  - health care system
+KW  - health insurance
+KW  - human
+KW  - informed consent
+KW  - institutionalization
+KW  - patient participation
+KW  - patient-reported outcome
+KW  - reimbursement
+KW  - remote sensing
+KW  - telehealth
+KW  - virtual reality
+KW  - vulnerable population
+KW  - young adult
+N2  - Adolescents and young adults (AYAs; age 15-39 years) with cancer are under-represented in cancer clinical trials because of patient, provider, and institutional barriers. Health care technology is increasingly available to and highly used among AYAs and has the potential to improve cancer care delivery. The COVID-19 pandemic forced institutions to rapidly adopt novel approaches for enrollment and monitoring of patients on cancer clinical trials, many of which have the potential for improving AYA trial participation overall. This consensus statement from the Children's Oncology Group AYA Oncology Discipline Committee reviews opportunities to use technology to optimize AYA trial enrollment and study conduct, as well as considerations for widespread implementation of these practices. The use of remote patient eligibility screening, electronic informed consent, virtual tumor boards, remote study visits, and remote patient monitoring are recommended to increase AYA access to trials and decrease the burden of participation. Widespread adoption of these strategies will require new policies focusing on reimbursement for telehealth, license portability, facile communication between electronic health record systems and advanced safeguards to maintain patient privacy and security. Studies are needed to determine optimal approaches to further incorporate technology at every stage of the clinical trial process, from enrollment through study completion.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 20
+IS  - 8
+SP  - 5585
+EP  - 5595
+SN  - 1303-5150
+JF  - NeuroQuantology
+JO  - NeuroQuantology
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2017748369&from=export
+U2  - L2017748369
+DB  - Embase
+U3  - 2022-08-24
+U4  - 2022-09-09
+L2  - http://dx.doi.org/10.14704/nq.2022.20.8.NQ44587
+DO  - 10.14704/nq.2022.20.8.NQ44587
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=13035150&id=doi:10.14704%2Fnq.2022.20.8.NQ44587&atitle=A+Hybrid+Encryption+Algorithm+for+IoT+Data+Protection+in+Healthcare+Monitoring+System&stitle=NeuroQuantology&title=NeuroQuantology&volume=20&issue=8&spage=5585&epage=5595&aulast=Mohammed&aufirst=Uqba+Bn+Nafaa&auinit=U.B.N.&aufull=Mohammed+U.B.N.&coden=&isbn=&pages=5585-5595&date=2022&auinit1=U&auinitm=B.N.
+A1  - Mohammed, U.B.N.
+A1  - Abdul-Majeed, G.
+M1  - (Mohammed U.B.N., Iraq.uqbahiwar80@gmail.com) Department of computer Science, Informatics Institute for Postgraduate Studies (IIPS), Iraqi Commission for Computers and Inf ormatics (ICCI), Baghdad, Iraq
+M1  - (Abdul-Majeed G., ghassan@uob.edu.iq) Baghdad University, Iraq
+AD  - U.B.N. Mohammed, Department of computer Science, Informatics Institute for Postgraduate Studies (IIPS), Iraqi Commission for Computers and Inf ormatics (ICCI), Baghdad, Iraq
+T1  - A Hybrid Encryption Algorithm for IoT Data Protection in Healthcare Monitoring System
+LA  - English
+KW  - DNA
+KW  - algorithm
+KW  - article
+KW  - body temperature
+KW  - computer analysis
+KW  - DNA strand
+KW  - encryption
+KW  - health care cost
+KW  - health care system
+KW  - health service
+KW  - heart rate
+KW  - human
+KW  - hybrid
+KW  - information security
+KW  - memory
+KW  - monitoring
+KW  - physiological process
+KW  - pulse oximetry
+KW  - validation process
+N2  - IoT-based healthcare systems are used for remote health monitoring and diagnosis to reduce the cost of health care services. A secure transmission of health data is vital for treatment or monitoring purposes. Also, since the patient's information may be easily tracked by other devices, it must be kept safe against misuse and data alteration while being stored. IoT networks are significantly resource-constrained, with low processor capability, memory, and power, making it challenging to perform the expensive operations required by ciphering algorithms. Therefore, they need a lightweight security approach that requires fewer resources.This paper proposes a hybrid cipher method for secure data transmission from IoT healthcare devices. The encryption method combines three cipher approaches,a modified lightweight Salsa20 that uses 16-words (each word is 32-bit). First, a five-dimension chaotic map is applied to generate32-keys with the 64-bit length for each sensing data (block of bits). Second, a random shifting is used on the generated keys to seem like a dynamic key. Third, the exclusive-or operation is applied between a generated key with sensing data and modified Salsa20 words.Fourth, the DNA computing operation used in the proposed method increases security by applying the addition DNA operation between the result of the previous step with random selection word in Salsa20 state after converting them to DNA form. Finally, a hash function called SHA3-256 isapplied on sensing data that is used for data integrity when transferring data to the server. The total sent data are the hash data result, the output of DNA result after converting back to a decimal number, and two random numbers for shifting key and selecting Salsa20 word, respectively. Experiments and results of the proposed Algorithm based on NIST testing show that the proposed algorithms provide security features for data content, including confidentiality, authentication, and non-repudiation, and are compatible with all types of sensors to send secure data to the final administrator.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 27
+IS  - 4
+SP  - 225
+EP  - 237
+SN  - 1478-565X
+SN  - 1462-8732
+JF  - Journal of Commercial Biotechnology
+JO  - J. Commer. Biotechnol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2024717614&from=export
+U2  - L2024717614
+DB  - Embase
+U4  - 2023-05-30
+L2  - http://dx.doi.org/10.5912/jcb1330
+DO  - 10.5912/jcb1330
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=1478565X&id=doi:10.5912%2Fjcb1330&atitle=Impact+of+IoT+Adoption+and+Application+For+Smart+Healthcare&stitle=J.+Commer.+Biotechnol.&title=Journal+of+Commercial+Biotechnology&volume=27&issue=4&spage=225&epage=237&aulast=Hua&aufirst=Wang&auinit=W.&aufull=Hua+W.&coden=JCBOA&isbn=&pages=225-237&date=2022&auinit1=W&auinitm=
+A1  - Hua, W.
+M1  - (Hua W.) School of computer science, Guangdong University of Science and Technology, Guangdong, Dongguan, China
+AD  - W. Hua, School of computer science, Guangdong University of Science and Technology, Guangdong, Dongguan, China
+T1  - Impact of IoT Adoption and Application For Smart Healthcare
+LA  - English
+KW  - adoption
+KW  - adult
+KW  - article
+KW  - Canis lupus
+KW  - convolutional neural network
+KW  - data privacy
+KW  - health care delivery
+KW  - health care industry
+KW  - human
+KW  - internet of things
+KW  - medication therapy management
+KW  - nonhuman
+KW  - outcome assessment
+KW  - patient coding
+KW  - remote sensing
+KW  - security
+KW  - telemonitoring
+N2  - The Internet of Things (IoT) is a rapidly growing technology that is transforming the healthcare industry. IoT devices and applications are enabling the collection and analysis of patient data, facilitating remote monitoring and diagnosis, and improving the efficiency and effectiveness of healthcare delivery. This abstract explores the impact of IoT adoption and application for smart healthcare. The study highlights the various applications of IoT in healthcare, such as remote patient monitoring, real-time patient tracking, and medication management. The study reviews the benefits of IoT in healthcare, such as improved patient outcomes, reduced costs, and increased efficiency. The study also examines the challenges of implementing IoT in healthcare, such as data privacy and security concerns, interoperability issues, and regulatory compliance. The study concludes that IoT is transforming the healthcare industry, enabling a new era of smart healthcare delivery. The adoption of IoT in healthcare has the potential to improve patient outcomes, reduce costs, and increase the efficiency and effectiveness of healthcare delivery. However, the challenges of implementing IoT in healthcare cannot be ignored, and the industry must work to address these challenges while harnessing the benefits of this emerging technology. Overall, the potential impact of IoT adoption and application for smart healthcare is significant and holds great promise for the future of healthcare delivery.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 13
+IS  - 1
+SN  - 1758-9193
+JF  - Alzheimer's Research and Therapy
+JO  - Alzheimers Res. Ther.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2011274585&from=export
+U2  - L2011274585
+C5  - 33892789
+DB  - Embase
+DB  - Medline
+U3  - 2021-08-24
+U4  - 2024-02-28
+L2  - http://dx.doi.org/10.1186/s13195-021-00825-4
+DO  - 10.1186/s13195-021-00825-4
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=17589193&id=doi:10.1186%2Fs13195-021-00825-4&atitle=Remote+monitoring+technologies+in+Alzheimer%E2%80%99s+disease%3A+design+of+the+RADAR-AD+study&stitle=Alzheimers+Res.+Ther.&title=Alzheimer%27s+Research+and+Therapy&volume=13&issue=1&spage=&epage=&aulast=Muurling&aufirst=Marijn&auinit=M.&aufull=Muurling+M.&coden=&isbn=&pages=-&date=2021&auinit1=M&auinitm=
+A1  - Muurling, M.
+A1  - de Boer, C.
+A1  - Kozak, R.
+A1  - Religa, D.
+A1  - Koychev, I.
+A1  - Verheij, H.
+A1  - Nies, V.J.M.
+A1  - Duyndam, A.
+A1  - Sood, M.
+A1  - Fröhlich, H.
+A1  - Hannesdottir, K.
+A1  - Erdemli, G.
+A1  - Lucivero, F.
+A1  - Lancaster, C.
+A1  - Hinds, C.
+A1  - Stravopoulos, T.G.
+A1  - Nikolopoulos, S.
+A1  - Kompatsiaris, I.
+A1  - Manyakov, N.V.
+A1  - Owens, A.P.
+A1  - Narayan, V.A.
+A1  - Aarsland, D.
+A1  - Visser, P.J.
+A1  - Buegler, M.
+A1  - Fischer, R.
+A1  - Harms, R.
+A1  - Meier, I.B.
+A1  - Tarnanas, I.
+A1  - Diaz, A.
+A1  - Georges, J.
+A1  - Gove, D.
+A1  - Muurling, M.
+A1  - Lazarou, I.
+A1  - Mpaltadoros, L.
+A1  - Papastergiou, A.
+A1  - Stavropoulos, T.
+A1  - Strantsalis, D.
+A1  - Froehlich, H.
+A1  - Hoffman-Apitius, M.
+A1  - Novak, J.G.
+A1  - Schwertner, E.
+A1  - Secnik, J.
+A1  - Winblad, B.
+A1  - Conde, P.
+A1  - Folarin, A.
+A1  - Lavelle, G.
+A1  - McCarthy, A.
+A1  - Nickerson, A.
+A1  - Boere, J.
+A1  - Consiglio, B.
+A1  - Daskalova, Y.
+A1  - Kanter-Schlifke, I.
+A1  - Stolk, P.
+A1  - Coello, N.
+A1  - Curcic, J.
+A1  - Hache, T.
+A1  - Sverdlov, A.
+A1  - Vallejo, V.
+A1  - Yang, E.
+A1  - Dowling, A.
+A1  - Naylor, M.
+A1  - dos Reis, R.P.
+A1  - Shin, G.
+A1  - Borgdorff, J.
+A1  - Cirillo, E.
+A1  - Hedayati, K.
+A1  - Mahasivam, N.
+A1  - Doherty, A.
+A1  - Libert, S.
+A1  - Wu, Y.
+A1  - Durudas, A.
+M1  - (Muurling M., m.muurling@amsterdamumc.nl; de Boer C.; Visser P.J.) Alzheimer Center Amsterdam, Department of Neurology, Amsterdam Neuroscience, Vrije Universiteit Amsterdam, Amsterdam UMC, Amsterdam, Netherlands
+M1  - (Kozak R.) Takeda Pharmaceuticals International Co., Cambridge, MA, United States
+M1  - (Religa D.) Department of Neurobiology, Care Sciences and Society, Karolinska Insitutet, Stockholm, Sweden
+M1  - (Koychev I.) Department of Psychiatry, University of Oxford, Oxford, United Kingdom
+M1  - (Verheij H.; Nies V.J.M.; Duyndam A.) Lygature, Utrecht, Netherlands
+M1  - (Sood M.; Fröhlich H.) Fraunhofer Institute for Algorithms and Scientific Computing, University of Bonn, Bonn, Germany
+M1  - (Hannesdottir K.; Erdemli G.) Novartis Institutes for BioMedical Research, Cambridge, MA, United States
+M1  - (Lucivero F.) Ethox and Welcome Centre for Ethics and Humanities, University of Oxford, Oxford, United Kingdom
+M1  - (Lancaster C.; Hinds C.) Big Data Institute, University of Oxford, Oxford, United Kingdom
+M1  - (Stravopoulos T.G.; Nikolopoulos S.; Kompatsiaris I.) Information Technologies Institute, Center for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece
+M1  - (Manyakov N.V.) Data Science and Clinical Insights, Janssen Research & Development, Beerse, Belgium
+M1  - (Owens A.P.; Aarsland D.) Department of Old Age Psychiatry, Institute of Psychiatry, Psychology & Neuroscience, King’s College London, London, United Kingdom
+M1  - (Narayan V.A.) Janssen Neuroscience Research & Development, Titusville, NJ, United States
+M1  - (Aarsland D.) Centre for Age-Related Medicine, Stavanger University Hospital, Stavanger, Norway
+M1  - (Visser P.J.) Department of Psychiatry and Neuropsychology, School for Mental Health and Neuroscience, Maastricht University, Maastricht, Netherlands
+M1  - (Buegler M.; Fischer R.; Harms R.; Meier I.B.; Tarnanas I.) Altoida Inc., Houston, United States
+M1  - (Diaz A.; Georges J.; Gove D.) Alzheimer Europe, Luxembourg, Luxembourg
+M1  - (Muurling M.) Amsterdam UMC, Amsterdam, Netherlands
+M1  - (Lazarou I.; Mpaltadoros L.; Papastergiou A.; Stavropoulos T.; Strantsalis D.) Centre for Research and Technology Hellas, Thessaloniki, Greece
+M1  - (Froehlich H.; Hoffman-Apitius M.) Fraunhofer Institute for Algorithms and Scientific Computing, Bonn, Germany
+M1  - (Manyakov N.V.; Novak J.G.) Janssen Pharmaceutica NV, Beerse, Belgium
+M1  - (Schwertner E.; Secnik J.; Winblad B.) Karolinska Institutet, Stockholm, Sweden
+M1  - (Conde P.; Folarin A.; Lavelle G.) Kings College London, London, United Kingdom
+M1  - (McCarthy A.; Nickerson A.) Eli Lilly and Company, Indianapolis, United States
+M1  - (Boere J.; Consiglio B.; Daskalova Y.; Kanter-Schlifke I.; Stolk P.) Lygature, Utrecht, Netherlands
+M1  - (Coello N.; Curcic J.; Hache T.; Sverdlov A.; Vallejo V.; Yang E.) Novartis Institutes for Biomedical Research, Cambridge, MA, United States
+M1  - (Dowling A.; Naylor M.; dos Reis R.P.; Shin G.) Takeda Pharmaceuticals International, Cambridge, MA, United States
+M1  - (Borgdorff J.; Cirillo E.; Hedayati K.; Mahasivam N.) The Hyve, Utrecht, Netherlands
+M1  - (Doherty A.; Libert S.; Wu Y.) University of Oxford, Oxford, United Kingdom
+M1  - (Durudas A.) Modis, Temse, Belgium
+M1  - ()
+AD  - M. Muurling, Alzheimer Center Amsterdam, Department of Neurology, Amsterdam Neuroscience, Vrije Universiteit Amsterdam, Amsterdam UMC, Amsterdam, Netherlands
+T1  - Remote monitoring technologies in Alzheimer’s disease: design of the RADAR-AD study
+LA  - English
+KW  - accelerometer
+KW  - activity tracker
+KW  - Altoida
+KW  - Autographer
+KW  - Axivity AX3
+KW  - camera
+KW  - Fitbit Charge 3
+KW  - smartphone
+KW  - accelerometry
+KW  - adult
+KW  - Alzheimer disease
+KW  - article
+KW  - augmented reality
+KW  - clinical dementia rating scale
+KW  - cognition
+KW  - cohort analysis
+KW  - controlled study
+KW  - cross-sectional study
+KW  - data privacy
+KW  - female
+KW  - financial management
+KW  - functional status
+KW  - human
+KW  - information processing
+KW  - major clinical study
+KW  - male
+KW  - Mini Mental State Examination
+KW  - mobile application
+KW  - neuropsychological assessment
+KW  - observational study
+KW  - physical examination
+KW  - remote monitoring technology
+KW  - staging
+KW  - study design
+KW  - technology
+KW  - telemonitoring
+KW  - walk test
+KW  - Altoida
+KW  - Autographer
+KW  - Axivity AX3
+KW  - Fitbit Charge 3
+C3  - Altoida
+C3  - Autographer
+C3  - Axivity AX3
+C3  - Fitbit Charge 3
+N2  - Background: Functional decline in Alzheimer’s disease (AD) is typically measured using single-time point subjective rating scales, which rely on direct observation or (caregiver) recall. Remote monitoring technologies (RMTs), such as smartphone applications, wearables, and home-based sensors, can change these periodic subjective assessments to more frequent, or even continuous, objective monitoring. The aim of the RADAR-AD study is to assess the accuracy and validity of RMTs in measuring functional decline in a real-world environment across preclinical-to-moderate stages of AD compared to standard clinical rating scales. Methods: This study includes three tiers. For the main study, we will include participants (n = 220) with preclinical AD, prodromal AD, mild-to-moderate AD, and healthy controls, classified by MMSE and CDR score, from clinical sites equally distributed over 13 European countries. Participants will undergo extensive neuropsychological testing and physical examination. The RMT assessments, performed over an 8-week period, include walk tests, financial management tasks, an augmented reality game, two activity trackers, and two smartphone applications installed on the participants’ phone. In the first sub-study, fixed sensors will be installed in the homes of a representative sub-sample of 40 participants. In the second sub-study, 10 participants will stay in a smart home for 1 week. The primary outcome of this study is the difference in functional domain profiles assessed using RMTs between the four study groups. The four participant groups will be compared for each RMT outcome measure separately. Each RMT outcome will be compared to a standard clinical test which measures the same functional or cognitive domain. Finally, multivariate prediction models will be developed. Data collection and privacy are important aspects of the project, which will be managed using the RADAR-base data platform running on specifically designed biomedical research computing infrastructure. Results: First results are expected to be disseminated in 2022. Conclusion: Our study is well placed to evaluate the clinical utility of RMT assessments. Leveraging modern-day technology may deliver new and improved methods for accurately monitoring functional decline in all stages of AD. It is greatly anticipated that these methods could lead to objective and real-life functional endpoints with increased sensitivity to pharmacological agent signal detection.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 18
+IS  - 1
+SN  - 1743-0003
+JF  - Journal of NeuroEngineering and Rehabilitation
+JO  - J. NeuroEng. Rehabil.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2011478469&from=export
+U2  - L2011478469
+C5  - 33975600
+DB  - Embase
+DB  - Medline
+U3  - 2021-05-19
+U4  - 2021-10-12
+L2  - http://dx.doi.org/10.1186/s12984-021-00874-8
+DO  - 10.1186/s12984-021-00874-8
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=17430003&id=doi:10.1186%2Fs12984-021-00874-8&atitle=It%E2%80%99s+not+about+the+capture%2C+it%E2%80%99s+about+what+we+can+learn%E2%80%9D%3A+a+qualitative+study+of+experts%E2%80%99+opinions+and+experiences+regarding+the+use+of+wearable+sensors+to+measure+gait+and+physical+activity&stitle=J.+NeuroEng.+Rehabil.&title=Journal+of+NeuroEngineering+and+Rehabilitation&volume=18&issue=1&spage=&epage=&aulast=Keogh&aufirst=Alison&auinit=A.&aufull=Keogh+A.&coden=&isbn=&pages=-&date=2021&auinit1=A&auinitm=
+A1  - Keogh, A.
+A1  - Taraldsen, K.
+A1  - Caulfield, B.
+A1  - Vereijken, B.
+M1  - (Keogh A., Alison.keogh@ucd.ie; Caulfield B.) UCD School of Public Health, Physiotherapy and Sports Science, UCD, Dublin, Ireland
+M1  - (Keogh A., Alison.keogh@ucd.ie; Caulfield B.) Insight Centre for Data Analytics, UCD, 3rd Floor, O’Brien Science Centre East, Belfield, Dublin, Ireland
+M1  - (Taraldsen K.; Vereijken B.) Department of Neuromedicine and Movement Science, NTNU, Trondheim, Norway
+AD  - A. Keogh, UCD School of Public Health, Physiotherapy and Sports Science, UCD, Dublin, Ireland
+T1  - It’s not about the capture, it’s about what we can learn”: a qualitative study of experts’ opinions and experiences regarding the use of wearable sensors to measure gait and physical activity
+LA  - English
+KW  - wearable sensor
+KW  - article
+KW  - audio recording
+KW  - behavior change
+KW  - biotechnology
+KW  - controlled study
+KW  - cross-sectional study
+KW  - feedback system
+KW  - female
+KW  - gait
+KW  - human
+KW  - interrater reliability
+KW  - male
+KW  - physical activity
+KW  - qualitative research
+KW  - risk factor
+KW  - semi structured interview
+KW  - thematic analysis
+N2  - Background: The use of wearable sensor technology to collect patient health data, such as gait and physical activity, offers the potential to transform healthcare research. To maximise the use of wearable devices in practice, it is important that they are usable by, and offer value to, all stakeholders. Although previous research has explored participants’ opinions of devices, to date, limited studies have explored the experiences and opinions of the researchers who use and implement them. Researchers offer a unique insight into wearable devices as they may have access to multiple devices and cohorts, and thus gain a thorough understanding as to how and where this area needs to progress. Therefore, the aim of this study was to explore the experiences and opinions of researchers from academic, industry and clinical contexts, in the use of wearable devices to measure gait and physical activity. Methods: Twenty professionals with experience using wearable devices in research were recruited from academic, industry and clinical backgrounds. Independent, semi-structured interviews were conducted, audio-recorded and transcribed. Transcribed texts were analysed using inductive thematic analysis. Results: Five themes were identified: (1) The positives and negatives of using wearable devices in research, (2) The routine implementation of wearable devices into research and clinical practice, (3) The importance of compromise in protocols, (4) Securing good quality data, and (5) A paradigm shift. Researchers overwhelmingly supported the use of wearable sensor technology due to the insights that they may provide. Though barriers remain, researchers were pragmatic towards these, believing that there is a paradigm shift happening in this area of research that ultimately requires mistakes and significant volumes of further research to allow it to progress. Conclusions: Multiple barriers to the use of wearable devices in research and clinical practice remain, including data management and clear clinical utility. However, researchers strongly believe that the potential benefit of these devices to support and create new clinical insights for patient care, is greater than any current barrier. Multi-disciplinary research integrating the expertise of both academia, industry and clinicians is a fundamental necessity to further develop wearable devices and protocols that match the varied needs of all stakeholders.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 2
+IS  - 5
+SP  - 270
+EP  - 281
+SN  - 2666-6936
+JF  - Cardiovascular Digital Health Journal
+JO  - Cardiovasc. Digit. Health. J.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2015048272&from=export
+U2  - L2015048272
+DB  - Embase
+U4  - 2023-04-04
+L2  - http://dx.doi.org/10.1016/j.cvdhj.2021.05.003
+DO  - 10.1016/j.cvdhj.2021.05.003
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=26666936&id=doi:10.1016%2Fj.cvdhj.2021.05.003&atitle=Heart+rate+trajectories+in+patients+recovering+from+acute+myocardial+infarction%3A+A+longitudinal+analysis+of+Apple+Watch+heart+rate+recordings&stitle=Cardiovasc.+Digit.+Health.+J.&title=Cardiovascular+Digital+Health+Journal&volume=2&issue=5&spage=270&epage=281&aulast=Weng&aufirst=Daniel&auinit=D.&aufull=Weng+D.&coden=&isbn=&pages=270-281&date=2021&auinit1=D&auinitm=
+A1  - Weng, D.
+A1  - Ding, J.
+A1  - Sharma, A.
+A1  - Yanek, L.
+A1  - Xun, H.
+A1  - Spaulding, E.M.
+A1  - Osuji, N.
+A1  - Huynh, P.P.
+A1  - Ogunmoroti, O.
+A1  - Lee, M.A.
+A1  - Demo, R.
+A1  - Marvel, F.A.
+A1  - Martin, S.S.
+M1  - (Weng D.; Xun H.; Huynh P.P.) Johns Hopkins University School of Medicine, Baltimore, Maryland,
+M1  - (Ding J.; Osuji N.; Marvel F.A.; Martin S.S., smart100@jhmi.edu) Ciccarone Center for the Prevention of Cardiovascular Disease, Division of Cardiology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland,
+M1  - (Sharma A.) Division of Cardiology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland,
+M1  - (Yanek L.) Department of Medicine, Johns Hopkins University School of Medicine, Biostatistics, Epidemiology, and Data Management Core Faculty, Baltimore, Maryland,
+M1  - (Spaulding E.M.) Johns Hopkins University School of Nursing, Baltimore, Maryland,
+M1  - (Spaulding E.M.) Johns Hopkins University Bloomberg School of Public Health, Baltimore, Maryland,
+M1  - (Ogunmoroti O.; Marvel F.A.) Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland,
+M1  - (Lee M.A.; Demo R.) Johns Hopkins University Whiting School of Engineering, Baltimore, Maryland,
+AD  - S.S. Martin, Ciccarone Center for the Prevention of Cardiovascular Disease, Division of Cardiology, Department of Medicine, Johns Hopkins University School of Medicine, Johns Hopkins Hospital, Carnegie 591, 600 N Wolfe St, Baltimore, MD,
+T1  - Heart rate trajectories in patients recovering from acute myocardial infarction: A longitudinal analysis of Apple Watch heart rate recordings
+LA  - English
+KW  - smart watch
+KW  - acetylsalicylic acid
+KW  - adenosine diphosphate receptor inhibitor
+KW  - angiotensin receptor antagonist
+KW  - anticoagulant agent
+KW  - beta adrenergic receptor blocking agent
+KW  - calcium channel blocking agent
+KW  - dipeptidyl carboxypeptidase inhibitor
+KW  - diuretic agent
+KW  - hydroxymethylglutaryl coenzyme A reductase inhibitor
+KW  - receptor blocking agent
+KW  - unclassified drug
+KW  - acute heart infarction
+KW  - adult
+KW  - aged
+KW  - article
+KW  - clinical feature
+KW  - clinical outcome
+KW  - clinical significance
+KW  - cohort analysis
+KW  - confidence interval
+KW  - correlation analysis
+KW  - depression
+KW  - disease association
+KW  - female
+KW  - heart rate measurement
+KW  - heart rate variability
+KW  - hospital admission
+KW  - hospital readmission
+KW  - human
+KW  - hyperlipidemia
+KW  - hypertension
+KW  - longitudinal study
+KW  - major clinical study
+KW  - male
+KW  - non insulin dependent diabetes mellitus
+KW  - patient monitoring
+KW  - prospective study
+KW  - regression model
+KW  - risk factor
+KW  - statistical model
+N2  - Background: Using mobile health, vital signs such as heart rate (HR) can be used to assess a patient's recovery process from acute events including acute myocardial infarction (AMI). Objective: We aimed to characterize clinical correlates associated with HR change in the subacute period among patients recovering from AMI. Methods: HR measurements were collected from 91 patients (4447 HR recordings) enrolled in the MiCORE study using the Apple Watch and Corrie smartphone application. Mixed regression models were used to estimate the associations of patient-level characteristics during hospital admission with HR changes over 30 days postdischarge. Results: The mean daily HR at admission was 78.0 beats per minute (bpm) (95% confidence interval 76.1 to 79.8), declining 0.2 bpm/day (-0.3 to -0.1) under a linear model of HR change. History of coronary artery bypass graft, history of depression, or being discharged on anticoagulants was associated with a higher admission HR. Having a history of hypertension, type 2 diabetes mellitus (T2DM), or hyperlipidemia was associated with a slower decrease in HR over time, but not with HR during admission. Conclusion: While a declining HR was observed in AMI patients over 30 days postdischarge, patients with hypertension, T2DM, or hyperlipidemia showed a slower decrease in HR relative to their counterparts. This study demonstrates the feasibility of using wearables to model the recovery process of patients with AMI and represents a first step in helping pinpoint patients vulnerable to decompensation.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 32
+IS  - 9
+SP  - 2536
+EP  - 2543
+SN  - 1540-8167
+SN  - 1045-3873
+JF  - Journal of Cardiovascular Electrophysiology
+JO  - J. Cardiovasc. Electrophysiol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2013320812&from=export
+U2  - L2013320812
+C5  - 34270150
+DB  - Embase
+DB  - Medline
+U3  - 2021-08-11
+U4  - 2022-03-31
+L2  - http://dx.doi.org/10.1111/jce.15178
+DO  - 10.1111/jce.15178
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15408167&id=doi:10.1111%2Fjce.15178&atitle=A+novel+adaptive+insertable+cardiac+monitor+algorithm+improves+the+detection+of+atrial+fibrillation+and+atrial+tachycardia+in+silico&stitle=J.+Cardiovasc.+Electrophysiol.&title=Journal+of+Cardiovascular+Electrophysiology&volume=32&issue=9&spage=2536&epage=2543&aulast=Saha&aufirst=Sunipa&auinit=S.&aufull=Saha+S.&coden=JCELE&isbn=&pages=2536-2543&date=2021&auinit1=S&auinitm=
+A1  - Saha, S.
+A1  - Perschbacher, D.
+A1  - Jones, P.
+A1  - Frost, K.
+A1  - Sharma, A.
+A1  - Mittal, S.
+A1  - Richards, M.
+M1  - (Saha S.; Perschbacher D.; Jones P.; Frost K.; Sharma A.) Boston Scientific Corporation, St. Paul, MN, United States
+M1  - (Mittal S.) Electrophysiology & Cardiology, The Valley Hospital, Ridgewood, NJ, United States
+M1  - (Richards M., mxxrichards@gmail.com) Cardiac Electrophysiology, ProMedica Heart Institute, Toledo, OH, United States
+M1  - (Sharma A.) Medical Device Consultants, LLC, United States
+AD  - M. Richards, Cardiac Electrophysiology, ProMedica Heart Institute, Toledo, OH, United States
+T1  - A novel adaptive insertable cardiac monitor algorithm improves the detection of atrial fibrillation and atrial tachycardia in silico
+LA  - English
+KW  - implantable cardiac monitor
+KW  - algorithm
+KW  - article
+KW  - atrial fibrillation
+KW  - computer model
+KW  - controlled study
+KW  - detection algorithm
+KW  - electrocardiography
+KW  - false positive result
+KW  - heart atrium flutter
+KW  - human
+KW  - major clinical study
+KW  - sensitivity and specificity
+KW  - simulation
+KW  - supraventricular tachycardia
+N2  - Introduction: Insertable cardiac monitors (ICMs) provide a minimally invasive method of continuous monitoring for abnormal heart rhythms. While the benefits of ICMs are clear, current algorithm performance can be improved. The objective of this study is to assess the performance of a novel adaptive atrial fibrillation (AF) detection algorithm and separately programmable atrial tachycardia (AT) algorithm. Methods: A dual-stage detect-and-verify AF algorithm and separately programmable AT algorithm were developed. Sensitivity and PPV across a range of settings were determined in silico by comparison with an adjudicated Holter data set (n = 1966 with 229 patient days). Finally, the ability to improve performance through simulated remote programming was assessed. Results: The dual-stage algorithm detected AF in all true AF patients (76/76) resulting in a patient-level sensitivity of 100%. Episode-level sensitivity and PPV ranged from 97.6% to 100% and 79.1% to 98.5%, respectively. Thirty-six false-positive episodes were observed and 32 (88.9%) of these were corrected with programming changes. Decoupling of AF and AT durations improved PPV from a range of 10%–22% to a range of 95%–100%. Conclusions: AF and AT algorithms were designed with novel features including an adaptive morphology assessment for AF detection and separately programmable durations for AT detection. In silico performance yielded improved PPVs while maintaining high sensitivity across a range of settings. Importantly, programming changes that may be made remotely with this system reduced false positives. These algorithms allow clinicians to individualize arrhythmia detection settings thereby improving data management and reducing clinic burden.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 149
+SP  - 42
+EP  - 46
+SN  - 1879-1913
+SN  - 0002-9149
+JF  - American Journal of Cardiology
+JO  - Am. J. Cardiol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2011656675&from=export
+U2  - L2011656675
+C5  - 33757780
+DB  - Embase
+DB  - Medline
+U3  - 2021-04-16
+U4  - 2022-01-12
+L2  - http://dx.doi.org/10.1016/j.amjcard.2021.03.023
+DO  - 10.1016/j.amjcard.2021.03.023
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18791913&id=doi:10.1016%2Fj.amjcard.2021.03.023&atitle=Patient+and+Provider+Perspectives+on+Remote+Monitoring+of+Pacemakers+and+Implantable+Cardioverter-Defibrillators&stitle=Am.+J.+Cardiol.&title=American+Journal+of+Cardiology&volume=149&issue=&spage=42&epage=46&aulast=Fraiche&aufirst=Ariane+M.&auinit=A.M.&aufull=Fraiche+A.M.&coden=AJCDA&isbn=&pages=42-46&date=2021&auinit1=A&auinitm=M
+A1  - Fraiche, A.M.
+A1  - Matlock, D.D.
+A1  - Gabriel, W.
+A1  - Rapley, F.-A.
+A1  - Kramer, D.B.
+M1  - (Fraiche A.M.; Gabriel W.; Rapley F.-A.; Kramer D.B., dkramer@bidmc.harvard.edu) Richard A. and Susan F. Smith Center for Outcomes Research in Cardiology, Beth Israel Deaconess Medical Center,
+M1  - (Fraiche A.M.; Gabriel W.; Rapley F.-A.; Kramer D.B., dkramer@bidmc.harvard.edu) Harvard Medical School, Boston, Massachusetts, United States
+M1  - (Matlock D.D.) Adult and Child Consortium for Outcomes Research and Delivery Science, University of Colorado School of Medicine, Aurora, CO, United States
+AD  - D.B. Kramer, Richard A. and Susan F. Smith Center for Outcomes Research in Cardiology, Beth Israel Deaconess Medical Center,
+T1  - Patient and Provider Perspectives on Remote Monitoring of Pacemakers and Implantable Cardioverter-Defibrillators
+LA  - English
+KW  - cardiac rhythm management device
+KW  - implantable cardioverter defibrillator
+KW  - adult
+KW  - aged
+KW  - article
+KW  - biotechnology
+KW  - cardiac patient
+KW  - clinical article
+KW  - clinician
+KW  - computer security
+KW  - conflict
+KW  - device clinic technician
+KW  - education
+KW  - experience
+KW  - female
+KW  - health care cost
+KW  - health care personnel
+KW  - health care system
+KW  - human
+KW  - knowledge
+KW  - male
+KW  - medical fee
+KW  - patient attitude
+KW  - patient preference
+KW  - perception
+KW  - physician attitude
+KW  - qualitative analysis
+KW  - remote sensing
+KW  - semi structured interview
+KW  - trust
+N2  - The use of remote monitoring technology for cardiovascular electronic implantable devices has grown significantly in recent decades, yet several key questions remain about its integration into clinical care. We performed semi-structured interviews of patients, clinicians, and device clinic technicians involved in clinical remote monitoring of cardiovascular implantable devices at our institution. Twenty-eight interviews comprised of 15 patients and 13 clinicians were conducted from October 2019 through February 2020. Interview transcripts were analyzed using a mixed inductive and deductive approach. Perspectives among clinicians and patients varied regarding familiarity, educational experiences, and preferences regarding how remote monitoring data are handled. Three key domains emerged including knowledge and understanding, managing alerts, and cost transparency. Within these domains, key findings includedvery limited understanding of how remote monitoring functions and how alerts in particular are handled. These knowledge deficits (both patients and providers) appeared to arise in part from different equipment and platforms among manufacturers, the complexity of the technology, and lack of formalized education in remote monitoring. However, interviewees expressed generally high levels of trust in the technology and care systems supporting remote monitoring. Few respondents described concerns around cybersecurity, but patients in particular did raise concerns about cost transparency and frequent billing. In conclusion, conflicting perceptions around remote monitoring persist and indicate important knowledge gaps despite high trust in the care pathway. This qualitative analysis offers insight into patient and clinician understanding of and attitudes toward remote monitoring, and may guide future efforts to improve education and patient-centeredness of remote monitoring.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 11
+IS  - 3
+SP  - 511
+EP  - 523
+SN  - 2190-7196
+SN  - 2190-7188
+JF  - Health and Technology
+JO  - Health Technol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2011022134&from=export
+U2  - L2011022134
+DB  - Embase
+U3  - 2021-04-16
+U4  - 2021-05-14
+L2  - http://dx.doi.org/10.1007/s12553-021-00527-9
+DO  - 10.1007/s12553-021-00527-9
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=21907196&id=doi:10.1007%2Fs12553-021-00527-9&atitle=Enhanced+end-to-end+security+through+symmetric-key+cryptography+in+wearable+medical+sensor+networks&stitle=Health+Technol.&title=Health+and+Technology&volume=11&issue=3&spage=511&epage=523&aulast=Winderickx&aufirst=Jori&auinit=J.&aufull=Winderickx+J.&coden=&isbn=&pages=511-523&date=2021&auinit1=J&auinitm=
+A1  - Winderickx, J.
+A1  - Braeken, A.
+A1  - Mentens, N.
+M1  - (Winderickx J., jori.winderickx@kuleuven.be; Mentens N., nele.mentens@kuleuven.be) ES&S and imec-COSIC, KU Leuven, Leuven, Belgium
+M1  - (Braeken A., abraeken@vub.be) Department of Industrial Engineering (INDI), Vrije Universiteit Brussel, Brussels, Belgium
+M1  - (Mentens N., nele.mentens@kuleuven.be) LIACS Leiden University, Leiden, Netherlands
+AD  - J. Winderickx, ES&S and imec-COSIC, KU Leuven, Leuven, Belgium
+T1  - Enhanced end-to-end security through symmetric-key cryptography in wearable medical sensor networks
+LA  - English
+KW  - body area network
+KW  - wearable sensor
+KW  - article
+KW  - data privacy
+KW  - electronic medical record
+KW  - health care system
+KW  - human
+KW  - information security
+KW  - patient information
+KW  - proof of concept
+KW  - symmetric key cryptography
+KW  - telemonitoring
+KW  - threat
+KW  - vital sign
+KW  - wireless communication
+N2  - This paper describes a security protocol and proof-of-concept implementation for wearable medical sensor devices that are deployed in hospitals. The sensor device measures the patient’s vital sign parameters and sends them to the hospital server, such that the data can be processed and stored in the EMR (Electronic Medical Record) of the patient. The proposed security protocol is based on symmetric-key cryptography and addresses the challenges of anonymity, unlinkability, mutual authentication and perfect forward secrecy. Moreover, it relies on decentralised authentication, avoiding an authentication server to be the single point of attack. Besides offering strong security features, the proposed protocol and implementation take into account that sensor devices are typically constrained with respect to communication bandwidth and computation power. Therefore, these parameters are evaluated in addition to the security analysis of the presented protocol. Our solution gives stronger security guarantees than related work, while featuring a comparable computation overhead and the lowest communication overhead.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 11
+IS  - 2
+SN  - 2075-4418
+JF  - Diagnostics
+JO  - Diagn.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007601492&from=export
+U2  - L2007601492
+DB  - Embase
+U3  - 2021-12-15
+U4  - 2022-04-19
+L2  - http://dx.doi.org/10.3390/diagnostics11020151
+DO  - 10.3390/diagnostics11020151
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20754418&id=doi:10.3390%2Fdiagnostics11020151&atitle=Enhancing+patient+centricity+and+advancing+innovation+in+clinical+research+with+virtual+randomized+clinical+trials+%28Vrcts%29&stitle=Diagn.&title=Diagnostics&volume=11&issue=2&spage=&epage=&aulast=Yaakov&aufirst=Raphael+A.&auinit=R.A.&aufull=Yaakov+R.A.&coden=&isbn=&pages=-&date=2021&auinit1=R&auinitm=A
+A1  - Yaakov, R.A.
+A1  - Güler, Ö.
+A1  - Mayhugh, T.
+A1  - Serena, T.E.
+M1  - (Yaakov R.A., ryaakov@ekareinc.com; Güler Ö., oguler@ekareinc.com) eKare, Inc., 3040 Williams Dr #610, Fairfax, VA, United States
+M1  - (Mayhugh T., tmayhugh@serenagroups.com; Serena T.E., serena@serenagroups.com) SerenaGroup Research Foundation, 125 Cambridge Park Dr., Cambridge, MA, United States
+AD  - T.E. Serena, SerenaGroup Research Foundation, 125 Cambridge Park Dr., Cambridge, MA, United States
+T1  - Enhancing patient centricity and advancing innovation in clinical research with virtual randomized clinical trials (Vrcts)
+LA  - English
+KW  - article
+KW  - clinical research
+KW  - data privacy
+KW  - health care need
+KW  - holistic care
+KW  - human
+KW  - information security
+KW  - organization and management
+KW  - patient care
+KW  - patient centricity
+KW  - patient compliance
+KW  - randomized controlled trial (topic)
+KW  - telehealth
+N2  - The current public health crisis has highlighted the need to accelerate healthcare innovation. Despite unwavering levels of cooperation among academia, industry, and policy makers, it can still take years to bring a life-saving product to market. There are some obvious limitations, including lack of blinding or masking and small sample size, which render the results less applicable to the real world. Traditional randomized controlled trials (RCTs) are lengthy, expensive, and have a low success rate. There is a growing acknowledgement that the current process no longer fully meets the growing healthcare needs. Advances in technology coupled with proliferation of telehealth modalities, sensors, wearable and connected devices have paved the way for a new paradigm. Virtual randomized controlled trials (vRCTs) have the potential to drastically shorten the clinical trial cycle while maximizing patient-centricity, compliance, and recruitment. This new approach can inform clinical trials in real time and with a holistic view of a patient’s health. This paper provides an overview of virtual clinical trials, addressing critical issues, including regulatory compliance, data security, privacy, and ownership.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 2
+IS  - 1
+SN  - 2637-8051
+SN  - 2691-1957
+JF  - ACM Transactions on Computing for Healthcare
+JO  - ACM Trans. Comput. Healthc.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L634052059&from=export
+U2  - L634052059
+DB  - Embase
+U4  - 2023-06-07
+L2  - http://dx.doi.org/10.1145/3416947
+DO  - 10.1145/3416947
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=26378051&id=doi:10.1145%2F3416947&atitle=Privacy-preserving+IoT+Framework+for+Activity+Recognition+in+Personal+Healthcare+Monitoring&stitle=ACM+Trans.+Comput.+Healthc.&title=ACM+Transactions+on+Computing+for+Healthcare&volume=2&issue=1&spage=&epage=&aulast=Jourdan&aufirst=Theo&auinit=T.&aufull=Jourdan+T.&coden=&isbn=&pages=-&date=2021&auinit1=T&auinitm=
+A1  - Jourdan, T.
+A1  - Boutet, A.
+A1  - Bahi, A.
+A1  - Frindel, C.
+M1  - (Jourdan T., theo.jourdan@creatis.insa-lyon.fr; Boutet A., antoine.boutet@insa-lyon.fr) Université de Lyon, INSA Lyon, Inria, CITI, CNRS, Inserm, CREATIS UMR 5220, U1206, Villeurbanne, France
+M1  - (Bahi A., bahiaminec@gmail.com) Universit Mohammed 6 polytechnique, Ben Guerir, Morocco
+M1  - (Frindel C., carole.frindel@creatis.insalyon.fr) Université de Lyon, INSA Lyon, CNRS, Inserm, CREATIS UMR 5220, U1206, Villeurbanne, France
+T1  - Privacy-preserving IoT Framework for Activity Recognition in Personal Healthcare Monitoring
+LA  - English
+KW  - article
+KW  - biometry
+KW  - data privacy
+KW  - feature extraction
+KW  - feature ranking
+KW  - feature selection
+KW  - human
+KW  - image segmentation
+KW  - internet of things
+KW  - learning algorithm
+KW  - machine learning
+KW  - priority journal
+KW  - signal processing
+N2  - The increasing popularity of wearable consumer products can play a significant role in the healthcare sector. The recognition of human activities from IoT is an important building block in this context. While the analysis of the generated datastream can have many benefits from a health point of view, it can also lead to privacy threats by exposing highly sensitive information. In this article, we propose a framework that relies on machine learning to efficiently recognise the user activity, useful for personal healthcare monitoring, while limiting the risk of users re-identification from biometric patterns characterizing each individual. To achieve that, we show that features in temporal domain are useful to discriminate user activity while features in frequency domain lead to distinguish the user identity. We then design a novel protection mechanism processing the raw signal on the user's smartphone to select relevant features for activity recognition and normalise features sensitive to re-identification. These unlinkable features are then transferred to the application server. We extensively evaluate our framework with reference datasets: Results show an accurate activity recognition (87%) while limiting the re-identification rate (33%). This represents a slight decrease of utility (9%) against a large privacy improvement (53%) compared to state-of-the-art baselines.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 98
+IS  - 4
+SP  - 1257
+EP  - 1289
+SN  - 1468-0009
+SN  - 0887-378X
+JF  - Milbank Quarterly
+JO  - Milbank Q.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007015205&from=export
+U2  - L2007015205
+C5  - 33078879
+DB  - Embase
+DB  - Medline
+U3  - 2020-10-26
+U4  - 2020-10-26
+L2  - http://dx.doi.org/10.1111/1468-0009.12481
+DO  - 10.1111/1468-0009.12481
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14680009&id=doi:10.1111%2F1468-0009.12481&atitle=Ethical+and+Legal+Implications+of+Remote+Monitoring+of+Medical+Devices&stitle=Milbank+Q.&title=Milbank+Quarterly&volume=98&issue=4&spage=1257&epage=1289&aulast=Cohen&aufirst=I.+Glenn&auinit=I.G.&aufull=Cohen+I.G.&coden=MIQUE&isbn=&pages=1257-1289&date=2020&auinit1=I&auinitm=G
+A1  - Cohen, I.G.
+A1  - Gerke, S.
+A1  - Kramer, D.B.
+M1  - (Cohen I.G.; Gerke S.) Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics at Harvard Law School, Harvard University, United States
+M1  - (Kramer D.B., dkramer@bidmc.harvard.edu) Richard A. and Susan F. Smith Center for Outcomes Research in Cardiology, Beth Israel Deaconess Medical Center, Harvard Medical School, United States
+AD  - D.B. Kramer, Richard A. and Susan F. Smith Center for Outcomes Research in Cardiology, Beth Israel Deaconess Medical Center, Harvard Medical School, United States
+T1  - Ethical and Legal Implications of Remote Monitoring of Medical Devices
+LA  - English
+KW  - artificial heart pacemaker
+KW  - implantable cardioverter defibrillator
+KW  - medical device
+KW  - access to information
+KW  - article
+KW  - health care policy
+KW  - hospital care
+KW  - human
+KW  - information retrieval
+KW  - medical documentation
+KW  - medical ethics
+KW  - medical record
+KW  - medical research
+KW  - medicolegal aspect
+KW  - priority journal
+KW  - privacy
+KW  - remote sensing
+KW  - telemonitoring
+KW  - United States
+N2  - Policy Points Millions of life-sustaining implantable devices collect and relay massive amounts of digital health data, increasingly by using user-downloaded smartphone applications to facilitate data relay to clinicians via manufacturer servers. Our analysis of health privacy laws indicates that most US patients may have little access to their own digital health data in the United States under the Health Insurance Portability and Accountability Act Privacy Rule, whereas the EU General Data Protection Regulation and the California Consumer Privacy Act grant greater access to device-collected data. Our normative analysis argues for consistently granting patients access to the raw data collected by their implantable devices. Context: Millions of life-sustaining implantable devices collect and relay massive amounts of digital health data, increasingly by using user-downloaded smartphone applications to facilitate data relay to clinicians via manufacturer servers. Whether patients have either legal or normative claims to data collected by these devices, particularly in the raw, granular format beyond that summarized in their medical records, remains incompletely explored. Methods: Using pacemakers and implantable cardioverter-defibrillators (ICDs) as a clinical model, we outline the clinical ecosystem of data collection, relay, retrieval, and documentation. We consider the legal implications of US and European privacy regulations for patient access to either summary or raw device data. Lastly, we evaluate ethical arguments for or against providing patients access to data beyond the summaries presented in medical records. Findings: Our analysis of applicable health privacy laws indicates that US patients may have little access to their raw data collected and held by device manufacturers in the United States under the Health Insurance Portability and Accountability Act Privacy Rule, whereas the EU General Data Protection Regulation (GDPR) grants greater access to device-collected data when the processing of personal data falls under the GDPR's territorial scope. The California Consumer Privacy Act, the “little sister” of the GDPR, also grants greater rights to California residents. By contrast, our normative analysis argues for consistently granting patients access to the raw data collected by their implantable devices. Smartphone applications are increasingly involved in the collection, relay, retrieval, and documentation of these data. Therefore, we argue that smartphone user agreements are an emerging but potentially underutilized opportunity for clarifying both legal and ethical claims for device-derived data. Conclusions: Current health privacy legislation incompletely supports patients’ normative claims for access to digital health data.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 6
+IS  - 4
+SP  - 170
+EP  - 176
+SN  - 2055-642X
+SN  - 2055-8074
+JF  - BMJ Innovations
+JO  - BMJ Innov.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L632378889&from=export
+U2  - L632378889
+DB  - Embase
+U3  - 2020-07-24
+U4  - 2020-07-24
+L2  - http://dx.doi.org/10.1136/bmjinnov-2019-000399
+DO  - 10.1136/bmjinnov-2019-000399
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=2055642X&id=doi:10.1136%2Fbmjinnov-2019-000399&atitle=Protecting+patient+privacy+in+digital+health+technology%3A+The+Dutch+m-Health+infrastructure+of+Hartwacht+as+a+learning+case&stitle=BMJ+Innov.&title=BMJ+Innovations&volume=6&issue=4&spage=170&epage=176&aulast=Wierda&aufirst=Eric&auinit=E.&aufull=Wierda+E.&coden=&isbn=&pages=170-176&date=2020&auinit1=E&auinitm=
+A1  - Wierda, E.
+A1  - Blok, S.
+A1  - Somsen, G.A.
+A1  - Van Der Velde, E.T.
+A1  - Tulevski, I.I.
+A1  - Stavrov, B.
+A1  - De Wildt, M.C.C.
+A1  - Van Den Born, B.J.H.
+A1  - Breukel, L.
+A1  - De Mol, B.A.J.M.
+A1  - Ploem, M.C.
+A1  - Winter, M.M.
+M1  - (Wierda E., e.wierda@amsterdamumc.nl; Winter M.M.) Cardiology, Amsterdam UMC - Locatie AMC, Amsterdam, Netherlands
+M1  - (Wierda E., e.wierda@amsterdamumc.nl) Cardiology, Dijklander Ziekenhuis, Hoorn, North-Holland, Netherlands
+M1  - (Blok S.; Somsen G.A.; Tulevski I.I.; Stavrov B.; De Wildt M.C.C.) Cardiology, Cardiologie Centra Nederland, Amsterdam, Netherlands
+M1  - (Van Der Velde E.T.) Medical Physics/Cardiology, LUMC, Leiden, Netherlands
+M1  - (Van Den Born B.J.H.) Internal Medicine, Amsterdam UMC - Locatie AMC, Amsterdam, Netherlands
+M1  - (Breukel L.) Cardiology, Onze Lieve Vrouwe Gasthuis, Amsterdam, Netherlands
+M1  - (De Mol B.A.J.M.) Cardiothoracic Surgery, Amsterdam UMC - Locatie AMC, Amsterdam, Netherlands
+M1  - (Ploem M.C.) Health Law, Amsterdam UMC - Locatie AMC, Amsterdam, Netherlands
+AD  - E. Wierda, Department of Cardiology, Dijklander Hospital, Maelsonstraat 3, Hoorn, Netherlands
+T1  - Protecting patient privacy in digital health technology: The Dutch m-Health infrastructure of Hartwacht as a learning case
+LA  - English
+KW  - adult
+KW  - article
+KW  - health care personnel
+KW  - health program
+KW  - human
+KW  - law
+KW  - learning
+KW  - Netherlands
+KW  - privacy
+KW  - remote sensing
+KW  - responsibility
+KW  - telediagnosis
+N2  - Innovative ways of healthcare delivery like m-Health, the practice of medicine by mobile devices and wearable devices are the promising new technique that may lead to improvement in quality of care at lower costs. While fully acknowledging the importance of m-Health development, there are challenges on privacy legislation. We address the legal framework, especially the General Data Protection Regulation, applied to m-Health and its implications for m-Health developments in Europe. We discuss how these rules are applied using a representative example of an m-Health programme with remote monitoring in the Netherlands. We consider informing patients about the data processing and obtaining their explicit consent as main responsibilities of healthcare providers introducing m-Health in their practice.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 44
+IS  - 9
+SN  - 1573-689X
+SN  - 0148-5598
+JF  - Journal of Medical Systems
+JO  - J. Med. Syst.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2005697873&from=export
+U2  - L2005697873
+C5  - 32725321
+DB  - Embase
+DB  - Medline
+U3  - 2020-08-03
+U4  - 2020-09-03
+L2  - http://dx.doi.org/10.1007/s10916-020-01605-7
+DO  - 10.1007/s10916-020-01605-7
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=1573689X&id=doi:10.1007%2Fs10916-020-01605-7&atitle=Cloud+Computing+Mobile+Application+for+Remote+Monitoring+of+Bell%E2%80%99s+Palsy&stitle=J.+Med.+Syst.&title=Journal+of+Medical+Systems&volume=44&issue=9&spage=&epage=&aulast=Watts&aufirst=P.&auinit=P.&aufull=Watts+P.&coden=JMSYD&isbn=&pages=-&date=2020&auinit1=P&auinitm=
+A1  - Watts, P.
+A1  - Breedon, P.
+A1  - Nduka, C.
+A1  - Neville, C.
+A1  - Venables, V.
+A1  - Clarke, S.
+M1  - (Watts P.; Breedon P., philip.breedon@ntu.ac.uk) Medical Engineering Design Research Group, Nottingham Trent University, Nottingham, United Kingdom
+M1  - (Nduka C.; Neville C.; Venables V.) Queen Victoria Hospital, NHS Trust, East Grinstead, West Sussex, United Kingdom
+M1  - (Nduka C.; Clarke S.) Emteq Ltd, Sussex Innovation Centre, Brighton, United Kingdom
+AD  - P. Breedon, Medical Engineering Design Research Group, Nottingham Trent University, Nottingham, United Kingdom
+T1  - Cloud Computing Mobile Application for Remote Monitoring of Bell’s Palsy
+LA  - English
+KW  - data storage device
+KW  - mobile phone
+KW  - sensor
+KW  - tablet computer
+KW  - wearable computer
+KW  - access to information
+KW  - article
+KW  - Bell palsy
+KW  - cloud computing
+KW  - conceptual framework
+KW  - data analysis
+KW  - human
+KW  - information storage
+KW  - information technology
+KW  - mobile application
+KW  - patient monitoring
+KW  - remote sensing
+KW  - software
+KW  - web browser
+N2  - Mobile applications provide the healthcare industry with a means of connecting with patients in their own home utilizing their own personal mobile devices such as tablets and phones. This allows therapists to monitor the progress of people under their care from a remote location and all with the added benefit that patients are familiar with their own mobile devices; thereby reducing the time required to train patients with the new technology. There is also the added benefit to the health service that there is no additional cost required to purchase devices for use. The Facial Remote Activity Monitoring Eyewear (FRAME) mobile application and web service framework has been designed to work on the IOS and android platforms, the two most commonly used today. Results: The system utilizes secure cloud based data storage to collect, analyse and store data, this allows for near real time, secure access remotely by therapists to monitor their patients and intervene when required. The underlying framework has been designed to be secure, anonymous and flexible to ensure compliance with the data protection act and the latest General Data Protection Regulation (GDPR); this new standard came into effect in April 2018 and replaces the Data Protection Act in the UK and Europe.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 4
+IS  - 2
+SP  - 45
+EP  - 59
+SN  - 2504-110X
+JF  - Digital Biomarkers
+JO  - Digit. Biomarkers
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L632325151&from=export
+U2  - L632325151
+DB  - Embase
+U3  - 2020-07-22
+U4  - 2021-04-19
+L2  - http://dx.doi.org/10.1159/000507696
+DO  - 10.1159/000507696
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=2504110X&id=doi:10.1159%2F000507696&atitle=Real-Life+Multimarker+Monitoring+in+Patients+with+Heart+Failure%3A+Continuous+Remote+Monitoring+of+Mobility+and+Patient-Reported+Outcomes+as+Digital+End+Points+in+Future+Heart-Failure+Trials&stitle=Digit.+Biomarkers&title=Digital+Biomarkers&volume=4&issue=2&spage=45&epage=59&aulast=Kramer&aufirst=Frank&auinit=F.&aufull=Kramer+F.&coden=&isbn=&pages=45-59&date=2020&auinit1=F&auinitm=
+A1  - Kramer, F.
+A1  - Butler, J.
+A1  - Shah, S.J.
+A1  - Jung, C.
+A1  - Nodari, S.
+A1  - Rosenkranz, S.
+A1  - Senni, M.
+A1  - Bamber, L.
+A1  - Cichos, S.
+A1  - Dori, C.
+A1  - Karakoyun, T.
+A1  - Köhler, G.J.
+A1  - Patel, K.
+A1  - Piraino, P.
+A1  - Viethen, T.
+A1  - Chennuru, P.
+A1  - Paydar, A.
+A1  - Sims, J.
+A1  - Clark, R.
+A1  - Van Lummel, R.
+A1  - Müller, A.
+A1  - Gwaltney, C.
+A1  - Smajlovic, S.
+A1  - Düngen, H.-D.
+A1  - Dinh, W.
+M1  - (Kramer F., frank.kramer@bayer.com) Bayer Ag, Medical Devices and EHealth Clinical, Aprather Weg 18a, Wuppertal, Germany
+M1  - (Butler J.) Department of Medicine, University of Mississippi Medical Center, Jackson, MS, United States
+M1  - (Shah S.J.) Northwestern University, Feinberg School of Medicine, Chicago, IL, United States
+M1  - (Jung C.) Division of Cardiology Pulmonary Diseases and Vascular Medicine, Medical Faculty, University Hospital Düsseldorf, Düsseldorf, Germany
+M1  - (Nodari S.) Cardiology Department, University and Spedali Civili of Brescia, Brescia, Italy
+M1  - (Rosenkranz S.) Department of Cardiology, Heart Center at the University Hospital Cologne, Cologne Cardiovascular Research Center, Cologne, Germany
+M1  - (Senni M.) Division of Cardiology, Papa Giovanni Xxiii Hospital, Bergamo, Italy
+M1  - (Bamber L.) Bayer Ag, Health Economics and Outcomes Research, Wuppertal, Germany
+M1  - (Cichos S.) Bayer Ag, Clinical Sciences Data Management, Wuppertal, Germany
+M1  - (Dori C.) Bayer Us, Llc, Bayer HealthCare Pharmaceuticals Inc., Global Clinical Information and Analytics, Data Acquisition Technology Integration, Whippany, NJ, United States
+M1  - (Karakoyun T.) Bayer Business Services GmbH, It Bp Pharmaceuticals Clinical, Wuppertal, Germany
+M1  - (Köhler G.J.) Bayer Ag, Translational Studies Operations, Wuppertal, Germany
+M1  - (Patel K.) Bayer Us, Llc, Bayer HealthCare Pharmaceuticals Inc., Global Project Management, Whippany, NJ, United States
+M1  - (Piraino P.) Bayer Ag, Research and Early Development Statistics, Berlin, Germany
+M1  - (Viethen T.) Bayer Ag, Medical Experts Cardiology and Coagulation, Wuppertal, Germany
+M1  - (Chennuru P.) Global Customer Success Team, Sap Health, Sap Se, Walldorf, Germany
+M1  - (Paydar A.) Sap Ag, Sap Digital Business Services-EMEA, Sap Deutschland Se and Co. Kg, Walldorf, Germany
+M1  - (Sims J.; Clark R.) Medtronic, Mounds View, Minneapolis, MN, United States
+M1  - (Van Lummel R.) McRoberts B.V., The Hague, Netherlands
+M1  - (Müller A.) Sovanta Ag, Heidelberg, Germany
+M1  - (Gwaltney C.) Gwaltney Consulting, Westerly, RI, United States
+M1  - (Smajlovic S.) Huawei Technologies Deutschland GmbH, Düsseldorf, Germany
+M1  - (Düngen H.-D.) Medical Department, Division of Cardiology, Charité Campus Virchow Clinic, Berlin University of Medicine, Berlin, Germany
+M1  - (Dinh W.) Bayer Ag, Experimental Medicine Cardiovascular/Hematology, Wuppertal, Germany
+AD  - F. Kramer, Bayer Ag, Medical Devices and EHealth Clinical, Aprather Weg 18a, Wuppertal, Germany
+T1  - Real-Life Multimarker Monitoring in Patients with Heart Failure: Continuous Remote Monitoring of Mobility and Patient-Reported Outcomes as Digital End Points in Future Heart-Failure Trials
+LA  - English
+KW  - NCT03507439
+KW  - accelerometer
+KW  - AVIVO
+KW  - biosensor
+KW  - DynaPort MoveMonitor
+KW  - telemetric electrocardiograph
+KW  - VitalPatch
+KW  - wearable sensor
+KW  - biological marker
+KW  - adult
+KW  - article
+KW  - cardiomyopathy
+KW  - controlled study
+KW  - echocardiography
+KW  - electronic patient record
+KW  - female
+KW  - heart failure with preserved ejection fraction
+KW  - heart failure with reduced ejection fraction
+KW  - human
+KW  - Kansas City Cardiomyopathy Questionnaire
+KW  - major clinical study
+KW  - male
+KW  - multicenter study
+KW  - observational study
+KW  - outcome assessment
+KW  - patient monitoring
+KW  - patient-reported outcome
+KW  - priority journal
+KW  - prospective study
+KW  - questionnaire
+KW  - remote sensing
+KW  - six minute walk test
+KW  - AVIVO
+KW  - DynaPort MoveMonitor
+KW  - VitalPatch
+C3  - AVIVO(Medtronic,United States)
+C3  - DynaPort MoveMonitor(McRoberts,Netherlands)
+C3  - VitalPatch
+C4  - McRoberts(Netherlands)
+C4  - Medtronic(United States)
+N2  - Aims: Heart failure (HF) affects approximately 26 million people worldwide. With an aging global population, innovative approaches to HF evaluation and management are needed to cope with the worsening HF epidemic. The aim of the Real-Life Multimarker Monitoring in Patients with Heart Failure (REALIsM-HF) study (NCT03507439) is to evaluate a composite instrument comprising remote, real-time, activity-monitoring devices combined with daily electronic patient-reported outcome (ePRO) items in patients who have been hospitalized for HF and are undergoing standard HF assessment (e.g., 6-min walking distance [6MWD], blood biomarkers, Kansas City Cardiomyopathy Questionnaire [KCCQ], and echocardiography). Methods: REALIsM-HF is an ongoing, 12-week, observational study enrolling 80-100 patients aged =45 years with HF with preserved ejection fraction (HFpEF; EF =45%) or reduced EF (HFrEF; EF =35%). Statistical analyses will include examining the association between data from wearables (the AVIVO mobile patient management patch or VitalPatch biosensor, and the DynaPort MoveMonitor), daily ePROs, and conventional HF metrics (e.g., serum/plasma biomarkers, 6MWD, KCCQ, and echocardiographic parameters). The feasibility of and patient compliance with at-home devices will be documented, and the data captured for the purpose of establishing reference values in patients with HFpEF or HFrEF will be summarized. Conclusions: The REALIsM-HF study is to evaluate the longitudinal daily activity profiles of patients with HF and correlate these with changes in serum/plasma biomarker profiles, symptoms, quality of life, and cardiac function and morphology to inform the use of wearable activity monitors for developing novel therapies and managing patients.
+ER  - 
+
+TY  - JOUR
+M3  - Article in Press
+Y1  - 2020
+SP  - 100
+EP  - 118
+SN  - 2504-110X
+JF  - Digital Biomarkers
+JO  - Digit. Biomarkers
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L633643021&from=export
+U2  - L633643021
+DB  - Embase
+U3  - 2020-12-15
+L2  - http://dx.doi.org/10.1159/000512208
+DO  - 10.1159/000512208
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=2504110X&id=doi:10.1159%2F000512208&atitle=The+Collaborative+Aging+Research+Using+Technology+Initiative%3A+An+Open%2C+Sharable%2C+Technology-Agnostic+Platform+for+the+Research+Community&stitle=Digit.+Biomarkers&title=Digital+Biomarkers&volume=&issue=&spage=100&epage=118&aulast=Beattie&aufirst=Zachary&auinit=Z.&aufull=Beattie+Z.&coden=&isbn=&pages=100-118&date=2020&auinit1=Z&auinitm=
+A1  - Beattie, Z.
+A1  - Miller, L.M.
+A1  - Almirola, C.
+A1  - Au-Yeung, W.-T.M.
+A1  - Bernard, H.
+A1  - Cosgrove, K.E.
+A1  - Dodge, H.H.
+A1  - Gamboa, C.J.
+A1  - Golonka, O.
+A1  - Gothard, S.
+A1  - Harbison, S.
+A1  - Irish, S.
+A1  - Kornfeld, J.
+A1  - Lee, J.
+A1  - Marcoe, J.
+A1  - Mattek, N.C.
+A1  - Quinn, C.
+A1  - Reynolds, C.
+A1  - Riley, T.
+A1  - Rodrigues, N.
+A1  - Sharma, N.
+A1  - Siqueland, M.A.
+A1  - Thomas, N.W.
+A1  - Truty, T.
+A1  - Wall, R.
+A1  - Wild, K.
+A1  - Wu, C.-Y.
+A1  - Karlawish, J.
+A1  - Silverberg, N.B.
+A1  - Barnes, L.L.
+A1  - Czaja, S.
+A1  - Silbert, L.C.
+A1  - Kaye, J.
+M1  - (Beattie Z., beattiez@ohsu.edu; Miller L.M.; Au-Yeung W.-T.M.; Bernard H.; Cosgrove K.E.; Dodge H.H.; Golonka O.; Gothard S.; Harbison S.; Irish S.; Kornfeld J.; Lee J.; Marcoe J.; Mattek N.C.; Quinn C.; Reynolds C.; Riley T.; Rodrigues N.; Sharma N.; Siqueland M.A.; Wall R.; Wild K.; Wu C.-Y.; Silbert L.C.; Kaye J.) Oregon Center for Aging and Technology, Oregon Health and Science University, Portland, OR, United States
+M1  - (Beattie Z., beattiez@ohsu.edu; Au-Yeung W.-T.M.; Bernard H.; Cosgrove K.E.; Dodge H.H.; Golonka O.; Gothard S.; Harbison S.; Irish S.; Kornfeld J.; Lee J.; Marcoe J.; Mattek N.C.; Quinn C.; Reynolds C.; Riley T.; Rodrigues N.; Sharma N.; Siqueland M.A.; Wall R.; Wild K.; Wu C.-Y.; Silbert L.C.; Kaye J.) National Institute on Aging, Layton Aging and Alzheimer's Disease Research Center, Oregon Health and Science University, Portland, OR, United States
+M1  - (Beattie Z., beattiez@ohsu.edu; Au-Yeung W.-T.M.; Bernard H.; Cosgrove K.E.; Dodge H.H.; Golonka O.; Gothard S.; Harbison S.; Irish S.; Kornfeld J.; Lee J.; Marcoe J.; Mattek N.C.; Quinn C.; Reynolds C.; Riley T.; Rodrigues N.; Sharma N.; Siqueland M.A.; Wild K.; Wu C.-Y.; Silbert L.C.; Kaye J.) Department of Neurology, Oregon Health and Science University, Portland, OR, United States
+M1  - (Miller L.M.) School of Nursing, Oregon Health and Science University, Portland, OR, United States
+M1  - (Almirola C.; Czaja S.) Center for Cognitive Neuroscience and Aging, Department of Psychiatry and Behavioral Sciences, University of Miami Miller School of Medicine, Miami, FL, United States
+M1  - (Gamboa C.J.; Truty T.; Barnes L.L.) Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, IL, United States
+M1  - (Thomas N.W.) Department of Medicine, University of Ottawa, Ottawa, ON, Canada
+M1  - (Thomas N.W.) Bruyère Research Institute, Ottawa, ON, Canada
+M1  - (Wall R.; Silbert L.C.) Department of Neurology, Portland Veterans Affairs Medical Center, Portland, OR, United States
+M1  - (Karlawish J.) Department of Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA, United States
+M1  - (Silverberg N.B.) Division of Neuroscience, National Institute on Aging, National Institute of Health, Bethesda, MD, United States
+M1  - (Czaja S.) Center on Aging and Behavioral Research, Division of Geriatrics and Palliative Medicine, Weil Cornell Medicine, New York, NY, United States
+AD  - Z. Beattie, Department of Neurology, Oregon Health Andamp; Science University, 3181 SW Sam Jackson Park Road, Portland, OR, United States
+T1  - The Collaborative Aging Research Using Technology Initiative: An Open, Sharable, Technology-Agnostic Platform for the Research Community
+LA  - English
+KW  - African American
+KW  - aged
+KW  - aging
+KW  - Agnostic
+KW  - article
+KW  - cognition
+KW  - cohort analysis
+KW  - controlled study
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - longevity
+KW  - lowest income group
+KW  - major clinical study
+KW  - male
+KW  - physical mobility
+KW  - privacy
+KW  - remote sensing
+KW  - sensor
+KW  - sleep time
+KW  - veteran
+KW  - biological marker
+N2  - Introduction: Future digital health research hinges on methodologies to conduct remote clinical assessments and in-home monitoring. The Collaborative Aging Research Using Technology (CART) initiative was introduced to establish a digital technology research platform that could widely assess activity in the homes of diverse cohorts of older adults and detect meaningful change longitudinally. This paper reports on the built end-to-end design of the CART platform, its functionality, and the resulting research capabilities. Methods: CART platform development followed a principled design process aiming for scalability, use case flexibility, longevity, and data privacy protection while allowing sharability. The platform, comprising ambient technology, wearables, and other sensors, was deployed in participants' homes to provide continuous, long-term (months to years), and ecologically valid data. Data gathered from CART homes were sent securely to a research server for analysis and future data sharing. Results: The CART system was created, iteratively tested, and deployed to 232 homes representing four diverse cohorts (African American, Latinx, low-income, and predominantly rural-residing veterans) of older adults (n = 301) across the USA. Multiple measurements of wellness such as cognition (e.g., mean daily computer use time = 160-169 min), physical mobility (e.g., mean daily transitions between rooms = 96-155), sleep (e.g., mean nightly sleep duration = 6.3-7.4 h), and level of social engagement (e.g., reports of overnight visitors = 15-45%) were collected across cohorts. Conclusion: The CART initiative resulted in a minimally obtrusive digital health-enabled system that met the design principles while allowing for data capture over extended periods and can be widely used by the research community. The ability to monitor and manage health digitally within the homes of older adults is an important alternative to in-person assessments in many research contexts. Further advances will come with wider, shared use of the CART system in additional settings, within different disease contexts, and by diverse research teams.
+ER  - 
+

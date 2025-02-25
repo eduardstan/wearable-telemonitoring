@@ -1,0 +1,1147 @@
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 14
+IS  - 1
+SP  - 29837
+SN  - 2045-2322
+JF  - Scientific reports
+JO  - Sci Rep
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L645966876&from=export
+U2  - L645966876
+C5  - 39617767
+DB  - Medline
+U4  - 2024-12-16
+L2  - http://dx.doi.org/10.1038/s41598-024-80567-z
+DO  - 10.1038/s41598-024-80567-z
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20452322&id=doi:10.1038%2Fs41598-024-80567-z&atitle=Development+of+a+remote+therapeutic+monitoring+platform%3A+applications+for+movement+disorders&stitle=Sci+Rep&title=Scientific+reports&volume=14&issue=1&spage=29837&epage=&aulast=Thankathuraipandian&aufirst=Sreetharan&auinit=S.&aufull=Thankathuraipandian+S.&coden=&isbn=&pages=29837-&date=2024&auinit1=S&auinitm=
+A1  - Thankathuraipandian, S.
+A1  - Greenleaf, W.
+A1  - Kyani, A.
+A1  - Tomlinson, T.
+A1  - Balasingh, B.
+A1  - Ross, E.
+A1  - Pathak, Y.
+M1  - (Thankathuraipandian S.; Kyani A.; Tomlinson T.; Balasingh B.; Ross E.; Pathak Y., Yagna.Pathak@abbott.com) Plano, TX, United States
+M1  - (Greenleaf W.) Stanford University, Stanford, CA, United States
+T1  - Development of a remote therapeutic monitoring platform: applications for movement disorders
+LA  - English
+KW  - aged
+KW  - brain depth stimulation
+KW  - devices
+KW  - diagnosis
+KW  - feasibility study
+KW  - female
+KW  - human
+KW  - male
+KW  - middle aged
+KW  - mobile application
+KW  - motor dysfunction
+KW  - Parkinson disease
+KW  - patient-reported outcome
+KW  - physiologic monitoring
+KW  - procedures
+KW  - telemedicine
+KW  - therapy
+KW  - wearable computer
+N2  - Digital health tools are emerging as a promising solution for optimizing Deep Brain Stimulation (DBS) therapy for neurodegenerative diseases such as Parkinson's Disease (PD), addressing challenges of therapy maintenance, care access, and discrete assessments. Wearable technology and mobile health platforms can offer remote monitoring capabilities, allowing for real-time virtual programming with optimization of patients' therapy, use of digital biomarkers that can help identify the onset, symptoms, medication-related fluctuations and side-effects, and response to DBS treatment. Through an investigational remote monitoring application (RM app) integrating patient-reported outcomes (PROs) and objective data using wearables, we aimed to develop an accessible, data-driven digital tool to monitor patient symptoms and deliver low-burden and easy-to-access DBS therapy. The platform is designed to be compatible with several consumer-grade wearables and ensures patient data privacy and security. We conducted a feasibility study to test the tool's effectiveness in a large-scale DBS study, where subjects received a home-monitoring kit consisting of an iPhone and Apple Watch, pre-configured with the RM app to enable remote data collection. Compliance in this paper is defined as adherence to the RM app and Apple watch usage. Analysis of 67 subjects from the study demonstrated an average compliance rate of 63.3% for daily check-ins, 85.5% for monthly surveys and 61.9% for passive data with an average of 55 days of post-implant data. The study highlights the feasibility of frequent monitoring in the early post-implant period that could lead to optimal outcomes for patients. The platform developed can further optimize study execution and be extended to other chronic conditions treated with neuromodulation implants such as depression and pain.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 22
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L645920211&from=export
+U2  - L645920211
+C5  - 39598953
+DB  - Medline
+U4  - 2024-12-10
+L2  - http://dx.doi.org/10.3390/s24227175
+DO  - 10.3390/s24227175
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs24227175&atitle=Monitoring+Age-Related+Changes+in+Gait+Complexity+in+the+Wild+with+a+Smartphone+Accelerometer+System&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=24&issue=22&spage=&epage=&aulast=Di+Bacco&aufirst=Vincenzo+E.&auinit=V.E.&aufull=Di+Bacco+V.E.&coden=&isbn=&pages=-&date=2024&auinit1=V&auinitm=E
+A1  - Di Bacco, V.E.
+A1  - Gage, W.H.
+M1  - (Di Bacco V.E.; Gage W.H.) School of Kinesiology and Health Science, York University, Toronto, Canada
+T1  - Monitoring Age-Related Changes in Gait Complexity in the Wild with a Smartphone Accelerometer System
+LA  - English
+KW  - accelerometry
+KW  - adult
+KW  - aged
+KW  - devices
+KW  - female
+KW  - gait
+KW  - human
+KW  - male
+KW  - physiologic monitoring
+KW  - physiology
+KW  - procedures
+KW  - smartphone
+KW  - walking
+KW  - young adult
+N2  - Stride-to-stride fluctuations during walking reflect age-related changes in gait adaptability and are estimated with nonlinear measures that confine data collection to controlled settings. Smartphones, with their embedded accelerometers, may provide accessible gait analysis throughout the day. This study investigated age-related differences in linear and nonlinear gait measures estimated from a smartphone accelerometer (SPAcc) in an unconstrained, free-living environment. Thirteen young adults (YA) and 11 older adults (OA) walked within a shopping mall with a SPAcc placed in their front right pants pocket. The inter-stride interval, calculated as the time difference between ipsilateral heel contacts, was used for dependent measures calculations. One-way repeated-measures analysis of variance revealed significant (p < 0.05) age-related differences (mean: YA, OA) for stride-time standard deviation (0.04 s, 0.05 s) and coefficient of variation (3.47%, 4.16%), sample entropy (SaEn) scale 1 (1.70, 1.86) and scale 3 (2.12, 1.80), and statistical persistence decay (31 strides, 23 strides). The fractal scaling index was not different between groups (0.93, 0.95), but exceeded those typically found in controlled settings, suggesting an upregulation in adaptive behaviour likely to accommodate the increased challenge of free-living walking. These findings support the SPAcc as a viable telehealth instrument for remote monitoring of gait dynamics, with implications for unsupervised fall-risk assessment.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 42
+IS  - 5
+SP  - 1239
+EP  - 1247
+SN  - 0717-9502
+SN  - 0717-9367
+JF  - International Journal of Morphology
+JO  - Int. J. Morphol.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2031766599&from=export
+U2  - L2031766599
+DB  - Embase
+U3  - 2024-11-15
+U4  - 2024-11-19
+L2  - http://dx.doi.org/10.4067/S0717-95022024000501239
+DO  - 10.4067/S0717-95022024000501239
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=07179502&id=doi:10.4067%2FS0717-95022024000501239&atitle=Low-Cost+and+Accessible+Scale+Body+Maceration+Control+System%3A+Integration+of+Internet+of+Things-NodeMCU+with+Arduino-IDE&stitle=Int.+J.+Morphol.&title=International+Journal+of+Morphology&volume=42&issue=5&spage=1239&epage=1247&aulast=Rivera&aufirst=Javier&auinit=J.&aufull=Rivera+J.&coden=&isbn=&pages=1239-1247&date=2024&auinit1=J&auinitm=
+A1  - Rivera, J.
+A1  - Salinas, P.
+M1  - (Rivera J.; Salinas P., paulo.salinas@pucv.cl) Laboratory of Animal & Experimental Morphology, Institute of Biology, Faculty of Sciences, Pontificia Universidad Católica de Valparaíso, Valparaíso, Chile
+AD  - P. Salinas, Pontificia Universidad Católica de Valparaíso, Chile
+T1  - Low-Cost and Accessible Scale Body Maceration Control System: Integration of Internet of Things-NodeMCU with Arduino-IDE
+T2  - Sistema de Control de Maceración Corporal a Escala Accesible y de Bajo Costo: Integración de Internet de las Cosas-NodeMCU con Arduino-IDE
+LA  - English
+KW  - aquarium heater
+KW  - biochip
+KW  - biosensor
+KW  - card reader
+KW  - device material
+KW  - digital temperature sensor
+KW  - magnet
+KW  - magnetic stirrer
+KW  - potentiometer
+KW  - scale body maceration control system
+KW  - thermal sensor
+KW  - thermostat
+KW  - animal experiment
+KW  - article
+KW  - controlled study
+KW  - cost benefit model
+KW  - feasibility study
+KW  - human
+KW  - image analysis
+KW  - information processing
+KW  - internet of things
+KW  - mouse
+KW  - nonhuman
+KW  - robotics
+KW  - software
+KW  - technology
+N2  - The rapid advancement of the Internet of Things (IoT) has transformed our lives by connecting objects and creating an intelligent environment that drives automation and massive data collection. IoT has overcome challenges through remote monitoring, robotics, and sensors, with powerful wireless technologies opening up possibilities in various fields, including anatomical techniques. The objective of this study is to demonstrate the feasibility and benefits of integrating IoT technology into the body maceration process by developing a low-cost, accessible, automated maceration control device compatible with theArduino IDE programming environment. Using an open-source NodeMCU system based on the ESP-12E chip, which employs the LUA programming language and is compatible with Arduino IDE, we incorporated a microSD card reader module for data storage, a digital temperature sensor (DS18B20), a clock module (DS3231), a magnetic stirrer, and an aquarium heater controlled by a digital thermostat with relay (W1209). To validate the device, we conducted maceration tests on C57BL mice, comparing two groups: Control (n=5; weight=17g) subjected to maceration in 4 liters of water at 10°C without agitation; Experimental (n=5; weight=17g) exposed to maceration in 4 liters of water at 35°C, with agitation at 1500 r/min and water flow renewal at a rate of 900 ml/h. Specimens were evaluated for their degree of maceration, cleaned, weighed, and photographed. The maceration time for the control and experimental groups was 730 hours and 60 hours, respectively. In the experimental group, no foul odors, damage, or bone demineralization were detected. The device cost was 60 USD, and programming through the Arduino IDE environment was straightforward. The focus on hardware contributed to accessibility and time savings. The system operated with a conventional power supply and required a water supply, making it adaptable to various configurations with greater capacity. Under this configuration, we effectively controlled the variables (temperature, agitation, and water flow). The NodeMCU-based bone maceration system improved the performance and adaptability of existing systems and increased accessibility by reducing costs, complexity, and foul odors.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 52
+IS  - 10
+SN  - 1473-2300
+SN  - 0300-0605
+JF  - Journal of International Medical Research
+JO  - J. Int. Med. Res.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2031808066&from=export
+U2  - L2031808066
+C5  - 39387211
+DB  - Embase
+DB  - Medline
+U3  - 2024-10-28
+U4  - 2024-10-29
+L2  - http://dx.doi.org/10.1177/03000605241281425
+DO  - 10.1177/03000605241281425
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14732300&id=doi:10.1177%2F03000605241281425&atitle=Improving+patient+outcomes+in+acute+and+subacute+stroke+using+a+wearable+device-assisted+rehabilitation+system%3A+a+randomized+controlled+trial&stitle=J.+Int.+Med.+Res.&title=Journal+of+International+Medical+Research&volume=52&issue=10&spage=&epage=&aulast=Ho&aufirst=Hsin-Ju&auinit=H.-J.&aufull=Ho+H.-J.&coden=JIMRB&isbn=&pages=-&date=2024&auinit1=H&auinitm=-J
+A1  - Ho, H.-J.
+A1  - Wu, L.-C.
+A1  - Wu, E.H.-K.
+A1  - Lee, S.-F.
+A1  - Lee, T.-H.
+A1  - Chiang, S.-H.
+A1  - Chen, C.-H.
+A1  - Chen, H.-Y.
+A1  - Pan, S.-J.
+A1  - Chen, Y.-W.
+M1  - (Ho H.-J.; Wu L.-C.) Department of Biomedical Science and Engineering, National Central University, Taoyuan, Taiwan
+M1  - (Wu E.H.-K.) Department of Computer Science and Information Engineering, National Central University, Taoyuan, Taiwan
+M1  - (Lee S.-F.; Chiang S.-H.; Chen C.-H.) Rehabilitation Therapy Center, Landseed International Hospital, Taoyuan, Taiwan
+M1  - (Lee T.-H.; Chen H.-Y.; Pan S.-J.) Department of Rehabilitation, Antai Medical Care Corporation, Antai Tian-Sheng Memorial Hospital, Pingtung, Taiwan
+M1  - (Chen Y.-W., yuwchen@gmail.com) Department of Neurology, Landseed International Hospital, Taoyuan, Taiwan
+M1  - (Chen Y.-W., yuwchen@gmail.com) Department of Neurology, National Taiwan University Hospital, Taipei, Taiwan
+M1  - (Chen Y.-W., yuwchen@gmail.com) Center for General Education, National Central University, Taoyuan, Taiwan
+M1  - ()
+AD  - Y.-W. Chen, Department of Neurology, Landseed International Hospital, Taoyuan, Taiwan
+T1  - Improving patient outcomes in acute and subacute stroke using a wearable device-assisted rehabilitation system: a randomized controlled trial
+LA  - English
+KW  - NCT04997408
+KW  - smartphone
+KW  - wearable device
+KW  - adult
+KW  - aged
+KW  - algorithm
+KW  - article
+KW  - Barthel index
+KW  - Berg Balance Scale
+KW  - cerebrovascular accident
+KW  - controlled study
+KW  - daily life activity
+KW  - exercise
+KW  - female
+KW  - follow up
+KW  - Functional Independence Measure
+KW  - gait
+KW  - grip strength
+KW  - human
+KW  - locomotion
+KW  - male
+KW  - middle aged
+KW  - National Institutes of Health Stroke Scale
+KW  - neuromuscular facilitation
+KW  - occupational therapy
+KW  - outcome assessment
+KW  - physical activity
+KW  - physiotherapy
+KW  - questionnaire
+KW  - randomized controlled trial
+KW  - Rankin scale
+KW  - rehabilitation center
+KW  - remote sensing
+KW  - sensitivity and specificity
+KW  - six minute walk test
+KW  - stroke patient
+KW  - stroke rehabilitation
+KW  - subarachnoid hemorrhage
+KW  - traditional medicine
+KW  - treatment outcome
+N2  - Objective: Multidisciplinary rehabilitation facilitates post-stroke functional recovery, but is associated with resource and accessibility barriers. This study evaluated the combination of a wearable device-assisted system (WEAR) and conventional therapy for post-stroke rehabilitation. Methods: This randomized, controlled, parallel group, clinical trial was conducted at two rehabilitation centers. A WEAR system was developed featuring sensors and application program-embedded smartphones. Stroke patients within 12 weeks of onset and modified Rankin Scale (mRS) scores of 2 to 4 were randomized into a wearable group (WG, WEAR + conventional rehabilitation) or control group (CG, conventional rehabilitation) for 90 days. The primary outcome was mRS score changes within 90 days. Results: Among 127 stroke patients enrolled (76 men [59.8%]; mean age: 57.5 years), 63 and 64 patients were randomized to WG and CG, respectively. Both groups showed significant improvements in mRS scores. Between-group repeated measures analysis adjusted for sex, age and number of rehabilitation sessions showed greater improvement in mRS scores within 90 days in the WG than in the CG (estimate: 0.73). Conclusions: This combined WEAR and conventional rehabilitation approach may improve post-stroke functional recovery compared with conventional rehabilitation alone. The WEAR system permits remote monitoring and recording of rehabilitation in various settings. This clinical trial was retrospectively registered at www.clinicaltrials.gov with the Unique Identifier NCT04997408.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 318
+SP  - 138
+EP  - 143
+SN  - 1879-8365
+JF  - Studies in health technology and informatics
+JO  - Stud Health Technol Inform
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L645370368&from=export
+U2  - L645370368
+C5  - 39320195
+DB  - Medline
+U4  - 2024-10-01
+L2  - http://dx.doi.org/10.3233/SHTI240905
+DO  - 10.3233/SHTI240905
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18798365&id=doi:10.3233%2FSHTI240905&atitle=Optimising+Personalised+Medical+Insights+by+Introducing+a+Scalable+Health+Informatics+Application+for+Sensor+Data+Extraction%2C+Preprocessing%2C+and+Analysis&stitle=Stud+Health+Technol+Inform&title=Studies+in+health+technology+and+informatics&volume=318&issue=&spage=138&epage=143&aulast=Hettiarachchi&aufirst=Chirath&auinit=C.&aufull=Hettiarachchi+C.&coden=&isbn=&pages=138-143&date=2024&auinit1=C&auinitm=
+A1  - Hettiarachchi, C.
+A1  - Vlieger, R.
+A1  - Ge, W.
+A1  - Apthorp, D.
+A1  - Daskalaki, E.
+A1  - Brüstle, A.
+A1  - Suominen, H.
+M1  - (Hettiarachchi C.; Vlieger R.; Ge W.; Apthorp D.; Daskalaki E.; Brüstle A.; Suominen H.) Australian National University, Australia
+M1  - (Apthorp D.) University of New England, Australia
+M1  - (Suominen H.) University of Turku, Finland
+T1  - Optimising Personalised Medical Insights by Introducing a Scalable Health Informatics Application for Sensor Data Extraction, Preprocessing, and Analysis
+LA  - English
+KW  - human
+KW  - machine learning
+KW  - personalized medicine
+KW  - wearable computer
+N2  - Wearable sensors, among other informatics solutions, are readily accessible to enable noninvasive remote monitoring in healthcare. While providing a wealth of data, the wide variety of such sensing systems and the differing implementations of the same or similar sensors by different developers complicate comparisons of collected data. An online application as a platform technology that provides uniform methods for analysing balance data is presented as a case study. The development of balance problems is common in neurodegenerative conditions, leading to falls and a reduced quality of life. While balance can be assessed using, for example, perturbation tests, sensors offer a more quantitative and scalable way. Researchers can adjust the platform to integrate the sensors of their choice or upload data and then preprocess, featurise, analyse, and visualise them. This eases performing comparative analyses across the sensors and datasets through a reduction of heterogeneity and facilitates easy integration of machine learning and other advanced data analytics, thereby targeting personalising medical insights.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 24
+IS  - 3
+SN  - 1424-8220
+JF  - Sensors (Basel, Switzerland)
+JO  - Sensors (Basel)
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L643471147&from=export
+U2  - L643471147
+C5  - 38339656
+DB  - Medline
+U3  - 2024-02-19
+L2  - http://dx.doi.org/10.3390/s24030938
+DO  - 10.3390/s24030938
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=14248220&id=doi:10.3390%2Fs24030938&atitle=PUFchain+3.0%3A+Hardware-Assisted+Distributed+Ledger+for+Robust+Authentication+in+Healthcare+Cyber-Physical+Systems&stitle=Sensors+%28Basel%29&title=Sensors+%28Basel%2C+Switzerland%29&volume=24&issue=3&spage=&epage=&aulast=Bathalapalli&aufirst=Venkata+K+V+V&auinit=V.K.V.V.&aufull=Bathalapalli+V.K.V.V.&coden=&isbn=&pages=-&date=2024&auinit1=V&auinitm=K.V.V.
+A1  - Bathalapalli, V.K.V.V.
+A1  - Mohanty, S.P.
+A1  - Kougianos, E.
+A1  - Iyer, V.
+A1  - Rout, B.
+M1  - (Bathalapalli V.K.V.V.; Mohanty S.P.) Department of Computer Science and Engineering, University of North Texas, TX 76203, Denton, United States
+M1  - (Kougianos E.) Department of Electrical Engineering, University of North Texas, TX 76203, Denton, United States
+M1  - (Iyer V.) Department of Computer Science and Digital Technologies, Grambling State University, Grambling, United States
+M1  - (Rout B.) Department of Physics, University of North Texas, Denton, United States
+T1  - PUFchain 3.0: Hardware-Assisted Distributed Ledger for Robust Authentication in Healthcare Cyber-Physical Systems
+LA  - English
+N2  - This article presents a novel hardware-assisted distributed ledger-based solution for simultaneous device and data security in smart healthcare. This article presents a novel architecture that integrates PUF, blockchain, and Tangle for Security-by-Design (SbD) of healthcare cyber-physical systems (H-CPSs). Healthcare systems around the world have undergone massive technological transformation and have seen growing adoption with the advancement of Internet-of-Medical Things (IoMT). The technological transformation of healthcare systems to telemedicine, e-health, connected health, and remote health is being made possible with the sophisticated integration of IoMT with machine learning, big data, artificial intelligence (AI), and other technologies. As healthcare systems are becoming more accessible and advanced, security and privacy have become pivotal for the smooth integration and functioning of various systems in H-CPSs. In this work, we present a novel approach that integrates PUF with IOTA Tangle and blockchain and works by storing the PUF keys of a patient's Body Area Network (BAN) inside blockchain to access, store, and share globally. Each patient has a network of smart wearables and a gateway to obtain the physiological sensor data securely. To facilitate communication among various stakeholders in healthcare systems, IOTA Tangle's Masked Authentication Messaging (MAM) communication protocol has been used, which securely enables patients to communicate, share, and store data on Tangle. The MAM channel works in the restricted mode in the proposed architecture, which can be accessed using the patient's gateway PUF key. Furthermore, the successful verification of PUF enables patients to securely send and share physiological sensor data from various wearable and implantable medical devices embedded with PUF. Finally, healthcare system entities like physicians, hospital admin networks, and remote monitoring systems can securely establish communication with patients using MAM and retrieve the patient's BAN PUF keys from the blockchain securely. Our experimental analysis shows that the proposed approach successfully integrates three security primitives, PUF, blockchain, and Tangle, providing decentralized access control and security in H-CPS with minimal energy requirements, data storage, and response time.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 6
+SN  - 2673-253X
+JF  - Frontiers in Digital Health
+JO  - Front. Digit. Health
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2028853757&from=export
+U2  - L2028853757
+DB  - Embase
+U3  - 2024-03-07
+U4  - 2024-03-12
+L2  - http://dx.doi.org/10.3389/fdgth.2024.1259409
+DO  - 10.3389/fdgth.2024.1259409
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=2673253X&id=doi:10.3389%2Ffdgth.2024.1259409&atitle=Experiences%2C+barriers+and+expectations+regarding+current+patient+monitoring+systems+among+ICU+nurses+in+a+University+Hospital+in+Lebanon%3A+a+qualitative+study&stitle=Front.+Digit.+Health&title=Frontiers+in+Digital+Health&volume=6&issue=&spage=&epage=&aulast=Rayan&aufirst=Ahmad&auinit=A.&aufull=Rayan+A.&coden=&isbn=&pages=-&date=2024&auinit1=A&auinitm=
+A1  - Rayan, A.
+A1  - Al-Ghabeesh, S.H.
+A1  - Fawaz, M.
+A1  - Behar, A.
+A1  - Toumi, A.
+M1  - (Rayan A.) Faculty of Nursing, Zarqa University, Zarqa, Jordan
+M1  - (Rayan A.) University of Business and Technology (UBT), Jeddah, Saudi Arabia
+M1  - (Al-Ghabeesh S.H., suhair_alghabeesh@yahoo.com) Faculty of Nursing, Al-Zaytoonah University of Jordan, Amman, Jordan
+M1  - (Fawaz M.; Behar A.) Department Faculty of Health Sciences, Beirut Arab University, Beirut, Lebanon
+M1  - (Toumi A.) Health Information Management Department, Liwa College of Technology, Abu Dhabi, United Arab Emirates
+AD  - S.H. Al-Ghabeesh, Faculty of Nursing, Al-Zaytoonah University of Jordan, Amman, Jordan
+T1  - Experiences, barriers and expectations regarding current patient monitoring systems among ICU nurses in a University Hospital in Lebanon: a qualitative study
+LA  - English
+KW  - patient monitor
+KW  - adult
+KW  - article
+KW  - awareness
+KW  - clinical article
+KW  - data analysis
+KW  - education
+KW  - female
+KW  - health care personnel
+KW  - health care quality
+KW  - human
+KW  - human experiment
+KW  - intensive care unit
+KW  - job experience
+KW  - male
+KW  - marriage
+KW  - normal human
+KW  - nurse
+KW  - qualitative research
+KW  - semi structured interview
+KW  - university hospital
+N2  - Purpose: The aim of the study is to assess the experiences, barriers, and expectations regarding current patient monitoring systems among intensive care unit nurses at one university hospital. Methods: A qualitative exploratory study approach was adopted to test the research questions. Results: Intensive care unit personnel placed a high value on practical criteria such as user friendliness and visualization while assessing the present monitoring system. Poor alarm handling was recognized as possible patient safety hazards. The necessity of high accessibility was highlighted once again for a prospective system; wireless, noninvasive, and interoperability of monitoring devices were requested; and smart phones for distant patient monitoring and alert management improvement were required. Conclusion: Core comments from ICU personnel are included in this qualitative research on patient monitoring. All national healthcare involved parties must focus more on user-derived insights to ensure a speedy and effective introduction of digital health technologies in the ICU. The findings from the alarm control or mobile device studies might be utilized to train ICU personnel to use new technology, minimize alarm fatigue, increase medical device accessibility, and develop interoperability standards in critical care practice.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2024
+VL  - 32
+SP  - 967
+EP  - 973
+SN  - 1558-0210
+SN  - 1534-4320
+JF  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+JO  - IEEE Trans. Neural Syst. Rehabil. Eng.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2030673427&from=export
+U2  - L2030673427
+C5  - 38373134
+DB  - Embase
+DB  - Medline
+U3  - 2024-03-05
+U4  - 2024-04-02
+L2  - http://dx.doi.org/10.1109/TNSRE.2024.3366903
+DO  - 10.1109/TNSRE.2024.3366903
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15580210&id=doi:10.1109%2FTNSRE.2024.3366903&atitle=Assessing+Free-Living+Postural+Sway+in+Persons+with+Multiple+Sclerosis&stitle=IEEE+Trans.+Neural+Syst.+Rehabil.+Eng.&title=IEEE+Transactions+on+Neural+Systems+and+Rehabilitation+Engineering&volume=32&issue=&spage=967&epage=973&aulast=Depetrillo&aufirst=Paolo&auinit=P.&aufull=Depetrillo+P.&coden=ITNSB&isbn=&pages=967-973&date=2024&auinit1=P&auinitm=
+A1  - Meyer, B.M.
+A1  - Cohen, J.G.
+A1  - Depetrillo, P.
+A1  - Ceruolo, M.
+A1  - Jangraw, D.
+A1  - Cheney, N.
+A1  - Solomon, A.J.
+A1  - McGinnis, R.S.
+M1  - (Depetrillo P., paolo.depetrillo@3ds.com; Ceruolo M., melissa.ceruolo@3ds.com) Dassault Systèmes Company, Medidata Systems, New York City, NY, United States
+M1  - (Cheney N., ncheney@uvm.edu) University of Vermont, Department of Computer Science, Burlington, VT, United States
+M1  - (Solomon A.J., andrew.solomon@uvm.edu) University of Vermont, Department of Neurological Sciences, Burlington, VT, United States
+M1  - (Meyer B.M., brett.meyer@uvm.edu; Cohen J.G., jenna.g.cohen@uvm.edu; Jangraw D., david.jangraw@uvm.edu; McGinnis R.S., ryan.mcginnis@uvm.edu) University of Vermont, Department of Electrical and Biomedical Engineering, Burlington, VT, United States
+M1  - (McGinnis R.S., ryan.mcginnis@uvm.edu) Wake Forest University School of Medicine, Department of Biomedical Engineering, Winston-Salem, NC, United States
+AD  - R.S. Mcginnis, University of Vermont, Department of Electrical and Biomedical Engineering, Burlington, VT, United States
+T1  - Assessing Free-Living Postural Sway in Persons with Multiple Sclerosis
+LA  - English
+KW  - accelerometer
+KW  - sensor
+KW  - wearable device
+KW  - adult
+KW  - area under the curve
+KW  - article
+KW  - artificial neural network
+KW  - balance impairment
+KW  - body equilibrium
+KW  - clinical article
+KW  - controlled study
+KW  - daily life activity
+KW  - deep learning
+KW  - diagnostic test accuracy study
+KW  - Expanded Disability Status Scale
+KW  - Fatigue Impact Scale
+KW  - female
+KW  - human
+KW  - k means clustering
+KW  - long short term memory network
+KW  - machine learning
+KW  - male
+KW  - middle aged
+KW  - multiple sclerosis
+KW  - Multiple Sclerosis Walking Scale
+KW  - patient monitoring
+KW  - patient-reported outcome
+KW  - predictive value
+KW  - quality of life
+KW  - receiver operating characteristic
+KW  - remote sensing
+KW  - sensitivity and specificity
+KW  - sitting
+KW  - sternoclavicular joint
+KW  - support vector machine
+N2  - Postural instability is associated with disease status and fall risk in Persons with Multiple Sclerosis (PwMS). However, assessments of postural instability, known as postural sway, leverage force platforms or wearable accelerometers, and are most often conducted in laboratory environments and are thus not broadly accessible. Remote measures of postural sway captured during daily life may provide a more accessible alterative, but their ability to capture disease status and fall risk has not yet been established. We explored the utility of remote measures of postural sway in a sample of 33 PwMS. Remote measures of sway differed significantly from lab-based measures, but still demonstrated moderately strong associations with patient-reported measures of balance and mobility impairment. Machine learning models for predicting fall risk trained on lab data provided an Area Under Curve (AUC) of 0.79, while remote data only achieved an AUC of 0.51. Remote model performance improved to an AUC of 0.74 after a new, subject-specific k-means clustering approach was applied for identifying the remote data most appropriate for modelling. This cluster-based approach for analyzing remote data also strengthened associations with patient-reported measures, increasing their strength above those observed in the lab. This work introduces a new framework for analyzing data from remote patient monitoring technologies and demonstrates the promise of remote postural sway assessment for assessing fall risk and characterizing balance impairment in PwMS.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 15
+IS  - 1
+SN  - 2052-1847
+JF  - BMC Sports Science, Medicine and Rehabilitation
+JO  - BMC Sports Sci. Med. Rehabil.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2022224179&from=export
+U2  - L2022224179
+DB  - Embase
+U3  - 2023-04-03
+U4  - 2023-04-12
+L2  - http://dx.doi.org/10.1186/s13102-023-00650-2
+DO  - 10.1186/s13102-023-00650-2
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20521847&id=doi:10.1186%2Fs13102-023-00650-2&atitle=Home-based+cardio-oncology+rehabilitation+using+a+telerehabilitation+platform+in+hematological+cancer+survivors%3A+a+feasibility+study&stitle=BMC+Sports+Sci.+Med.+Rehabil.&title=BMC+Sports+Science%2C+Medicine+and+Rehabilitation&volume=15&issue=1&spage=&epage=&aulast=Filakova&aufirst=Katerina&auinit=K.&aufull=Filakova+K.&coden=&isbn=&pages=-&date=2023&auinit1=K&auinitm=
+A1  - Filakova, K.
+A1  - Janikova, A.
+A1  - Felsoci, M.
+A1  - Dosbaba, F.
+A1  - Su, J.J.
+A1  - Pepera, G.
+A1  - Batalik, L.
+M1  - (Filakova K.; Dosbaba F.; Batalik L., batalik.ladislav@fnbrno.cz) Department of Rehabilitation, University Hospital Brno, Brno, Czech Republic
+M1  - (Filakova K.) Department of Rehabilitation and Sports Medicine, 2nd Faculty of Medicine, Charles University, University Hospital Motol, Prague, Czech Republic
+M1  - (Janikova A.) Department of Internal Medicine–Hematology and Oncology, University Hospital Brno, Brno, Czech Republic
+M1  - (Felsoci M.) Department of Internal Medicine and Cardiology, University Hospital Brno, Brno, Czech Republic
+M1  - (Su J.J.) School of Nursing, The Hong Kong Polytechnic University, Hong Kong
+M1  - (Pepera G.) Clinical Exercise Physiology and Rehabilitation Research Laboratory, Physiotherapy Department, School of Health Sciences, University of Thessaly, Lamia, Greece
+M1  - (Batalik L., batalik.ladislav@fnbrno.cz) Department of Public Health, Faculty of Medicine, Masaryk University, Brno, Czech Republic
+AD  - L. Batalik, Department of Public Health, Faculty of Medicine, Masaryk University, Brno, Czech Republic
+T1  - Home-based cardio-oncology rehabilitation using a telerehabilitation platform in hematological cancer survivors: a feasibility study
+LA  - English
+KW  - NCT04822389
+KW  - activity tracker
+KW  - bicycle ergometer
+KW  - body composition analyzer
+KW  - cardiovascular monitoring device
+KW  - heart rate sensor
+KW  - PolarFlow
+KW  - stadiometer
+KW  - tonometer
+KW  - wearable sensor
+KW  - rituximab
+KW  - adult
+KW  - adverse outcome
+KW  - aged
+KW  - anthropometry
+KW  - article
+KW  - body composition
+KW  - cancer rehabilitation
+KW  - cancer survivor
+KW  - cardio oncology rehabilitation
+KW  - cardiologist
+KW  - cardiorespiratory fitness
+KW  - clinical article
+KW  - clinical effectiveness
+KW  - cold
+KW  - Czech Republic
+KW  - exercise
+KW  - fatigue
+KW  - feasibility study
+KW  - female
+KW  - Finland
+KW  - follicular lymphoma
+KW  - health care facility
+KW  - heart rate measurement
+KW  - heart rehabilitation
+KW  - hematologic malignancy
+KW  - home care
+KW  - hospital discharge
+KW  - human
+KW  - intervention study
+KW  - maintenance therapy
+KW  - male
+KW  - myalgia
+KW  - patient compliance
+KW  - patient safety
+KW  - patient satisfaction
+KW  - physiotherapist
+KW  - prospective study
+KW  - statistical significance
+KW  - telemonitoring
+KW  - telephone interview
+KW  - telerehabilitation
+KW  - university hospital
+KW  - walking
+KW  - workload
+KW  - PolarFlow
+C3  - PolarFlow
+C4  - Ergoline(Germany)
+C4  - Kern(Germany)
+C4  - cami group(Italy)
+C4  - InBody(North Korea)
+N2  - Purpose: Cardiovascular disease is a competing mortality cause in hematological cancer survivors due to toxic oncological treatment, accumulation of risk factors, and decline of cardiorespiratory fitness. Cardio-oncology rehabilitation (CORE) is an emerging treatment model to optimize the prognosis of hematological cancer patients and survivors; however, its accessibility during the COVID-19 pandemic is poor. The study aimed to evaluate the feasibility, safety, and effect of a 12-week home-based CORE intervention in telerehabilitation approach among hematological cancer survivors. Methods: A prospective single-arm interventional study was conducted at a faculty hospital in Brno, Czech Republic. This study provided 12 weeks of the home-based CORE using a telerehabilitation approach that allows remote supervision by a clinician from a medical facility. The telerehabilitation approach consists of three components: a heart rate sensor (PolarM430, Kempele, Finland), a web platform compatible with the sensor, and telesupervising via telephone call (1 call per week). To improve adherence, a physiotherapist called participants to assess or address adverse effects, exercise feedback, and participant-related concerns. The anthropometry, body composition, and cardiorespiratory fitness were measured immediately after the intervention. Results: Eleven hematological cancer survivors with an average age of 60.3 ± 10 years participated in the study. Most participants were diagnosed with Follicular lymphoma and received maintenance treatment. Participants had a significant (p < 0.05) increase in cardiorespiratory fitness by 2.6 ml/kg/min; and in peak workload, from 143.3 ± 60.6 W to 158.6 ± 67.5 W (p < 0.05). Improvement in anthropometry and body composition was observed but yielded no statistical significance. Most (80%) participants completed the three times/per week telesupervising exercise session for 12 weeks.No adverse event was identified. Conclusion: Findings from this study suggest that home-based CORE may provide hematological cancer survivors with an increase in CRF during the rehabilitation period after hospital discharge. The telerehabilitation CORE model is effective, feasible, safe, and has demonstrated good adherence. Further randomized controlled efficacy study with larger sample size is needed before clinical implementation. Clinical trial registration: Clinical trial registration number NCT04822389 (30/03/2021).
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 13
+IS  - 1
+SP  - 15207
+SN  - 2045-2322
+JF  - Scientific reports
+JO  - Sci Rep
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L642279357&from=export
+U2  - L642279357
+C5  - 37709819
+DB  - Medline
+U3  - 2023-09-21
+U4  - 2023-09-25
+L2  - http://dx.doi.org/10.1038/s41598-023-42229-4
+DO  - 10.1038/s41598-023-42229-4
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=20452322&id=doi:10.1038%2Fs41598-023-42229-4&atitle=Tele-monitoring+system+for+intensive+care+ventilators+in+isolation+rooms&stitle=Sci+Rep&title=Scientific+reports&volume=13&issue=1&spage=15207&epage=&aulast=Kim&aufirst=Su+Hyeon&auinit=S.H.&aufull=Kim+S.H.&coden=&isbn=&pages=15207-&date=2023&auinit1=S&auinitm=H
+A1  - Kim, S.H.
+A1  - Seo, H.-C.
+A1  - Choi, S.
+A1  - Joo, S.
+M1  - (Kim S.H.; Choi S.; Joo S., sgjoo@amc.seoul.kr) Department of Biomedical Engineering, Asan Medical Institute of Convergence Science and Technology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea
+M1  - (Seo H.-C.) Digital Therapeutics Research Center, Smart Healthcare Research Institute, Samsung Medical Center, Seoul, South Korea
+T1  - Tele-monitoring system for intensive care ventilators in isolation rooms
+LA  - English
+KW  - mechanical ventilator
+KW  - coronavirus disease 2019
+KW  - human
+KW  - intensive care
+KW  - intensive care unit
+KW  - pandemic
+N2  - The COVID-19 pandemic and discovery of new mutant strains have a devastating impact worldwide. Patients with severe COVID-19 require various equipment, such as ventilators, infusion pumps, and patient monitors, and a dedicated medical team to operate and monitor the equipment in isolated intensive care units (ICUs). Medical staff must wear personal protective equipment to reduce the risk of infection. This study proposes a tele-monitoring system for isolation ICUs to assist in the monitoring of COVID-19 patients. The tele-monitoring system consists of three parts: medical-device panel image processing, transmission, and tele-monitoring. This system can monitor the ventilator screen with obstacles, receive and store data, and provide real-time monitoring and data analysis. The proposed tele-monitoring system is compared with previous studies, and the image combination algorithm for reconstruction is evaluated using structural similarity index (SSIM) and peak signal-to-noise ratio (PSNR). The system achieves an SSIM score of 0.948 in the left side and a PSNR of 23.414 dB in the right side with no obstacles. It also reduces blind spots, with an SSIM score of 0.901 and a PSNR score of 18.13 dB. The proposed tele-monitoring system is compatible with both wired and wireless communication, making it accessible in various situations. It uses camera and performs live data monitoring, and the two monitoring systems complement each other. The system also includes a comprehensive database and an analysis tool, allowing medical staff to collect and analyze data on ventilator use, providing them a quick, at-a-glance view of the patient's condition. With the implementation of this system, patient outcomes may be improved and the burden on medical professionals may be reduced during the COVID-19 pandemic-like situations.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 37
+IS  - 4
+SP  - 169
+EP  - 176
+SN  - 1538-9782
+JF  - Clinical nurse specialist CNS
+JO  - Clin Nurse Spec
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L641757239&from=export
+U2  - L641757239
+C5  - 37410561
+DB  - Medline
+U3  - 2023-07-13
+U4  - 2023-07-14
+L2  - http://dx.doi.org/10.1097/NUR.0000000000000755
+DO  - 10.1097/NUR.0000000000000755
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15389782&id=doi:10.1097%2FNUR.0000000000000755&atitle=Interface+of+Clinical+Nurse+Specialist+Practice+and+Healthcare+Technology&stitle=Clin+Nurse+Spec&title=Clinical+nurse+specialist+CNS&volume=37&issue=4&spage=169&epage=176&aulast=Smith&aufirst=Justin+M.&auinit=J.M.&aufull=Smith+J.M.&coden=&isbn=&pages=169-176&date=2023&auinit1=J&auinitm=M
+A1  - Smith, J.M.
+A1  - Pearson, K.K.
+A1  - Roberson, A.E.
+M1  - (Smith J.M.) Author Affiliations: Department of Nursing, Mayo Clinic, Rochester, MN, United States
+M1  - (Pearson K.K.; Roberson A.E.)
+T1  - Interface of Clinical Nurse Specialist Practice and Healthcare Technology
+LA  - English
+KW  - clinical nurse specialist
+KW  - health care delivery
+KW  - human
+KW  - nurse attitude
+KW  - patient care team
+KW  - technology
+N2  - PURPOSE: This article demonstrates the leadership role of the clinical nurse specialist in developing and implementing healthcare technology across the continuum of care. DESCRIPTION: Three virtual nursing practices-facilitated self-care, remote patient monitoring, and virtual acute care nursing-illustrate how the clinical nurse specialist is well suited to transform traditional practice models to ones that use healthcare technology effectively. These 3 practices use interactive healthcare technology to gather patient data and allow communication and coordination with the healthcare team to meet patient-specific needs. OUTCOME: Use of healthcare technology in virtual nursing practices led to early care team intervention, optimized care team processes, proactive patient outreach, timely access to care, and reduction in healthcare-associated errors and near-miss events. CONCLUSION: Clinical nurse specialists are well positioned to develop innovative, effective, accessible, and high-quality virtual nursing practices. Integrating healthcare technology with nursing practice augments care for various patients, ranging from those with low illness severity in the outpatient setting to acutely ill patients in the inpatient hospital environment.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 5
+SN  - 2673-253X
+JF  - Frontiers in Digital Health
+JO  - Front. Digit. Health
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2025783891&from=export
+U2  - L2025783891
+DB  - Embase
+U3  - 2023-10-10
+U4  - 2023-10-11
+L2  - http://dx.doi.org/10.3389/fdgth.2023.1253087
+DO  - 10.3389/fdgth.2023.1253087
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=2673253X&id=doi:10.3389%2Ffdgth.2023.1253087&atitle=ZotCare%3A+a+flexible%2C+personalizable%2C+and+affordable+mhealth+service+provider&stitle=Front.+Digit.+Health&title=Frontiers+in+Digital+Health&volume=5&issue=&spage=&epage=&aulast=Labbaf&aufirst=Sina&auinit=S.&aufull=Labbaf+S.&coden=&isbn=&pages=-&date=2023&auinit1=S&auinitm=
+A1  - Labbaf, S.
+A1  - Abbasian, M.
+A1  - Azimi, I.
+A1  - Dutt, N.
+A1  - Rahmani, A.M.
+M1  - (Labbaf S., slabbaf@uci.edu; Abbasian M.; Dutt N.; Rahmani A.M.) Department of Computer Science, University of California,Irvine, Irvine, CA, United States
+M1  - (Azimi I.; Dutt N.; Rahmani A.M.) Institute for Future Health, University of California, Irvine, Irvine, CA, United States
+M1  - (Rahmani A.M.) School of Nursing, University of California,Irvine, Irvine, CA, United States
+AD  - S. Labbaf, Department of Computer Science, University of California,Irvine, Irvine, CA, United States
+T1  - ZotCare: a flexible, personalizable, and affordable mhealth service provider
+LA  - English
+KW  - accelerometer
+KW  - mobile health application
+KW  - air pressure
+KW  - article
+KW  - artificial intelligence
+KW  - clinical decision support system
+KW  - communication skill
+KW  - cost effectiveness analysis
+KW  - cybernetics
+KW  - ecological momentary assessment
+KW  - electrocardiogram
+KW  - health care delivery
+KW  - health care organization
+KW  - health data
+KW  - health service
+KW  - human
+KW  - Internet
+KW  - internet of things
+KW  - luminance
+KW  - medical informatics
+KW  - medical research
+KW  - medication compliance
+KW  - mental health
+KW  - mindfulness
+KW  - mobile health service
+KW  - patient monitoring
+KW  - photoelectric plethysmography
+KW  - questionnaire
+KW  - telemonitoring
+KW  - training
+KW  - workload
+N2  - The proliferation of Internet-connected health devices and the widespread availability of mobile connectivity have resulted in a wealth of reliable digital health data and the potential for delivering just-in-time interventions. However, leveraging these opportunities for health research requires the development and deployment of mobile health (mHealth) applications, which present significant technical challenges for researchers. While existing mHealth solutions have made progress in addressing some of these challenges, they often fall short in terms of time-to-use, affordability, and flexibility for personalization and adaptation. ZotCare aims to address these limitations by offering ready-to-use and flexible services, providing researchers with an accessible, cost-effective, and adaptable solution for their mHealth studies. This article focuses on ZotCare’s service orchestration and highlights its capabilities in creating a programmable environment for mHealth research. Additionally, we showcase several successful research use cases that have utilized ZotCare, both in the past and in ongoing projects. Furthermore, we provide resources and information for researchers who are considering ZotCare as their mHealth research solution.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2023
+VL  - 2023
+SN  - 1687-6423
+SN  - 1687-6415
+JF  - International Journal of Telemedicine and Applications
+JO  - Int. J. Telemed. Appl.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2028870015&from=export
+U2  - L2028870015
+DB  - Embase
+U3  - 2023-12-12
+U4  - 2024-01-16
+L2  - http://dx.doi.org/10.1155/2023/9965226
+DO  - 10.1155/2023/9965226
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=16876423&id=doi:10.1155%2F2023%2F9965226&atitle=Real-Time+Remote+Patient+Monitoring+and+Alarming+System+for+Noncommunicable+Lifestyle+Diseases&stitle=Int.+J.+Telemed.+Appl.&title=International+Journal+of+Telemedicine+and+Applications&volume=2023&issue=&spage=&epage=&aulast=Ko&aufirst=Htet+Yamin+Ko&auinit=H.Y.K.&aufull=Ko+H.Y.K.&coden=&isbn=&pages=-&date=2023&auinit1=H&auinitm=Y.K.
+A1  - Ko, H.Y.K.
+A1  - Tripathi, N.K.
+A1  - Mozumder, C.
+A1  - Muengtaweepongsa, S.
+A1  - Pal, I.
+M1  - (Ko H.Y.K., htetyaminkokoedu@gmail.com; Tripathi N.K., nitinkt@ait.ac.th; Mozumder C., chitrini@ait.ac.th) Department of Information and Communication Technologies, School of Engineering and Technology, Asian Institute of Technology, Pathum Thani, Thailand
+M1  - (Muengtaweepongsa S., musombat@tu.ac.th) Center of Excellence in Stroke, Faculty of Medicine, Thammasat University, Pathum Thani, Thailand
+M1  - (Pal I., indrajit-pal@ait.ac.th) School of Environment, Resources and Development, Asian Institute of Technology, Pathum Thani, Thailand
+AD  - H.Y.K. Ko, Department of Information and Communication Technologies, School of Engineering and Technology, Asian Institute of Technology, Pathum Thani, Thailand
+T1  - Real-Time Remote Patient Monitoring and Alarming System for Noncommunicable Lifestyle Diseases
+LA  - English
+KW  - patient monitor
+KW  - real time tracking system
+KW  - sensor
+KW  - aged
+KW  - algorithm
+KW  - article
+KW  - classification algorithm
+KW  - cloud computing
+KW  - early warning score
+KW  - health care cost
+KW  - health service
+KW  - human
+KW  - learning algorithm
+KW  - lifestyle
+KW  - logistic regression analysis
+KW  - machine learning
+KW  - non communicable disease
+KW  - physician
+KW  - reaction time
+KW  - remote sensing
+KW  - resting heart rate
+KW  - scoring system
+KW  - telehealth
+KW  - telemedicine
+KW  - telemonitoring
+N2  - Telemedicine and remote patient monitoring (RPM) systems have been gaining interest and received adaptation in healthcare sectors since the COVID-19 pandemic due to their efficiency and capability to deliver timely healthcare services while containing COVID-19 transmission. These systems were developed using the latest technology in wireless sensors, medical devices, cloud computing, mobile computing, telecommunications, and machine learning technologies. In this article, a real-time remote patient monitoring system is proposed with an accessible, compact, accurate, and low-cost design. The implemented system is designed to an end-to-end communication interface between medical practitioners and patients. The objective of this study is to provide remote healthcare services to patients who need ongoing care or those who have been discharged from the hospital without affecting their daily routines. The developed monitoring system was then evaluated on 1177 records from MIMIC-III clinical dataset (aged between 19 and 99 years). The performance analysis of the proposed system achieved 88.7% accuracy in generating alerts with logistic regression classification algorithm. This result reflects positively on the quality and robustness of the proposed study. Since the processing time of the proposed system is less than 2 minutes, it can be stated that the system has a high computational speed and is convenient to use in real-time monitoring. Furthermore, the proposed system will fulfil to cover the lower doctor-to-patient ratio by monitoring patients from remote locations and aged people who reside in their residences.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 290
+SP  - 200
+EP  - 204
+SN  - 1879-8365
+JF  - Studies in health technology and informatics
+JO  - Stud Health Technol Inform
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L638198453&from=export
+U2  - L638198453
+C5  - 35673000
+DB  - Medline
+U3  - 2022-06-14
+U4  - 2022-06-15
+L2  - http://dx.doi.org/10.3233/SHTI220061
+DO  - 10.3233/SHTI220061
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=18798365&id=doi:10.3233%2FSHTI220061&atitle=Mobilemicroservices+Architecture+for+Remote+Monitoring+of+Patients%3A+A+Feasibility+Study&stitle=Stud+Health+Technol+Inform&title=Studies+in+health+technology+and+informatics&volume=290&issue=&spage=200&epage=204&aulast=Ruokolainen&aufirst=Jari&auinit=J.&aufull=Ruokolainen+J.&coden=&isbn=&pages=200-204&date=2022&auinit1=J&auinitm=
+A1  - Ruokolainen, J.
+A1  - Haladijan, J.
+A1  - Juutinen, M.
+A1  - Puustinen, J.
+A1  - Holm, A.
+A1  - Vehkaoja, A.
+A1  - Nieminen, H.
+M1  - (Ruokolainen J.; Puustinen J.) Satakunta Hospital District, Unit of Neurology, Sairaalantie 3, Pori, Finland
+M1  - (Ruokolainen J.; Juutinen M.; Vehkaoja A.; Nieminen H.) Faculty of Medicine and Health Technology, Tampere University, Korkeakoulunkatu 10, Tampere, Finland
+M1  - (Ruokolainen J.) Faculty of Industrial Engineering, Tampere University of Applied Sciences, Tampere, Finland
+M1  - (Haladijan J.) Technical University of Munich, Boltzmanstr 3, Munich, Germany
+M1  - (Holm A.) Faculty of Health and Welfare, Satakunta University of Applied Sciences, Satakunnankatu 23, Pori, Finland
+T1  - Mobilemicroservices Architecture for Remote Monitoring of Patients: A Feasibility Study
+LA  - English
+KW  - cloud computing
+KW  - feasibility study
+KW  - health care delivery
+KW  - human
+KW  - physiologic monitoring
+KW  - telemedicine
+N2  - Recent developments in smart mobile devices (SMDs), wearable sensors, the Internet, mobile networks, and computing power provide new healthcare opportunities that are not restricted geographically. This paper aims to introduce Mobilemicroservices Architecture (MMA) based on a study on architectures. In MMA, an HTTP-based Mobilemicroservivce (MM) is allocated to each SMD's sensor. The key benefits are extendibility, scalability, ease of use for the patient, security, and the possibility to collect raw data without the necessity to involve cloud services. Feasibility was investigated in a two-year project, where MMA-based solutions were used to collect motor function data from patients with Parkinson's disease. First, we collected motor function data from 98 patients and healthy controls during their visit to a clinic. Second, we monitored the same subjects in real-time for three days in their everyday living environment. These MMA applications represent HTTP-based business-logic computing in which the SMDs' resources are accessible globally.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2022
+VL  - 20
+IS  - 7
+SP  - 3790
+EP  - 3798
+SN  - 1303-5150
+JF  - NeuroQuantology
+JO  - NeuroQuantology
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2017760641&from=export
+U2  - L2017760641
+DB  - Embase
+U3  - 2022-08-25
+U4  - 2022-09-08
+L2  - http://dx.doi.org/10.14704/nq.2022.20.7.NQ33469
+DO  - 10.14704/nq.2022.20.7.NQ33469
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=13035150&id=doi:10.14704%2Fnq.2022.20.7.NQ33469&atitle=IOT+Based+Healthcare+Monitoring+System+for+Diabetes+Prediction+using+Extreme+Gradient+Boosting+Techniques&stitle=NeuroQuantology&title=NeuroQuantology&volume=20&issue=7&spage=3790&epage=3798&aulast=Ramyaveni&aufirst=T.&auinit=T.&aufull=Ramyaveni+T.&coden=&isbn=&pages=3790-3798&date=2022&auinit1=T&auinitm=
+A1  - Ramyaveni, T.
+A1  - Maniraj, V.
+M1  - (Ramyaveni T.; Maniraj V.) Department of Computer Science, A.V.V.M Sri Pushpam College (Autonomous) Poondi, Affiliated to Bharathidasan University, Tamil Nadu, Thanjavur, Tiruchirappalli, India
+T1  - IOT Based Healthcare Monitoring System for Diabetes Prediction using Extreme Gradient Boosting Techniques
+LA  - English
+KW  - blood glucose meter
+KW  - mobile application
+KW  - adult
+KW  - article
+KW  - artificial neural network
+KW  - Bayes theorem
+KW  - body weight loss
+KW  - computer model
+KW  - controlled study
+KW  - data mining
+KW  - decision tree
+KW  - diabetes mellitus
+KW  - diabetic patient
+KW  - diagnostic test accuracy study
+KW  - female
+KW  - glycemic index
+KW  - health care cost
+KW  - health care industry
+KW  - health service
+KW  - heart disease
+KW  - hospitalization
+KW  - human
+KW  - Internet
+KW  - internet of things
+KW  - learning algorithm
+KW  - machine learning
+KW  - male
+KW  - mathematical analysis
+KW  - mathematical model
+KW  - monitor
+KW  - non insulin dependent diabetes mellitus
+KW  - patient safety
+KW  - prediction
+KW  - quantitative structure activity relation
+KW  - receiver operating characteristic
+KW  - sensitivity and specificity
+KW  - sensor
+KW  - support vector machine
+N2  - Human health issues must be closely examined and addressed with proper medications. Chronic illnesses such as diabetes, heart disease (HD), cancer, and chronic respiratory disease are the main causes of death worldwide. The previous 10 years have seen a lot of research into healthcare services and their technology advancements. To be more specific, the Internet of Things (IoT) has showed promise in connecting a variety of medical devices, sensors, and healthcare specialists in order to provide high-quality medical treatment in a remote place. Patient safety has improved, healthcare expenses have decreased, healthcare services have become more accessible, and the healthcare industry's operational efficiency has increased. In this paper, a diabetic patient monitoring strategy is proposed that uses an IoT-based machine learning technique called eXtreme Gradient Boosting (XGB) to support in diabetes diagnosis and classification. A successful implementation of any classifier requires proper hyperparameter optimization. This work employed Bayesian optimization, which is a very effective method for hyper-parameter optimization, to optimize the hyper-parameters of XGBoost. The efficacy of the suggested method is assessed in terms of accuracy, specificity, sensitivity, and F1score. It outperforms better than the other existing algorithms.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 2021
+SP  - 144
+EP  - 147
+SN  - 2694-0604
+JF  - Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference
+JO  - Annu Int Conf IEEE Eng Med Biol Soc
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L636874537&from=export
+U2  - L636874537
+C5  - 34891258
+DB  - Medline
+U3  - 2022-01-17
+U4  - 2022-01-24
+L2  - http://dx.doi.org/10.1109/EMBC46164.2021.9631060
+DO  - 10.1109/EMBC46164.2021.9631060
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=26940604&id=doi:10.1109%2FEMBC46164.2021.9631060&atitle=Motion+Artifact+Resilient+SCG-based+Biometric+Authentication+Using+Machine+Learning&stitle=Annu+Int+Conf+IEEE+Eng+Med+Biol+Soc&title=Annual+International+Conference+of+the+IEEE+Engineering+in+Medicine+and+Biology+Society.+IEEE+Engineering+in+Medicine+and+Biology+Society.+Annual+International+Conference&volume=2021&issue=&spage=144&epage=147&aulast=Hsu&aufirst=Po-Ya&auinit=P.-Y.&aufull=Hsu+P.-Y.&coden=&isbn=&pages=144-147&date=2021&auinit1=P&auinitm=-Y
+A1  - Hsu, P.-Y.
+A1  - Hsu, P.-H.
+A1  - Lee, T.-H.
+A1  - Liu, H.-L.
+M1  - (Hsu P.-Y.; Hsu P.-H.; Lee T.-H.; Liu H.-L.)
+T1  - Motion Artifact Resilient SCG-based Biometric Authentication Using Machine Learning
+LA  - English
+KW  - artifact
+KW  - biometry
+KW  - human
+KW  - machine learning
+KW  - motion
+KW  - privacy
+KW  - young adult
+N2  - On account of privacy preserving issue and health-care monitoring, physiological signal biometric authentication system has gained popularity in recent years. Seismocardiogram (SCG) is now easily accessible owing to the advance of wearable sensor technology. However, SCG biometric has not been widely explored due to the challenging motion artifact removal. In this paper, we design placing the sensors at different body parts under different activities to determine the best sensor location. In addition, we develop SCG noise removal algorithm and utilize machine learning approach to perform biometric authentication tasks. We validate the proposed methods on 20 healthy young adults. The dataset contains acceleration data of sitting, standing, walking, and sitting post-exercise activities with the sensor placed at the wrists, neck, heart and sternum. We demonstrate that vertical and dorsal-ventral SCG near the heart and the sternum produce reliable SCG biometric evidenced by achieving the state-of-the-art performance. Moreover, we present the efficacy of the devised noise removal procedure in the authentication during walking motion.Clinical relevance- A seismocardiography-based biometric authentication system can help serve privacy preserving and reveal cardiovascular functioning information in clinics.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2021
+VL  - 25
+IS  - 4
+SP  - 1247
+EP  - 1256
+SN  - 2168-2208
+SN  - 2168-2194
+JF  - IEEE Journal of Biomedical and Health Informatics
+JO  - IEEE J. Biomedical Health Informat.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L634744097&from=export
+U2  - L634744097
+C5  - 32750977
+DB  - Embase
+DB  - Medline
+U3  - 2021-08-10
+U4  - 2022-04-15
+L2  - http://dx.doi.org/10.1109/JBHI.2020.3012621
+DO  - 10.1109/JBHI.2020.3012621
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=21682208&id=doi:10.1109%2FJBHI.2020.3012621&atitle=A+home+telemedicine+system+for+continuous+respiratory+monitoring&stitle=IEEE+J.+Biomedical+Health+Informat.&title=IEEE+Journal+of+Biomedical+and+Health+Informatics&volume=25&issue=4&spage=1247&epage=1256&aulast=Angelucci&aufirst=Alessandra&auinit=A.&aufull=Angelucci+A.&coden=ITIBF&isbn=&pages=1247-1256&date=2021&auinit1=A&auinitm=
+A1  - Angelucci, A.
+A1  - Kuller, D.
+A1  - Aliverti, A.
+M1  - (Angelucci A., alessandra.angelucci@polimi.it; Aliverti A., andrea.aliverti@polimi.it) Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milano, Italy
+M1  - (Kuller D., david.kuller@gmail.com) MYAIR Inc., Boston, MA, United States
+AD  - A. Angelucci, Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milano, Italy
+T1  - A home telemedicine system for continuous respiratory monitoring
+LA  - English
+KW  - accelerometer
+KW  - Airgo
+KW  - elastomeric respirator
+KW  - gas flow and pressure analyzers and regulators
+KW  - microprocessor
+KW  - motion analysis system
+KW  - motion sensor
+KW  - pulse oximeter
+KW  - SAT-300
+KW  - sensor
+KW  - smartphone
+KW  - spirometer
+KW  - uHoo
+KW  - carbon dioxide
+KW  - carbon monoxide
+KW  - nitrogen dioxide
+KW  - ozone
+KW  - volatile organic compound
+KW  - adult
+KW  - aged
+KW  - air pollution
+KW  - air quality
+KW  - article
+KW  - breathing pattern
+KW  - breathing rate
+KW  - chronic respiratory tract disease
+KW  - controlled study
+KW  - dyspnea
+KW  - economic development
+KW  - environmental monitoring
+KW  - environmental parameters
+KW  - expiratory flow rate
+KW  - female
+KW  - forced vital capacity
+KW  - heart rate
+KW  - human
+KW  - human experiment
+KW  - inspiratory capacity
+KW  - lung minute volume
+KW  - lung volume
+KW  - male
+KW  - normal human
+KW  - oxygen concentration
+KW  - oxygen saturation
+KW  - particulate matter
+KW  - peak expiratory flow
+KW  - peak inspiratory flow
+KW  - plethysmography
+KW  - pressure
+KW  - pulse oximetry
+KW  - questionnaire
+KW  - relative humidity
+KW  - seasonal variation
+KW  - stair climbing
+KW  - telecommunication
+KW  - telemedicine
+KW  - telemonitoring
+KW  - temperature
+KW  - tidal volume
+KW  - uroflowmetry
+KW  - visual feedback
+KW  - walking
+KW  - Airgo
+KW  - SAT-300
+KW  - uHoo
+C3  - Airgo
+C3  - SAT-300
+C3  - uHoo
+C4  - Myairgo(Italy)
+N2  - This article presents a continuous home telemonitoring system for chronic respiratory patients using 5G connectivity developed in partnership with Vodafone as a part of the 5G Trial in Milan established by the Italian Ministry of Economic Development. The system features a wearable respiratory and activity monitor, an environmental sensor and a pulse oximeter sending the data through a 5G router to a Multi-Edge Computing server, incorporated in the Vodafone 5G infrastructure, where they are stored and accessible for visualization. In particular, activity, respiratory and environmental data are continuously streamed and collected. The solution has been tested on 18 healthy volunteers during non-supervised recordings lasting at least 48 hours. The combination of recognized activities and associated respiratory parameters provided statistically significant variations in breathing patterns between one activity and the other, thus giving more complete information to the clinicians than previously studied telemedicine systems based on spot-checks. In particular, statistically significant differences are found in tidal volume and minute ventilation between horizontal and vertical postures (p < 0.001) and between vertical postures and dynamic activities (p < 0.001); the respiratory rate shows statistically significant differences between horizontal and vertical postures (p < 0.001). Some environmental parameters have different mean values between day and night, such as carbon dioxide (p < 0.001). Trials on patients are needed to further study this telemedicine solution and make it commercially available in the future. The main further technical development suggested is the use of commercial 5G smartphones as routers, in order to make the system usable outside of home settings.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 109
+SN  - 1532-0464
+JF  - Journal of Biomedical Informatics
+JO  - J. Biomed. Informatics
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007332624&from=export
+U2  - L2007332624
+C5  - 32745621
+DB  - Embase
+DB  - Medline
+U3  - 2020-08-07
+U4  - 2020-09-08
+L2  - http://dx.doi.org/10.1016/j.jbi.2020.103521
+DO  - 10.1016/j.jbi.2020.103521
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=15320464&id=doi:10.1016%2Fj.jbi.2020.103521&atitle=A+novel+gateway-based+solution+for+remote+elderly+monitoring&stitle=J.+Biomed.+Informatics&title=Journal+of+Biomedical+Informatics&volume=109&issue=&spage=&epage=&aulast=Boukhennoufa&aufirst=Issam&auinit=I.&aufull=Boukhennoufa+I.&coden=JBIOB&isbn=&pages=-&date=2020&auinit1=I&auinitm=
+A1  - Boukhennoufa, I.
+A1  - Amira, A.
+A1  - Bensaali, F.
+A1  - Soheilian Esfahani, S.
+M1  - (Boukhennoufa I., issam.b@qu.edu.qa; Bensaali F., f.bensaali@qu.edu.qa; Soheilian Esfahani S., sahar.esfahani@qu.edu.qa) College of Engineering, Qatar University, Doha, Qatar
+M1  - (Amira A., abbes.amira@dmu.ac.uk) Institute of Artificial Intelligence, De Montfort University, Leicester, United Kingdom
+AD  - F. Bensaali, College of Engineering, Qatar University, Doha, Qatar
+T1  - A novel gateway-based solution for remote elderly monitoring
+LA  - English
+KW  - accelerometer
+KW  - body area network
+KW  - microelectromechanical system
+KW  - mobile health application
+KW  - sensor
+KW  - smartphone
+KW  - wearable computer
+KW  - article
+KW  - cloud computing
+KW  - elderly care
+KW  - electrocardiogram
+KW  - falling
+KW  - heart rate
+KW  - human
+KW  - information processing
+KW  - internet of things
+KW  - priority journal
+KW  - remote sensing
+KW  - signal processing
+KW  - software
+KW  - telemonitoring
+N2  - Internet of Things (IoT) technologies have been applied to various fields such as manufacturing, automobile industry and healthcare. IoT-based healthcare has a significant impact on real-time remote monitoring of patients’ health and consequently improving treatments and reducing healthcare costs. In fact, IoT has made healthcare more reliable, efficient, and accessible. Two major drawbacks which IoT suffers from can be expressed as: first, the limited battery capacity of the sensors is quickly depleted due to the continuous stream of data; second, the dependence of the system on the cloud for computations and processing causes latency in data transmission which is not accepted in real-time monitoring applications. This research is conducted to develop a real-time, secure, and energy-efficient platform which provides a solution for reducing computation load on the cloud and diminishing data transmission delay. In the proposed platform, the sensors utilize a state-of-the-art power saving technique known as Compressive Sensing (CS). CS allows sensors to retrieve the sensed data using fewer measurements by sending a compressed signal. In this framework, the signal reconstruction and processing are computed locally on a Heterogeneous Multicore Platform (HMP) device to decrease the dependency on the cloud. In addition, a framework has been implemented to control the system, set different parameters, display the data as well as send live notifications to medical experts through the cloud in order to alert them of any eventual hazardous event or abnormality and allow quick interventions. Finally, a case study of the system is presented demonstrating the acquisition and monitoring of the data for a given subject in real-time. The obtained results reveal that the proposed solution reduces 15.4% of energy consumption in sensors, that makes this prototype a good candidate for IoT employment in healthcare.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 7
+IS  - 6
+SP  - 1775
+EP  - 1784
+SN  - 2515-8260
+JF  - European Journal of Molecular and Clinical Medicine
+JO  - Eur. J. Mol. Clin. Med.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2010507836&from=export
+U2  - L2010507836
+DB  - Embase
+U3  - 2021-01-04
+U4  - 2021-01-22
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=25158260&id=doi:&atitle=Cloud+based+secured+health+care+monitoring+with+prompt+notification+using+connected+devices&stitle=Eur.+J.+Mol.+Clin.+Med.&title=European+Journal+of+Molecular+and+Clinical+Medicine&volume=7&issue=6&spage=1775&epage=1784&aulast=Hemalatha&aufirst=M.&auinit=M.&aufull=Hemalatha+M.&coden=&isbn=&pages=1775-1784&date=2020&auinit1=M&auinitm=
+A1  - Hemalatha, M.
+A1  - Malini, V.
+A1  - Thamilselvi, C.P.
+A1  - Pushpalakshmi, R.
+A1  - Ganesh, R.
+M1  - (Hemalatha M., hemalatha.eee@sairam.edu.in; Malini V., malini.eee@sairam.edu.in; Ganesh R., e7ee003@sairamtap.edu.in) Department of EEE, Sri Sairam Engineering College, Chennai, Tamilnadu, India
+M1  - (Thamilselvi C.P., cpthamil.selvi72@gmail.com) HOD, Department of CSE, Sri Ranganathar Institute of engineering and technology, Athipalayam, Coimbatore, Tamilnadu, India
+M1  - (Pushpalakshmi R., push@psnacet.edu.in) Department of information technology, PSNA College of engineering and technology, Dindigul, Tamilnadu, India
+T1  - Cloud based secured health care monitoring with prompt notification using connected devices
+LA  - English
+KW  - biosensor
+KW  - blood pressure monitor
+KW  - thermal sensor
+KW  - article
+KW  - cloud computing
+KW  - data base
+KW  - health care management
+KW  - human
+KW  - internet of things
+KW  - patient monitoring
+KW  - wireless communication
+N2  - This project describes about the wireless health monitoring of the patient using the smart sensors and spending low power in transmitting the data which will improve the quality of the treatment by giving the prompt response, the cloud access helps to monitor the patient status from any part of the world. Internet Of Things(IOT) becoming one of the most adaptable feature for accessing the data from any parts of the world, here we are getting the patient data’s using the various sensor and these values are updated and stored in the cloud using the IOT module, the IOT module which we are using here has an built in cloud server link whenever a data is sent from the controller using serial communication is directly updated and stored in the unique cloud, using SDN (Software Defined Network) architecture the system becomes flexible and readily accessible to the end user irrespective to the network traffic, the SDN architecture and flow is defined in the Losant cloud platform, the numerous data which are generated from the bio-sensors is managed using the fog-computing on cloud computing, since the fog-computing consists of two plane, the control plane is used to give alert to the care taker/doctor during abnormal condition based on the collected values, the collected sensor values are stored and maintained in the data plane. so that the care taker or the doctor can access that data from any part of the world using that fog computing concept through android application which enriches the quality of service, by viewing the data,one can easily follow the accurate status of the patient and the treatment can be done promptly.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 2020
+SP  - 5773
+EP  - 5776
+SN  - 2694-0604
+JF  - Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference
+JO  - Annu Int Conf IEEE Eng Med Biol Soc
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L633828219&from=export
+U2  - L633828219
+C5  - 33019286
+DB  - Medline
+U4  - 2021-01-08
+L2  - http://dx.doi.org/10.1109/EMBC44109.2020.9175742
+DO  - 10.1109/EMBC44109.2020.9175742
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=26940604&id=doi:10.1109%2FEMBC44109.2020.9175742&atitle=DoMoMEA%3A+a+Home-Based+Telerehabilitation+System+for+Stroke+Patients&stitle=Annu+Int+Conf+IEEE+Eng+Med+Biol+Soc&title=Annual+International+Conference+of+the+IEEE+Engineering+in+Medicine+and+Biology+Society.+IEEE+Engineering+in+Medicine+and+Biology+Society.+Annual+International+Conference&volume=2020&issue=&spage=5773&epage=5776&aulast=Zedda&aufirst=A.&auinit=A.&aufull=Zedda+A.&coden=&isbn=&pages=5773-5776&date=2020&auinit1=A&auinitm=
+A1  - Zedda, A.
+A1  - Gusai, E.
+A1  - Caruso, M.
+A1  - Bertuletti, S.
+A1  - Baldazzi, G.
+A1  - Spanu, S.
+A1  - Riboni, D.
+A1  - Pibiri, A.
+A1  - Monticone, M.
+A1  - Cereatti, A.
+A1  - Pani, D.
+M1  - (Zedda A.; Gusai E.; Caruso M.; Bertuletti S.; Baldazzi G.; Spanu S.; Riboni D.; Pibiri A.; Monticone M.; Cereatti A.; Pani D.)
+T1  - DoMoMEA: a Home-Based Telerehabilitation System for Stroke Patients
+LA  - English
+KW  - Betacoronavirus
+KW  - cerebrovascular accident
+KW  - Coronavirus infection
+KW  - human
+KW  - pandemic
+KW  - stroke rehabilitation
+KW  - telerehabilitation
+KW  - virus pneumonia
+N2  - After a cerebral stroke, survivors need to follow a neurorehabilitation program including exercises to be executed under a therapist's supervision or autonomously. Technological solutions are needed to support the early discharge of the patients just after the primary hospital treatments, by still providing an adequate level of rehabilitation. The DoMoMEA Project proposes a fully-wearable m-health solution able to administer a neurorehabilitation therapy in the patient's home or every other place established by the patient for a rehabilitation session. The exploitation of magneto-inertial measurement units only, wirelessly connected to an Android-operated device, provides robustness to different operating conditions and immunity to optical occlusion problems, compared to RGB-D cameras. Patients' engagement is fostered by the exploitation of the exergame version of the ten rehabilitation exercises, implemented in Unity 3D. Store-and-forward telemonitoring features, supported by cloud-based storage and by a web application accessible from anywhere by medical personnel and patients, enable constant transparent monitoring of the rehabilitation progresses. The clinical trial of the DoMoMEA telerehabilitation system will involve 40 post-stroke patients with mild impairment and will start as soon as the restrictions due to the COVID-19 pandemic will allow to enroll patients.
+ER  - 
+
+TY  - JOUR
+M3  - Article
+Y1  - 2020
+VL  - 24
+IS  - 1
+SP  - 268
+EP  - 279
+SN  - 2168-2208
+SN  - 2168-2194
+JF  - IEEE Journal of Biomedical and Health Informatics
+JO  - IEEE J. Biomedical Health Informat.
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L630526197&from=export
+U2  - L630526197
+C5  - 30794191
+DB  - Embase
+DB  - Medline
+U3  - 2020-01-20
+U4  - 2022-04-15
+L2  - http://dx.doi.org/10.1109/JBHI.2019.2894552
+DO  - 10.1109/JBHI.2019.2894552
+LK  - https://unimib.on.worldcat.org/atoztitles/link?sid=EMBASE&sid=EMBASE&issn=21682208&id=doi:10.1109%2FJBHI.2019.2894552&atitle=Design+and+Usability+Assessment+of+a+Multi-Device+SOA-Based+Telecare+Framework+for+the+Elderly&stitle=IEEE+J.+Biomedical+Health+Informat.&title=IEEE+Journal+of+Biomedical+and+Health+Informatics&volume=24&issue=1&spage=268&epage=279&aulast=MacIs&aufirst=Silvia&auinit=S.&aufull=MacIs+S.&coden=ITIBF&isbn=&pages=268-279&date=2020&auinit1=S&auinitm=
+A1  - MacIs, S.
+A1  - Loi, D.
+A1  - Ulgheri, A.
+A1  - Pani, D.
+A1  - Solinas, G.
+A1  - La Manna, S.
+A1  - Cestone, V.
+A1  - Guerri, D.
+A1  - Raffo, L.
+M1  - (MacIs S., silvi.macis@gmail.com; Loi D., daniela.loi@diee.unica.it; Ulgheri A., andreaulgheri@tiscali.it; Pani D., pani@diee.unica.it; Raffo L., luigi@diee.unica.it) Department of Electrical and Electronic Engineering, University of Cagliari, Cagliari, Italy
+M1  - (MacIs S., silvi.macis@gmail.com; Ulgheri A., andreaulgheri@tiscali.it) Lifely Srl, Cagliari, Italy
+M1  - (Solinas G., gsolinas@uniss.it) Laboratory of Biostatistics, Department of Biomedical Sciences, University of Sassari, Sassari, Italy
+M1  - (La Manna S., serena.lamanna@dedalus.eu; Cestone V., vincenzo.cestone@dedalus.eu; Guerri D., davide.guerri@dedalus.eu) Dedalus SpA, Firenze, Italy
+AD  - D. Pani, Department of Electrical and Electronic Engineering, University of Cagliari, Cagliari, Italy
+T1  - Design and Usability Assessment of a Multi-Device SOA-Based Telecare Framework for the Elderly
+LA  - English
+KW  - blood glucose meter
+KW  - bluetooth sphygmomanometer
+KW  - medical device
+KW  - mobile phone
+KW  - multimedia
+KW  - sphygmomanometer
+KW  - television
+KW  - adult
+KW  - aged
+KW  - architecture
+KW  - article
+KW  - blood pressure
+KW  - caregiver
+KW  - communication software
+KW  - diffusion
+KW  - extensible access control markup language
+KW  - female
+KW  - general practitioner
+KW  - human
+KW  - information technology
+KW  - Internet
+KW  - ischemic heart disease
+KW  - longitudinal study
+KW  - male
+KW  - markup language
+KW  - medical ethics
+KW  - mobile application
+KW  - non insulin dependent diabetes mellitus
+KW  - nonverbal communication
+KW  - pilot study
+KW  - quality of life
+KW  - questionnaire
+KW  - telehealth
+KW  - telemonitoring
+KW  - wireless communication
+N2  - Telemonitoring is a branch of telehealth that aims at remotely monitoring vital signs, which is important for chronically ill patients and the elderly living alone. The available standalone devices and applications for the self-monitoring of health parameters largely suffer from interoperability problems; meanwhile, telemonitoring medical devices are expensive, self-contained, and are not integrated into user-friendly technological platforms for the end user. This paper presents the technical aspects and usability assessment of the telemonitoring features of the HEREiAM platform, which supports heterogeneous information technology systems. By exploiting a service-oriented architecture, the measured parameters collected by off-the-shelf Bluetooth medical devices are sent as XML documents to a private cloud that implements an interoperable health service infrastructure, which is compliant with the most recent healthcare standards and security protocols. This Android-based system is designed to be accessible both via TV and portable devices, and includes other utilities designed to support the elderly living alone. Four usability assessment sessions with quality-validated questionnaires were performed to accurately understand the ease of use, usefulness, acceptance, and quality of the proposed system. The results reveal that our system achieved very high usability scores even at its first use, and the scores did not significantly change over time during a field trial that lasted for four months, reinforcing the idea of an intuitive design. At the end of such a trial, the user-experience questionnaire achieved excellent scores in all aspects with respect to the benchmark. Good results were also reported by general practitioners who assessed the quality of their remote interfaces for telemonitoring.
+ER  - 
+
