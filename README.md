@@ -247,7 +247,7 @@ The screening process was conducted according to PRISMA principles and included 
 
 #### 4. **Deduplication Process**
 
-**TODO**
+We used [Mendeley Reference Manager](https://www.mendeley.com/) to deduplicate records.
 
 #### 5. **PRISMA Compliance**
 This systematic review follows the PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines to ensure transparency and rigor in the review process. A PRISMA flow diagram documents the study selection process, including records retrieved, screened, and excluded.
