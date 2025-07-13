@@ -295,6 +295,9 @@ This systematic review follows the PRISMA 2020 (Preferred Reporting Items for Sy
   - Papers in languages other than English (unless translations were available).
   - Studies lacking sufficient information on technology, methodology, or implementation details.
 
+#### 8. **Quality Assessment and Risk of Bias**
+For the framework we deliberately chose [ROBIS](ROBIS.pdf), a tool that targets risk of bias in systematic literature reviews.
+
 #### 9. Expected Outcomes
 
 By synthesizing evidence on telemonitoring and wearable health technologies, we aim to:
